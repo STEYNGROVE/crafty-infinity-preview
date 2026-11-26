@@ -1,0 +1,385 @@
+{
+  "mode": "SIMULATION_ONLY",
+  "status": "PASS",
+  "monthlyOverheadAssumptionZAR": 35000,
+  "assumptions": [
+    [
+      "PIXELPUNK",
+      20,
+      3500,
+      1200
+    ],
+    [
+      "GPU_COMPUTE",
+      50,
+      800,
+      550
+    ],
+    [
+      "GHOSTMEDIA",
+      30,
+      1000,
+      400
+    ],
+    [
+      "MARKETPLACE",
+      100,
+      250,
+      150
+    ],
+    [
+      "ACADEMY",
+      100,
+      200,
+      60
+    ],
+    [
+      "MERCHANT",
+      50,
+      300,
+      120
+    ]
+  ],
+  "scenarios": [
+    {
+      "mode": "SIMULATION_ONLY",
+      "simulatedSales": 0,
+      "revenueCents": 0,
+      "directCostCents": 0,
+      "grossProfitCents": 0,
+      "overheadCents": 3500000,
+      "preTaxOperatingProfitCents": -3500000,
+      "simulatedTokenReceiptsRaw": 0,
+      "proposedBurnRaw": 0,
+      "illustrativeBuybackCeilingCents": 0,
+      "authorizedBuybackCents": 0,
+      "actualRevenueCents": 0,
+      "actualTokensBurned": 0,
+      "actualPayments": 0,
+      "services": [
+        {
+          "service": "PIXELPUNK",
+          "description": "Website development",
+          "simulatedSales": 0,
+          "revenueCents": 0,
+          "directCostCents": 0,
+          "grossProfitCents": 0
+        },
+        {
+          "service": "GPU_COMPUTE",
+          "description": "AI computing",
+          "simulatedSales": 0,
+          "revenueCents": 0,
+          "directCostCents": 0,
+          "grossProfitCents": 0
+        },
+        {
+          "service": "GHOSTMEDIA",
+          "description": "Media production",
+          "simulatedSales": 0,
+          "revenueCents": 0,
+          "directCostCents": 0,
+          "grossProfitCents": 0
+        },
+        {
+          "service": "MARKETPLACE",
+          "description": "Digital products",
+          "simulatedSales": 0,
+          "revenueCents": 0,
+          "directCostCents": 0,
+          "grossProfitCents": 0
+        },
+        {
+          "service": "ACADEMY",
+          "description": "Adult professional education",
+          "simulatedSales": 0,
+          "revenueCents": 0,
+          "directCostCents": 0,
+          "grossProfitCents": 0
+        },
+        {
+          "service": "MERCHANT",
+          "description": "Merchant services",
+          "simulatedSales": 0,
+          "revenueCents": 0,
+          "directCostCents": 0,
+          "grossProfitCents": 0
+        }
+      ],
+      "scenario": "Zero demand",
+      "volumePercent": 0
+    },
+    {
+      "mode": "SIMULATION_ONLY",
+      "simulatedSales": 86,
+      "revenueCents": 4895000,
+      "directCostCents": 2209000,
+      "grossProfitCents": 2686000,
+      "overheadCents": 3500000,
+      "preTaxOperatingProfitCents": -814000,
+      "simulatedTokenReceiptsRaw": 0,
+      "proposedBurnRaw": 0,
+      "illustrativeBuybackCeilingCents": 0,
+      "authorizedBuybackCents": 0,
+      "actualRevenueCents": 0,
+      "actualTokensBurned": 0,
+      "actualPayments": 0,
+      "services": [
+        {
+          "service": "PIXELPUNK",
+          "description": "Website development",
+          "simulatedSales": 5,
+          "revenueCents": 1750000,
+          "directCostCents": 600000,
+          "grossProfitCents": 1150000
+        },
+        {
+          "service": "GPU_COMPUTE",
+          "description": "AI computing",
+          "simulatedSales": 12,
+          "revenueCents": 960000,
+          "directCostCents": 660000,
+          "grossProfitCents": 300000
+        },
+        {
+          "service": "GHOSTMEDIA",
+          "description": "Media production",
+          "simulatedSales": 7,
+          "revenueCents": 700000,
+          "directCostCents": 280000,
+          "grossProfitCents": 420000
+        },
+        {
+          "service": "MARKETPLACE",
+          "description": "Digital products",
+          "simulatedSales": 25,
+          "revenueCents": 625000,
+          "directCostCents": 375000,
+          "grossProfitCents": 250000
+        },
+        {
+          "service": "ACADEMY",
+          "description": "Adult professional education",
+          "simulatedSales": 25,
+          "revenueCents": 500000,
+          "directCostCents": 150000,
+          "grossProfitCents": 350000
+        },
+        {
+          "service": "MERCHANT",
+          "description": "Merchant services",
+          "simulatedSales": 12,
+          "revenueCents": 360000,
+          "directCostCents": 144000,
+          "grossProfitCents": 216000
+        }
+      ],
+      "scenario": "Low adoption",
+      "volumePercent": 25
+    },
+    {
+      "mode": "SIMULATION_ONLY",
+      "simulatedSales": 175,
+      "revenueCents": 10000000,
+      "directCostCents": 4525000,
+      "grossProfitCents": 5475000,
+      "overheadCents": 3500000,
+      "preTaxOperatingProfitCents": 1975000,
+      "simulatedTokenReceiptsRaw": 0,
+      "proposedBurnRaw": 0,
+      "illustrativeBuybackCeilingCents": 98750,
+      "authorizedBuybackCents": 0,
+      "actualRevenueCents": 0,
+      "actualTokensBurned": 0,
+      "actualPayments": 0,
+      "services": [
+        {
+          "service": "PIXELPUNK",
+          "description": "Website development",
+          "simulatedSales": 10,
+          "revenueCents": 3500000,
+          "directCostCents": 1200000,
+          "grossProfitCents": 2300000
+        },
+        {
+          "service": "GPU_COMPUTE",
+          "description": "AI computing",
+          "simulatedSales": 25,
+          "revenueCents": 2000000,
+          "directCostCents": 1375000,
+          "grossProfitCents": 625000
+        },
+        {
+          "service": "GHOSTMEDIA",
+          "description": "Media production",
+          "simulatedSales": 15,
+          "revenueCents": 1500000,
+          "directCostCents": 600000,
+          "grossProfitCents": 900000
+        },
+        {
+          "service": "MARKETPLACE",
+          "description": "Digital products",
+          "simulatedSales": 50,
+          "revenueCents": 1250000,
+          "directCostCents": 750000,
+          "grossProfitCents": 500000
+        },
+        {
+          "service": "ACADEMY",
+          "description": "Adult professional education",
+          "simulatedSales": 50,
+          "revenueCents": 1000000,
+          "directCostCents": 300000,
+          "grossProfitCents": 700000
+        },
+        {
+          "service": "MERCHANT",
+          "description": "Merchant services",
+          "simulatedSales": 25,
+          "revenueCents": 750000,
+          "directCostCents": 300000,
+          "grossProfitCents": 450000
+        }
+      ],
+      "scenario": "Moderate adoption",
+      "volumePercent": 50
+    },
+    {
+      "mode": "SIMULATION_ONLY",
+      "simulatedSales": 350,
+      "revenueCents": 20000000,
+      "directCostCents": 9050000,
+      "grossProfitCents": 10950000,
+      "overheadCents": 3500000,
+      "preTaxOperatingProfitCents": 7450000,
+      "simulatedTokenReceiptsRaw": 0,
+      "proposedBurnRaw": 0,
+      "illustrativeBuybackCeilingCents": 372500,
+      "authorizedBuybackCents": 0,
+      "actualRevenueCents": 0,
+      "actualTokensBurned": 0,
+      "actualPayments": 0,
+      "services": [
+        {
+          "service": "PIXELPUNK",
+          "description": "Website development",
+          "simulatedSales": 20,
+          "revenueCents": 7000000,
+          "directCostCents": 2400000,
+          "grossProfitCents": 4600000
+        },
+        {
+          "service": "GPU_COMPUTE",
+          "description": "AI computing",
+          "simulatedSales": 50,
+          "revenueCents": 4000000,
+          "directCostCents": 2750000,
+          "grossProfitCents": 1250000
+        },
+        {
+          "service": "GHOSTMEDIA",
+          "description": "Media production",
+          "simulatedSales": 30,
+          "revenueCents": 3000000,
+          "directCostCents": 1200000,
+          "grossProfitCents": 1800000
+        },
+        {
+          "service": "MARKETPLACE",
+          "description": "Digital products",
+          "simulatedSales": 100,
+          "revenueCents": 2500000,
+          "directCostCents": 1500000,
+          "grossProfitCents": 1000000
+        },
+        {
+          "service": "ACADEMY",
+          "description": "Adult professional education",
+          "simulatedSales": 100,
+          "revenueCents": 2000000,
+          "directCostCents": 600000,
+          "grossProfitCents": 1400000
+        },
+        {
+          "service": "MERCHANT",
+          "description": "Merchant services",
+          "simulatedSales": 50,
+          "revenueCents": 1500000,
+          "directCostCents": 600000,
+          "grossProfitCents": 900000
+        }
+      ],
+      "scenario": "Target adoption",
+      "volumePercent": 100
+    },
+    {
+      "mode": "SIMULATION_ONLY",
+      "simulatedSales": 700,
+      "revenueCents": 40000000,
+      "directCostCents": 18100000,
+      "grossProfitCents": 21900000,
+      "overheadCents": 3500000,
+      "preTaxOperatingProfitCents": 18400000,
+      "simulatedTokenReceiptsRaw": 0,
+      "proposedBurnRaw": 0,
+      "illustrativeBuybackCeilingCents": 920000,
+      "authorizedBuybackCents": 0,
+      "actualRevenueCents": 0,
+      "actualTokensBurned": 0,
+      "actualPayments": 0,
+      "services": [
+        {
+          "service": "PIXELPUNK",
+          "description": "Website development",
+          "simulatedSales": 40,
+          "revenueCents": 14000000,
+          "directCostCents": 4800000,
+          "grossProfitCents": 9200000
+        },
+        {
+          "service": "GPU_COMPUTE",
+          "description": "AI computing",
+          "simulatedSales": 100,
+          "revenueCents": 8000000,
+          "directCostCents": 5500000,
+          "grossProfitCents": 2500000
+        },
+        {
+          "service": "GHOSTMEDIA",
+          "description": "Media production",
+          "simulatedSales": 60,
+          "revenueCents": 6000000,
+          "directCostCents": 2400000,
+          "grossProfitCents": 3600000
+        },
+        {
+          "service": "MARKETPLACE",
+          "description": "Digital products",
+          "simulatedSales": 200,
+          "revenueCents": 5000000,
+          "directCostCents": 3000000,
+          "grossProfitCents": 2000000
+        },
+        {
+          "service": "ACADEMY",
+          "description": "Adult professional education",
+          "simulatedSales": 200,
+          "revenueCents": 4000000,
+          "directCostCents": 1200000,
+          "grossProfitCents": 2800000
+        },
+        {
+          "service": "MERCHANT",
+          "description": "Merchant services",
+          "simulatedSales": 100,
+          "revenueCents": 3000000,
+          "directCostCents": 1200000,
+          "grossProfitCents": 1800000
+        }
+      ],
+      "scenario": "High adoption",
+      "volumePercent": 200
+    }
+  ]
+}

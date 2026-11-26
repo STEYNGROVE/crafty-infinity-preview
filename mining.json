@@ -1,0 +1,817 @@
+{
+  "mode": "SIMULATION_ONLY",
+  "categories": {
+    "COMPUTE": 100,
+    "CREATION": 100,
+    "KNOWLEDGE": 100,
+    "DEVELOPMENT": 150,
+    "SECURITY": 150,
+    "COMMERCE": 100,
+    "INNOVATION": 150
+  },
+  "maximumMiningReserveRaw": 350000000000000,
+  "actualTokensTransferred": 0,
+  "years": [
+    {
+      "year": 1,
+      "annualBudgetRaw": 21875000000000,
+      "maximumCumulativeReleaseRaw": 21875000000000,
+      "remainingReserveRaw": 328125000000000,
+      "difficulty100Users": 100,
+      "difficulty10000Users": 1000
+    },
+    {
+      "year": 2,
+      "annualBudgetRaw": 21875000000000,
+      "maximumCumulativeReleaseRaw": 43750000000000,
+      "remainingReserveRaw": 306250000000000,
+      "difficulty100Users": 105,
+      "difficulty10000Users": 1050
+    },
+    {
+      "year": 3,
+      "annualBudgetRaw": 21875000000000,
+      "maximumCumulativeReleaseRaw": 65625000000000,
+      "remainingReserveRaw": 284375000000000,
+      "difficulty100Users": 110,
+      "difficulty10000Users": 1100
+    },
+    {
+      "year": 4,
+      "annualBudgetRaw": 21875000000000,
+      "maximumCumulativeReleaseRaw": 87500000000000,
+      "remainingReserveRaw": 262500000000000,
+      "difficulty100Users": 115,
+      "difficulty10000Users": 1150
+    },
+    {
+      "year": 5,
+      "annualBudgetRaw": 21875000000000,
+      "maximumCumulativeReleaseRaw": 109375000000000,
+      "remainingReserveRaw": 240625000000000,
+      "difficulty100Users": 120,
+      "difficulty10000Users": 1200
+    },
+    {
+      "year": 6,
+      "annualBudgetRaw": 21875000000000,
+      "maximumCumulativeReleaseRaw": 131250000000000,
+      "remainingReserveRaw": 218750000000000,
+      "difficulty100Users": 125,
+      "difficulty10000Users": 1250
+    },
+    {
+      "year": 7,
+      "annualBudgetRaw": 21875000000000,
+      "maximumCumulativeReleaseRaw": 153125000000000,
+      "remainingReserveRaw": 196875000000000,
+      "difficulty100Users": 130,
+      "difficulty10000Users": 1300
+    },
+    {
+      "year": 8,
+      "annualBudgetRaw": 21875000000000,
+      "maximumCumulativeReleaseRaw": 175000000000000,
+      "remainingReserveRaw": 175000000000000,
+      "difficulty100Users": 135,
+      "difficulty10000Users": 1350
+    },
+    {
+      "year": 9,
+      "annualBudgetRaw": 10937500000000,
+      "maximumCumulativeReleaseRaw": 185937500000000,
+      "remainingReserveRaw": 164062500000000,
+      "difficulty100Users": 280,
+      "difficulty10000Users": 2800
+    },
+    {
+      "year": 10,
+      "annualBudgetRaw": 10937500000000,
+      "maximumCumulativeReleaseRaw": 196875000000000,
+      "remainingReserveRaw": 153125000000000,
+      "difficulty100Users": 290,
+      "difficulty10000Users": 2900
+    },
+    {
+      "year": 11,
+      "annualBudgetRaw": 10937500000000,
+      "maximumCumulativeReleaseRaw": 207812500000000,
+      "remainingReserveRaw": 142187500000000,
+      "difficulty100Users": 300,
+      "difficulty10000Users": 3000
+    },
+    {
+      "year": 12,
+      "annualBudgetRaw": 10937500000000,
+      "maximumCumulativeReleaseRaw": 218750000000000,
+      "remainingReserveRaw": 131250000000000,
+      "difficulty100Users": 310,
+      "difficulty10000Users": 3100
+    },
+    {
+      "year": 13,
+      "annualBudgetRaw": 10937500000000,
+      "maximumCumulativeReleaseRaw": 229687500000000,
+      "remainingReserveRaw": 120312500000000,
+      "difficulty100Users": 320,
+      "difficulty10000Users": 3200
+    },
+    {
+      "year": 14,
+      "annualBudgetRaw": 10937500000000,
+      "maximumCumulativeReleaseRaw": 240625000000000,
+      "remainingReserveRaw": 109375000000000,
+      "difficulty100Users": 330,
+      "difficulty10000Users": 3300
+    },
+    {
+      "year": 15,
+      "annualBudgetRaw": 10937500000000,
+      "maximumCumulativeReleaseRaw": 251562500000000,
+      "remainingReserveRaw": 98437500000000,
+      "difficulty100Users": 340,
+      "difficulty10000Users": 3400
+    },
+    {
+      "year": 16,
+      "annualBudgetRaw": 10937500000000,
+      "maximumCumulativeReleaseRaw": 262500000000000,
+      "remainingReserveRaw": 87500000000000,
+      "difficulty100Users": 350,
+      "difficulty10000Users": 3500
+    },
+    {
+      "year": 17,
+      "annualBudgetRaw": 5468750000000,
+      "maximumCumulativeReleaseRaw": 267968750000000,
+      "remainingReserveRaw": 82031250000000,
+      "difficulty100Users": 720,
+      "difficulty10000Users": 7200
+    },
+    {
+      "year": 18,
+      "annualBudgetRaw": 5468750000000,
+      "maximumCumulativeReleaseRaw": 273437500000000,
+      "remainingReserveRaw": 76562500000000,
+      "difficulty100Users": 740,
+      "difficulty10000Users": 7400
+    },
+    {
+      "year": 19,
+      "annualBudgetRaw": 5468750000000,
+      "maximumCumulativeReleaseRaw": 278906250000000,
+      "remainingReserveRaw": 71093750000000,
+      "difficulty100Users": 760,
+      "difficulty10000Users": 7600
+    },
+    {
+      "year": 20,
+      "annualBudgetRaw": 5468750000000,
+      "maximumCumulativeReleaseRaw": 284375000000000,
+      "remainingReserveRaw": 65625000000000,
+      "difficulty100Users": 780,
+      "difficulty10000Users": 7800
+    },
+    {
+      "year": 21,
+      "annualBudgetRaw": 5468750000000,
+      "maximumCumulativeReleaseRaw": 289843750000000,
+      "remainingReserveRaw": 60156250000000,
+      "difficulty100Users": 800,
+      "difficulty10000Users": 8000
+    },
+    {
+      "year": 22,
+      "annualBudgetRaw": 5468750000000,
+      "maximumCumulativeReleaseRaw": 295312500000000,
+      "remainingReserveRaw": 54687500000000,
+      "difficulty100Users": 820,
+      "difficulty10000Users": 8200
+    },
+    {
+      "year": 23,
+      "annualBudgetRaw": 5468750000000,
+      "maximumCumulativeReleaseRaw": 300781250000000,
+      "remainingReserveRaw": 49218750000000,
+      "difficulty100Users": 840,
+      "difficulty10000Users": 8400
+    },
+    {
+      "year": 24,
+      "annualBudgetRaw": 5468750000000,
+      "maximumCumulativeReleaseRaw": 306250000000000,
+      "remainingReserveRaw": 43750000000000,
+      "difficulty100Users": 860,
+      "difficulty10000Users": 8600
+    },
+    {
+      "year": 25,
+      "annualBudgetRaw": 2734375000000,
+      "maximumCumulativeReleaseRaw": 308984375000000,
+      "remainingReserveRaw": 41015625000000,
+      "difficulty100Users": 1760,
+      "difficulty10000Users": 17600
+    },
+    {
+      "year": 26,
+      "annualBudgetRaw": 2734375000000,
+      "maximumCumulativeReleaseRaw": 311718750000000,
+      "remainingReserveRaw": 38281250000000,
+      "difficulty100Users": 1800,
+      "difficulty10000Users": 18000
+    },
+    {
+      "year": 27,
+      "annualBudgetRaw": 2734375000000,
+      "maximumCumulativeReleaseRaw": 314453125000000,
+      "remainingReserveRaw": 35546875000000,
+      "difficulty100Users": 1840,
+      "difficulty10000Users": 18400
+    },
+    {
+      "year": 28,
+      "annualBudgetRaw": 2734375000000,
+      "maximumCumulativeReleaseRaw": 317187500000000,
+      "remainingReserveRaw": 32812500000000,
+      "difficulty100Users": 1880,
+      "difficulty10000Users": 18800
+    },
+    {
+      "year": 29,
+      "annualBudgetRaw": 2734375000000,
+      "maximumCumulativeReleaseRaw": 319921875000000,
+      "remainingReserveRaw": 30078125000000,
+      "difficulty100Users": 1920,
+      "difficulty10000Users": 19200
+    },
+    {
+      "year": 30,
+      "annualBudgetRaw": 2734375000000,
+      "maximumCumulativeReleaseRaw": 322656250000000,
+      "remainingReserveRaw": 27343750000000,
+      "difficulty100Users": 1960,
+      "difficulty10000Users": 19600
+    },
+    {
+      "year": 31,
+      "annualBudgetRaw": 2734375000000,
+      "maximumCumulativeReleaseRaw": 325390625000000,
+      "remainingReserveRaw": 24609375000000,
+      "difficulty100Users": 2000,
+      "difficulty10000Users": 20000
+    },
+    {
+      "year": 32,
+      "annualBudgetRaw": 2734375000000,
+      "maximumCumulativeReleaseRaw": 328125000000000,
+      "remainingReserveRaw": 21875000000000,
+      "difficulty100Users": 2040,
+      "difficulty10000Users": 20400
+    },
+    {
+      "year": 33,
+      "annualBudgetRaw": 1367187500000,
+      "maximumCumulativeReleaseRaw": 329492187500000,
+      "remainingReserveRaw": 20507812500000,
+      "difficulty100Users": 4160,
+      "difficulty10000Users": 41600
+    },
+    {
+      "year": 34,
+      "annualBudgetRaw": 1367187500000,
+      "maximumCumulativeReleaseRaw": 330859375000000,
+      "remainingReserveRaw": 19140625000000,
+      "difficulty100Users": 4240,
+      "difficulty10000Users": 42400
+    },
+    {
+      "year": 35,
+      "annualBudgetRaw": 1367187500000,
+      "maximumCumulativeReleaseRaw": 332226562500000,
+      "remainingReserveRaw": 17773437500000,
+      "difficulty100Users": 4320,
+      "difficulty10000Users": 43200
+    },
+    {
+      "year": 36,
+      "annualBudgetRaw": 1367187500000,
+      "maximumCumulativeReleaseRaw": 333593750000000,
+      "remainingReserveRaw": 16406250000000,
+      "difficulty100Users": 4400,
+      "difficulty10000Users": 44000
+    },
+    {
+      "year": 37,
+      "annualBudgetRaw": 1367187500000,
+      "maximumCumulativeReleaseRaw": 334960937500000,
+      "remainingReserveRaw": 15039062500000,
+      "difficulty100Users": 4480,
+      "difficulty10000Users": 44800
+    },
+    {
+      "year": 38,
+      "annualBudgetRaw": 1367187500000,
+      "maximumCumulativeReleaseRaw": 336328125000000,
+      "remainingReserveRaw": 13671875000000,
+      "difficulty100Users": 4560,
+      "difficulty10000Users": 45600
+    },
+    {
+      "year": 39,
+      "annualBudgetRaw": 1367187500000,
+      "maximumCumulativeReleaseRaw": 337695312500000,
+      "remainingReserveRaw": 12304687500000,
+      "difficulty100Users": 4640,
+      "difficulty10000Users": 46400
+    },
+    {
+      "year": 40,
+      "annualBudgetRaw": 1367187500000,
+      "maximumCumulativeReleaseRaw": 339062500000000,
+      "remainingReserveRaw": 10937500000000,
+      "difficulty100Users": 4720,
+      "difficulty10000Users": 47200
+    },
+    {
+      "year": 41,
+      "annualBudgetRaw": 683593750000,
+      "maximumCumulativeReleaseRaw": 339746093750000,
+      "remainingReserveRaw": 10253906250000,
+      "difficulty100Users": 9600,
+      "difficulty10000Users": 96000
+    },
+    {
+      "year": 42,
+      "annualBudgetRaw": 683593750000,
+      "maximumCumulativeReleaseRaw": 340429687500000,
+      "remainingReserveRaw": 9570312500000,
+      "difficulty100Users": 9760,
+      "difficulty10000Users": 97600
+    },
+    {
+      "year": 43,
+      "annualBudgetRaw": 683593750000,
+      "maximumCumulativeReleaseRaw": 341113281250000,
+      "remainingReserveRaw": 8886718750000,
+      "difficulty100Users": 9920,
+      "difficulty10000Users": 99200
+    },
+    {
+      "year": 44,
+      "annualBudgetRaw": 683593750000,
+      "maximumCumulativeReleaseRaw": 341796875000000,
+      "remainingReserveRaw": 8203125000000,
+      "difficulty100Users": 10080,
+      "difficulty10000Users": 100800
+    },
+    {
+      "year": 45,
+      "annualBudgetRaw": 683593750000,
+      "maximumCumulativeReleaseRaw": 342480468750000,
+      "remainingReserveRaw": 7519531250000,
+      "difficulty100Users": 10240,
+      "difficulty10000Users": 102400
+    },
+    {
+      "year": 46,
+      "annualBudgetRaw": 683593750000,
+      "maximumCumulativeReleaseRaw": 343164062500000,
+      "remainingReserveRaw": 6835937500000,
+      "difficulty100Users": 10400,
+      "difficulty10000Users": 104000
+    },
+    {
+      "year": 47,
+      "annualBudgetRaw": 683593750000,
+      "maximumCumulativeReleaseRaw": 343847656250000,
+      "remainingReserveRaw": 6152343750000,
+      "difficulty100Users": 10560,
+      "difficulty10000Users": 105600
+    },
+    {
+      "year": 48,
+      "annualBudgetRaw": 683593750000,
+      "maximumCumulativeReleaseRaw": 344531250000000,
+      "remainingReserveRaw": 5468750000000,
+      "difficulty100Users": 10720,
+      "difficulty10000Users": 107200
+    },
+    {
+      "year": 49,
+      "annualBudgetRaw": 341796875000,
+      "maximumCumulativeReleaseRaw": 344873046875000,
+      "remainingReserveRaw": 5126953125000,
+      "difficulty100Users": 21760,
+      "difficulty10000Users": 217600
+    },
+    {
+      "year": 50,
+      "annualBudgetRaw": 341796875000,
+      "maximumCumulativeReleaseRaw": 345214843750000,
+      "remainingReserveRaw": 4785156250000,
+      "difficulty100Users": 22080,
+      "difficulty10000Users": 220800
+    },
+    {
+      "year": 51,
+      "annualBudgetRaw": 341796875000,
+      "maximumCumulativeReleaseRaw": 345556640625000,
+      "remainingReserveRaw": 4443359375000,
+      "difficulty100Users": 22400,
+      "difficulty10000Users": 224000
+    },
+    {
+      "year": 52,
+      "annualBudgetRaw": 341796875000,
+      "maximumCumulativeReleaseRaw": 345898437500000,
+      "remainingReserveRaw": 4101562500000,
+      "difficulty100Users": 22720,
+      "difficulty10000Users": 227200
+    },
+    {
+      "year": 53,
+      "annualBudgetRaw": 341796875000,
+      "maximumCumulativeReleaseRaw": 346240234375000,
+      "remainingReserveRaw": 3759765625000,
+      "difficulty100Users": 23040,
+      "difficulty10000Users": 230400
+    },
+    {
+      "year": 54,
+      "annualBudgetRaw": 341796875000,
+      "maximumCumulativeReleaseRaw": 346582031250000,
+      "remainingReserveRaw": 3417968750000,
+      "difficulty100Users": 23360,
+      "difficulty10000Users": 233600
+    },
+    {
+      "year": 55,
+      "annualBudgetRaw": 341796875000,
+      "maximumCumulativeReleaseRaw": 346923828125000,
+      "remainingReserveRaw": 3076171875000,
+      "difficulty100Users": 23680,
+      "difficulty10000Users": 236800
+    },
+    {
+      "year": 56,
+      "annualBudgetRaw": 341796875000,
+      "maximumCumulativeReleaseRaw": 347265625000000,
+      "remainingReserveRaw": 2734375000000,
+      "difficulty100Users": 24000,
+      "difficulty10000Users": 240000
+    },
+    {
+      "year": 57,
+      "annualBudgetRaw": 170898437500,
+      "maximumCumulativeReleaseRaw": 347436523437500,
+      "remainingReserveRaw": 2563476562500,
+      "difficulty100Users": 48640,
+      "difficulty10000Users": 486400
+    },
+    {
+      "year": 58,
+      "annualBudgetRaw": 170898437500,
+      "maximumCumulativeReleaseRaw": 347607421875000,
+      "remainingReserveRaw": 2392578125000,
+      "difficulty100Users": 49280,
+      "difficulty10000Users": 492800
+    },
+    {
+      "year": 59,
+      "annualBudgetRaw": 170898437500,
+      "maximumCumulativeReleaseRaw": 347778320312500,
+      "remainingReserveRaw": 2221679687500,
+      "difficulty100Users": 49920,
+      "difficulty10000Users": 499200
+    },
+    {
+      "year": 60,
+      "annualBudgetRaw": 170898437500,
+      "maximumCumulativeReleaseRaw": 347949218750000,
+      "remainingReserveRaw": 2050781250000,
+      "difficulty100Users": 50560,
+      "difficulty10000Users": 505600
+    },
+    {
+      "year": 61,
+      "annualBudgetRaw": 170898437500,
+      "maximumCumulativeReleaseRaw": 348120117187500,
+      "remainingReserveRaw": 1879882812500,
+      "difficulty100Users": 51200,
+      "difficulty10000Users": 512000
+    },
+    {
+      "year": 62,
+      "annualBudgetRaw": 170898437500,
+      "maximumCumulativeReleaseRaw": 348291015625000,
+      "remainingReserveRaw": 1708984375000,
+      "difficulty100Users": 51840,
+      "difficulty10000Users": 518400
+    },
+    {
+      "year": 63,
+      "annualBudgetRaw": 170898437500,
+      "maximumCumulativeReleaseRaw": 348461914062500,
+      "remainingReserveRaw": 1538085937500,
+      "difficulty100Users": 52480,
+      "difficulty10000Users": 524800
+    },
+    {
+      "year": 64,
+      "annualBudgetRaw": 170898437500,
+      "maximumCumulativeReleaseRaw": 348632812500000,
+      "remainingReserveRaw": 1367187500000,
+      "difficulty100Users": 53120,
+      "difficulty10000Users": 531200
+    },
+    {
+      "year": 65,
+      "annualBudgetRaw": 85449218750,
+      "maximumCumulativeReleaseRaw": 348718261718750,
+      "remainingReserveRaw": 1281738281250,
+      "difficulty100Users": 107520,
+      "difficulty10000Users": 1075200
+    },
+    {
+      "year": 66,
+      "annualBudgetRaw": 85449218750,
+      "maximumCumulativeReleaseRaw": 348803710937500,
+      "remainingReserveRaw": 1196289062500,
+      "difficulty100Users": 108800,
+      "difficulty10000Users": 1088000
+    },
+    {
+      "year": 67,
+      "annualBudgetRaw": 85449218750,
+      "maximumCumulativeReleaseRaw": 348889160156250,
+      "remainingReserveRaw": 1110839843750,
+      "difficulty100Users": 110080,
+      "difficulty10000Users": 1100800
+    },
+    {
+      "year": 68,
+      "annualBudgetRaw": 85449218750,
+      "maximumCumulativeReleaseRaw": 348974609375000,
+      "remainingReserveRaw": 1025390625000,
+      "difficulty100Users": 111360,
+      "difficulty10000Users": 1113600
+    },
+    {
+      "year": 69,
+      "annualBudgetRaw": 85449218750,
+      "maximumCumulativeReleaseRaw": 349060058593750,
+      "remainingReserveRaw": 939941406250,
+      "difficulty100Users": 112640,
+      "difficulty10000Users": 1126400
+    },
+    {
+      "year": 70,
+      "annualBudgetRaw": 85449218750,
+      "maximumCumulativeReleaseRaw": 349145507812500,
+      "remainingReserveRaw": 854492187500,
+      "difficulty100Users": 113920,
+      "difficulty10000Users": 1139200
+    },
+    {
+      "year": 71,
+      "annualBudgetRaw": 85449218750,
+      "maximumCumulativeReleaseRaw": 349230957031250,
+      "remainingReserveRaw": 769042968750,
+      "difficulty100Users": 115200,
+      "difficulty10000Users": 1152000
+    },
+    {
+      "year": 72,
+      "annualBudgetRaw": 85449218750,
+      "maximumCumulativeReleaseRaw": 349316406250000,
+      "remainingReserveRaw": 683593750000,
+      "difficulty100Users": 116480,
+      "difficulty10000Users": 1164800
+    },
+    {
+      "year": 73,
+      "annualBudgetRaw": 42724609375,
+      "maximumCumulativeReleaseRaw": 349359130859375,
+      "remainingReserveRaw": 640869140625,
+      "difficulty100Users": 235520,
+      "difficulty10000Users": 2355200
+    },
+    {
+      "year": 74,
+      "annualBudgetRaw": 42724609375,
+      "maximumCumulativeReleaseRaw": 349401855468750,
+      "remainingReserveRaw": 598144531250,
+      "difficulty100Users": 238080,
+      "difficulty10000Users": 2380800
+    },
+    {
+      "year": 75,
+      "annualBudgetRaw": 42724609375,
+      "maximumCumulativeReleaseRaw": 349444580078125,
+      "remainingReserveRaw": 555419921875,
+      "difficulty100Users": 240640,
+      "difficulty10000Users": 2406400
+    },
+    {
+      "year": 76,
+      "annualBudgetRaw": 42724609375,
+      "maximumCumulativeReleaseRaw": 349487304687500,
+      "remainingReserveRaw": 512695312500,
+      "difficulty100Users": 243200,
+      "difficulty10000Users": 2432000
+    },
+    {
+      "year": 77,
+      "annualBudgetRaw": 42724609375,
+      "maximumCumulativeReleaseRaw": 349530029296875,
+      "remainingReserveRaw": 469970703125,
+      "difficulty100Users": 245760,
+      "difficulty10000Users": 2457600
+    },
+    {
+      "year": 78,
+      "annualBudgetRaw": 42724609375,
+      "maximumCumulativeReleaseRaw": 349572753906250,
+      "remainingReserveRaw": 427246093750,
+      "difficulty100Users": 248320,
+      "difficulty10000Users": 2483200
+    },
+    {
+      "year": 79,
+      "annualBudgetRaw": 42724609375,
+      "maximumCumulativeReleaseRaw": 349615478515625,
+      "remainingReserveRaw": 384521484375,
+      "difficulty100Users": 250880,
+      "difficulty10000Users": 2508800
+    },
+    {
+      "year": 80,
+      "annualBudgetRaw": 42724609375,
+      "maximumCumulativeReleaseRaw": 349658203125000,
+      "remainingReserveRaw": 341796875000,
+      "difficulty100Users": 253440,
+      "difficulty10000Users": 2534400
+    },
+    {
+      "year": 81,
+      "annualBudgetRaw": 21362304687,
+      "maximumCumulativeReleaseRaw": 349679565429687,
+      "remainingReserveRaw": 320434570313,
+      "difficulty100Users": 512000,
+      "difficulty10000Users": 5120000
+    },
+    {
+      "year": 82,
+      "annualBudgetRaw": 21362304687,
+      "maximumCumulativeReleaseRaw": 349700927734374,
+      "remainingReserveRaw": 299072265626,
+      "difficulty100Users": 517120,
+      "difficulty10000Users": 5171200
+    },
+    {
+      "year": 83,
+      "annualBudgetRaw": 21362304687,
+      "maximumCumulativeReleaseRaw": 349722290039061,
+      "remainingReserveRaw": 277709960939,
+      "difficulty100Users": 522240,
+      "difficulty10000Users": 5222400
+    },
+    {
+      "year": 84,
+      "annualBudgetRaw": 21362304687,
+      "maximumCumulativeReleaseRaw": 349743652343748,
+      "remainingReserveRaw": 256347656252,
+      "difficulty100Users": 527360,
+      "difficulty10000Users": 5273600
+    },
+    {
+      "year": 85,
+      "annualBudgetRaw": 21362304687,
+      "maximumCumulativeReleaseRaw": 349765014648435,
+      "remainingReserveRaw": 234985351565,
+      "difficulty100Users": 532480,
+      "difficulty10000Users": 5324800
+    },
+    {
+      "year": 86,
+      "annualBudgetRaw": 21362304687,
+      "maximumCumulativeReleaseRaw": 349786376953122,
+      "remainingReserveRaw": 213623046878,
+      "difficulty100Users": 537600,
+      "difficulty10000Users": 5376000
+    },
+    {
+      "year": 87,
+      "annualBudgetRaw": 21362304687,
+      "maximumCumulativeReleaseRaw": 349807739257809,
+      "remainingReserveRaw": 192260742191,
+      "difficulty100Users": 542720,
+      "difficulty10000Users": 5427200
+    },
+    {
+      "year": 88,
+      "annualBudgetRaw": 21362304687,
+      "maximumCumulativeReleaseRaw": 349829101562496,
+      "remainingReserveRaw": 170898437504,
+      "difficulty100Users": 547840,
+      "difficulty10000Users": 5478400
+    },
+    {
+      "year": 89,
+      "annualBudgetRaw": 10681152343,
+      "maximumCumulativeReleaseRaw": 349839782714839,
+      "remainingReserveRaw": 160217285161,
+      "difficulty100Users": 1105920,
+      "difficulty10000Users": 11059200
+    },
+    {
+      "year": 90,
+      "annualBudgetRaw": 10681152343,
+      "maximumCumulativeReleaseRaw": 349850463867182,
+      "remainingReserveRaw": 149536132818,
+      "difficulty100Users": 1116160,
+      "difficulty10000Users": 11161600
+    },
+    {
+      "year": 91,
+      "annualBudgetRaw": 10681152343,
+      "maximumCumulativeReleaseRaw": 349861145019525,
+      "remainingReserveRaw": 138854980475,
+      "difficulty100Users": 1126400,
+      "difficulty10000Users": 11264000
+    },
+    {
+      "year": 92,
+      "annualBudgetRaw": 10681152343,
+      "maximumCumulativeReleaseRaw": 349871826171868,
+      "remainingReserveRaw": 128173828132,
+      "difficulty100Users": 1136640,
+      "difficulty10000Users": 11366400
+    },
+    {
+      "year": 93,
+      "annualBudgetRaw": 10681152343,
+      "maximumCumulativeReleaseRaw": 349882507324211,
+      "remainingReserveRaw": 117492675789,
+      "difficulty100Users": 1146880,
+      "difficulty10000Users": 11468800
+    },
+    {
+      "year": 94,
+      "annualBudgetRaw": 10681152343,
+      "maximumCumulativeReleaseRaw": 349893188476554,
+      "remainingReserveRaw": 106811523446,
+      "difficulty100Users": 1157120,
+      "difficulty10000Users": 11571200
+    },
+    {
+      "year": 95,
+      "annualBudgetRaw": 10681152343,
+      "maximumCumulativeReleaseRaw": 349903869628897,
+      "remainingReserveRaw": 96130371103,
+      "difficulty100Users": 1167360,
+      "difficulty10000Users": 11673600
+    },
+    {
+      "year": 96,
+      "annualBudgetRaw": 10681152343,
+      "maximumCumulativeReleaseRaw": 349914550781240,
+      "remainingReserveRaw": 85449218760,
+      "difficulty100Users": 1177600,
+      "difficulty10000Users": 11776000
+    },
+    {
+      "year": 97,
+      "annualBudgetRaw": 5340576171,
+      "maximumCumulativeReleaseRaw": 349919891357411,
+      "remainingReserveRaw": 80108642589,
+      "difficulty100Users": 2375680,
+      "difficulty10000Users": 23756800
+    },
+    {
+      "year": 98,
+      "annualBudgetRaw": 5340576171,
+      "maximumCumulativeReleaseRaw": 349925231933582,
+      "remainingReserveRaw": 74768066418,
+      "difficulty100Users": 2396160,
+      "difficulty10000Users": 23961600
+    },
+    {
+      "year": 99,
+      "annualBudgetRaw": 5340576171,
+      "maximumCumulativeReleaseRaw": 349930572509753,
+      "remainingReserveRaw": 69427490247,
+      "difficulty100Users": 2416640,
+      "difficulty10000Users": 24166400
+    },
+    {
+      "year": 100,
+      "annualBudgetRaw": 5340576171,
+      "maximumCumulativeReleaseRaw": 349935913085924,
+      "remainingReserveRaw": 64086914076,
+      "difficulty100Users": 2437120,
+      "difficulty10000Users": 24371200
+    }
+  ],
+  "status": "PASS"
+}

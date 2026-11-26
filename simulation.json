@@ -1,0 +1,4963 @@
+{
+  "mode": "SIMULATION_ONLY",
+  "status": "PASS",
+  "checks": 700,
+  "scenarios": [
+    {
+      "scenario": "Failed fundraising",
+      "subscriptionPercent": 0,
+      "assumedCirculatingBurnPercent": 0,
+      "grossFundingZAR": 0,
+      "years": [
+        {
+          "year": 1,
+          "totalSupplyRaw": 992500000000000,
+          "circulatingRaw": 146875000000000,
+          "miningReserveRaw": 328125000000000,
+          "burnedRaw": 7500000000000
+        },
+        {
+          "year": 2,
+          "totalSupplyRaw": 985375000000000,
+          "circulatingRaw": 193750000000000,
+          "miningReserveRaw": 306250000000000,
+          "burnedRaw": 14625000000000
+        },
+        {
+          "year": 3,
+          "totalSupplyRaw": 978606250000000,
+          "circulatingRaw": 240625000000000,
+          "miningReserveRaw": 284375000000000,
+          "burnedRaw": 21393750000000
+        },
+        {
+          "year": 4,
+          "totalSupplyRaw": 972175937500000,
+          "circulatingRaw": 287500000000000,
+          "miningReserveRaw": 262500000000000,
+          "burnedRaw": 27824062500000
+        },
+        {
+          "year": 5,
+          "totalSupplyRaw": 966067140625000,
+          "circulatingRaw": 334375000000000,
+          "miningReserveRaw": 240625000000000,
+          "burnedRaw": 33932859375000
+        },
+        {
+          "year": 6,
+          "totalSupplyRaw": 960263783593750,
+          "circulatingRaw": 371250000000000,
+          "miningReserveRaw": 218750000000000,
+          "burnedRaw": 39736216406250
+        },
+        {
+          "year": 7,
+          "totalSupplyRaw": 954750594414063,
+          "circulatingRaw": 408125000000000,
+          "miningReserveRaw": 196875000000000,
+          "burnedRaw": 45249405585937
+        },
+        {
+          "year": 8,
+          "totalSupplyRaw": 949513064693360,
+          "circulatingRaw": 445000000000000,
+          "miningReserveRaw": 175000000000000,
+          "burnedRaw": 50486935306640
+        },
+        {
+          "year": 9,
+          "totalSupplyRaw": 944537411458692,
+          "circulatingRaw": 470937500000000,
+          "miningReserveRaw": 164062500000000,
+          "burnedRaw": 55462588541308
+        },
+        {
+          "year": 10,
+          "totalSupplyRaw": 939810540885758,
+          "circulatingRaw": 496875000000000,
+          "miningReserveRaw": 153125000000000,
+          "burnedRaw": 60189459114242
+        },
+        {
+          "year": 11,
+          "totalSupplyRaw": 935320013841471,
+          "circulatingRaw": 507812500000000,
+          "miningReserveRaw": 142187500000000,
+          "burnedRaw": 64679986158529
+        },
+        {
+          "year": 12,
+          "totalSupplyRaw": 931054013149398,
+          "circulatingRaw": 518750000000000,
+          "miningReserveRaw": 131250000000000,
+          "burnedRaw": 68945986850602
+        },
+        {
+          "year": 13,
+          "totalSupplyRaw": 927001312491929,
+          "circulatingRaw": 529687500000000,
+          "miningReserveRaw": 120312500000000,
+          "burnedRaw": 72998687508071
+        },
+        {
+          "year": 14,
+          "totalSupplyRaw": 923151246867333,
+          "circulatingRaw": 540625000000000,
+          "miningReserveRaw": 109375000000000,
+          "burnedRaw": 76848753132667
+        },
+        {
+          "year": 15,
+          "totalSupplyRaw": 919493684523967,
+          "circulatingRaw": 551562500000000,
+          "miningReserveRaw": 98437500000000,
+          "burnedRaw": 80506315476033
+        },
+        {
+          "year": 16,
+          "totalSupplyRaw": 916019000297769,
+          "circulatingRaw": 562500000000000,
+          "miningReserveRaw": 87500000000000,
+          "burnedRaw": 83980999702231
+        },
+        {
+          "year": 17,
+          "totalSupplyRaw": 912718050282881,
+          "circulatingRaw": 567968750000000,
+          "miningReserveRaw": 82031250000000,
+          "burnedRaw": 87281949717119
+        },
+        {
+          "year": 18,
+          "totalSupplyRaw": 909582147768737,
+          "circulatingRaw": 573437500000000,
+          "miningReserveRaw": 76562500000000,
+          "burnedRaw": 90417852231263
+        },
+        {
+          "year": 19,
+          "totalSupplyRaw": 906603040380301,
+          "circulatingRaw": 578906250000000,
+          "miningReserveRaw": 71093750000000,
+          "burnedRaw": 93396959619699
+        },
+        {
+          "year": 20,
+          "totalSupplyRaw": 903772888361286,
+          "circulatingRaw": 584375000000000,
+          "miningReserveRaw": 65625000000000,
+          "burnedRaw": 96227111638714
+        },
+        {
+          "year": 21,
+          "totalSupplyRaw": 901084243943222,
+          "circulatingRaw": 589843750000000,
+          "miningReserveRaw": 60156250000000,
+          "burnedRaw": 98915756056778
+        },
+        {
+          "year": 22,
+          "totalSupplyRaw": 898530031746061,
+          "circulatingRaw": 595312500000000,
+          "miningReserveRaw": 54687500000000,
+          "burnedRaw": 101469968253939
+        },
+        {
+          "year": 23,
+          "totalSupplyRaw": 896103530158758,
+          "circulatingRaw": 600781250000000,
+          "miningReserveRaw": 49218750000000,
+          "burnedRaw": 103896469841242
+        },
+        {
+          "year": 24,
+          "totalSupplyRaw": 893798353650821,
+          "circulatingRaw": 606250000000000,
+          "miningReserveRaw": 43750000000000,
+          "burnedRaw": 106201646349179
+        },
+        {
+          "year": 25,
+          "totalSupplyRaw": 891608435968280,
+          "circulatingRaw": 608984375000000,
+          "miningReserveRaw": 41015625000000,
+          "burnedRaw": 108391564031720
+        },
+        {
+          "year": 26,
+          "totalSupplyRaw": 889528014169866,
+          "circulatingRaw": 611718750000000,
+          "miningReserveRaw": 38281250000000,
+          "burnedRaw": 110471985830134
+        },
+        {
+          "year": 27,
+          "totalSupplyRaw": 887551613461373,
+          "circulatingRaw": 614453125000000,
+          "miningReserveRaw": 35546875000000,
+          "burnedRaw": 112448386538627
+        },
+        {
+          "year": 28,
+          "totalSupplyRaw": 885674032788305,
+          "circulatingRaw": 617187500000000,
+          "miningReserveRaw": 32812500000000,
+          "burnedRaw": 114325967211695
+        },
+        {
+          "year": 29,
+          "totalSupplyRaw": 883890331148890,
+          "circulatingRaw": 619921875000000,
+          "miningReserveRaw": 30078125000000,
+          "burnedRaw": 116109668851110
+        },
+        {
+          "year": 30,
+          "totalSupplyRaw": 882195814591446,
+          "circulatingRaw": 622656250000000,
+          "miningReserveRaw": 27343750000000,
+          "burnedRaw": 117804185408554
+        },
+        {
+          "year": 31,
+          "totalSupplyRaw": 880586023861874,
+          "circulatingRaw": 625390625000000,
+          "miningReserveRaw": 24609375000000,
+          "burnedRaw": 119413976138126
+        },
+        {
+          "year": 32,
+          "totalSupplyRaw": 879056722668781,
+          "circulatingRaw": 628125000000000,
+          "miningReserveRaw": 21875000000000,
+          "burnedRaw": 120943277331219
+        },
+        {
+          "year": 33,
+          "totalSupplyRaw": 877603886535342,
+          "circulatingRaw": 629492187500000,
+          "miningReserveRaw": 20507812500000,
+          "burnedRaw": 122396113464658
+        },
+        {
+          "year": 34,
+          "totalSupplyRaw": 876223692208575,
+          "circulatingRaw": 630859375000000,
+          "miningReserveRaw": 19140625000000,
+          "burnedRaw": 123776307791425
+        },
+        {
+          "year": 35,
+          "totalSupplyRaw": 874912507598147,
+          "circulatingRaw": 632226562500000,
+          "miningReserveRaw": 17773437500000,
+          "burnedRaw": 125087492401853
+        },
+        {
+          "year": 36,
+          "totalSupplyRaw": 873666882218240,
+          "circulatingRaw": 633593750000000,
+          "miningReserveRaw": 16406250000000,
+          "burnedRaw": 126333117781760
+        },
+        {
+          "year": 37,
+          "totalSupplyRaw": 872483538107328,
+          "circulatingRaw": 634960937500000,
+          "miningReserveRaw": 15039062500000,
+          "burnedRaw": 127516461892672
+        },
+        {
+          "year": 38,
+          "totalSupplyRaw": 871359361201962,
+          "circulatingRaw": 636328125000000,
+          "miningReserveRaw": 13671875000000,
+          "burnedRaw": 128640638798038
+        },
+        {
+          "year": 39,
+          "totalSupplyRaw": 870291393141864,
+          "circulatingRaw": 637695312500000,
+          "miningReserveRaw": 12304687500000,
+          "burnedRaw": 129708606858136
+        },
+        {
+          "year": 40,
+          "totalSupplyRaw": 869276823484771,
+          "circulatingRaw": 639062500000000,
+          "miningReserveRaw": 10937500000000,
+          "burnedRaw": 130723176515229
+        },
+        {
+          "year": 41,
+          "totalSupplyRaw": 868312982310533,
+          "circulatingRaw": 639746093750000,
+          "miningReserveRaw": 10253906250000,
+          "burnedRaw": 131687017689467
+        },
+        {
+          "year": 42,
+          "totalSupplyRaw": 867397333195007,
+          "circulatingRaw": 640429687500000,
+          "miningReserveRaw": 9570312500000,
+          "burnedRaw": 132602666804993
+        },
+        {
+          "year": 43,
+          "totalSupplyRaw": 866527466535257,
+          "circulatingRaw": 641113281250000,
+          "miningReserveRaw": 8886718750000,
+          "burnedRaw": 133472533464743
+        },
+        {
+          "year": 44,
+          "totalSupplyRaw": 865701093208495,
+          "circulatingRaw": 641796875000000,
+          "miningReserveRaw": 8203125000000,
+          "burnedRaw": 134298906791505
+        },
+        {
+          "year": 45,
+          "totalSupplyRaw": 864916038548071,
+          "circulatingRaw": 642480468750000,
+          "miningReserveRaw": 7519531250000,
+          "burnedRaw": 135083961451929
+        },
+        {
+          "year": 46,
+          "totalSupplyRaw": 864170236620668,
+          "circulatingRaw": 643164062500000,
+          "miningReserveRaw": 6835937500000,
+          "burnedRaw": 135829763379332
+        },
+        {
+          "year": 47,
+          "totalSupplyRaw": 863461724789635,
+          "circulatingRaw": 643847656250000,
+          "miningReserveRaw": 6152343750000,
+          "burnedRaw": 136538275210365
+        },
+        {
+          "year": 48,
+          "totalSupplyRaw": 862788638550154,
+          "circulatingRaw": 644531250000000,
+          "miningReserveRaw": 5468750000000,
+          "burnedRaw": 137211361449846
+        },
+        {
+          "year": 49,
+          "totalSupplyRaw": 862149206622647,
+          "circulatingRaw": 644873046875000,
+          "miningReserveRaw": 5126953125000,
+          "burnedRaw": 137850793377353
+        },
+        {
+          "year": 50,
+          "totalSupplyRaw": 861541746291515,
+          "circulatingRaw": 645214843750000,
+          "miningReserveRaw": 4785156250000,
+          "burnedRaw": 138458253708485
+        },
+        {
+          "year": 51,
+          "totalSupplyRaw": 860964658976940,
+          "circulatingRaw": 645556640625000,
+          "miningReserveRaw": 4443359375000,
+          "burnedRaw": 139035341023060
+        },
+        {
+          "year": 52,
+          "totalSupplyRaw": 860416426028093,
+          "circulatingRaw": 645898437500000,
+          "miningReserveRaw": 4101562500000,
+          "burnedRaw": 139583573971907
+        },
+        {
+          "year": 53,
+          "totalSupplyRaw": 859895604726689,
+          "circulatingRaw": 646240234375000,
+          "miningReserveRaw": 3759765625000,
+          "burnedRaw": 140104395273311
+        },
+        {
+          "year": 54,
+          "totalSupplyRaw": 859400824490355,
+          "circulatingRaw": 646582031250000,
+          "miningReserveRaw": 3417968750000,
+          "burnedRaw": 140599175509645
+        },
+        {
+          "year": 55,
+          "totalSupplyRaw": 858930783265838,
+          "circulatingRaw": 646923828125000,
+          "miningReserveRaw": 3076171875000,
+          "burnedRaw": 141069216734162
+        },
+        {
+          "year": 56,
+          "totalSupplyRaw": 858484244102547,
+          "circulatingRaw": 647265625000000,
+          "miningReserveRaw": 2734375000000,
+          "burnedRaw": 141515755897453
+        },
+        {
+          "year": 57,
+          "totalSupplyRaw": 858060031897420,
+          "circulatingRaw": 647436523437500,
+          "miningReserveRaw": 2563476562500,
+          "burnedRaw": 141939968102580
+        },
+        {
+          "year": 58,
+          "totalSupplyRaw": 857657030302549,
+          "circulatingRaw": 647607421875000,
+          "miningReserveRaw": 2392578125000,
+          "burnedRaw": 142342969697451
+        },
+        {
+          "year": 59,
+          "totalSupplyRaw": 857274178787422,
+          "circulatingRaw": 647778320312500,
+          "miningReserveRaw": 2221679687500,
+          "burnedRaw": 142725821212578
+        },
+        {
+          "year": 60,
+          "totalSupplyRaw": 856910469848051,
+          "circulatingRaw": 647949218750000,
+          "miningReserveRaw": 2050781250000,
+          "burnedRaw": 143089530151949
+        },
+        {
+          "year": 61,
+          "totalSupplyRaw": 856564946355649,
+          "circulatingRaw": 648120117187500,
+          "miningReserveRaw": 1879882812500,
+          "burnedRaw": 143435053644351
+        },
+        {
+          "year": 62,
+          "totalSupplyRaw": 856236699037867,
+          "circulatingRaw": 648291015625000,
+          "miningReserveRaw": 1708984375000,
+          "burnedRaw": 143763300962133
+        },
+        {
+          "year": 63,
+          "totalSupplyRaw": 855924864085974,
+          "circulatingRaw": 648461914062500,
+          "miningReserveRaw": 1538085937500,
+          "burnedRaw": 144075135914026
+        },
+        {
+          "year": 64,
+          "totalSupplyRaw": 855628620881676,
+          "circulatingRaw": 648632812500000,
+          "miningReserveRaw": 1367187500000,
+          "burnedRaw": 144371379118324
+        },
+        {
+          "year": 65,
+          "totalSupplyRaw": 855347189837593,
+          "circulatingRaw": 648718261718750,
+          "miningReserveRaw": 1281738281250,
+          "burnedRaw": 144652810162407
+        },
+        {
+          "year": 66,
+          "totalSupplyRaw": 855079830345714,
+          "circulatingRaw": 648803710937500,
+          "miningReserveRaw": 1196289062500,
+          "burnedRaw": 144920169654286
+        },
+        {
+          "year": 67,
+          "totalSupplyRaw": 854825838828429,
+          "circulatingRaw": 648889160156250,
+          "miningReserveRaw": 1110839843750,
+          "burnedRaw": 145174161171571
+        },
+        {
+          "year": 68,
+          "totalSupplyRaw": 854584546887008,
+          "circulatingRaw": 648974609375000,
+          "miningReserveRaw": 1025390625000,
+          "burnedRaw": 145415453112992
+        },
+        {
+          "year": 69,
+          "totalSupplyRaw": 854355319542658,
+          "circulatingRaw": 649060058593750,
+          "miningReserveRaw": 939941406250,
+          "burnedRaw": 145644680457342
+        },
+        {
+          "year": 70,
+          "totalSupplyRaw": 854137553565526,
+          "circulatingRaw": 649145507812500,
+          "miningReserveRaw": 854492187500,
+          "burnedRaw": 145862446434474
+        },
+        {
+          "year": 71,
+          "totalSupplyRaw": 853930675887250,
+          "circulatingRaw": 649230957031250,
+          "miningReserveRaw": 769042968750,
+          "burnedRaw": 146069324112750
+        },
+        {
+          "year": 72,
+          "totalSupplyRaw": 853734142092888,
+          "circulatingRaw": 649316406250000,
+          "miningReserveRaw": 683593750000,
+          "burnedRaw": 146265857907112
+        },
+        {
+          "year": 73,
+          "totalSupplyRaw": 853547434988244,
+          "circulatingRaw": 649359130859375,
+          "miningReserveRaw": 640869140625,
+          "burnedRaw": 146452565011756
+        },
+        {
+          "year": 74,
+          "totalSupplyRaw": 853370063238832,
+          "circulatingRaw": 649401855468750,
+          "miningReserveRaw": 598144531250,
+          "burnedRaw": 146629936761168
+        },
+        {
+          "year": 75,
+          "totalSupplyRaw": 853201560076891,
+          "circulatingRaw": 649444580078125,
+          "miningReserveRaw": 555419921875,
+          "burnedRaw": 146798439923109
+        },
+        {
+          "year": 76,
+          "totalSupplyRaw": 853041482073047,
+          "circulatingRaw": 649487304687500,
+          "miningReserveRaw": 512695312500,
+          "burnedRaw": 146958517926953
+        },
+        {
+          "year": 77,
+          "totalSupplyRaw": 852889407969395,
+          "circulatingRaw": 649530029296875,
+          "miningReserveRaw": 469970703125,
+          "burnedRaw": 147110592030605
+        },
+        {
+          "year": 78,
+          "totalSupplyRaw": 852744937570926,
+          "circulatingRaw": 649572753906250,
+          "miningReserveRaw": 427246093750,
+          "burnedRaw": 147255062429074
+        },
+        {
+          "year": 79,
+          "totalSupplyRaw": 852607690692380,
+          "circulatingRaw": 649615478515625,
+          "miningReserveRaw": 384521484375,
+          "burnedRaw": 147392309307620
+        },
+        {
+          "year": 80,
+          "totalSupplyRaw": 852477306157761,
+          "circulatingRaw": 649658203125000,
+          "miningReserveRaw": 341796875000,
+          "burnedRaw": 147522693842239
+        },
+        {
+          "year": 81,
+          "totalSupplyRaw": 852353440849873,
+          "circulatingRaw": 649679565429687,
+          "miningReserveRaw": 320434570313,
+          "burnedRaw": 147646559150127
+        },
+        {
+          "year": 82,
+          "totalSupplyRaw": 852235768807380,
+          "circulatingRaw": 649700927734374,
+          "miningReserveRaw": 299072265626,
+          "burnedRaw": 147764231192620
+        },
+        {
+          "year": 83,
+          "totalSupplyRaw": 852123980367011,
+          "circulatingRaw": 649722290039061,
+          "miningReserveRaw": 277709960939,
+          "burnedRaw": 147876019632989
+        },
+        {
+          "year": 84,
+          "totalSupplyRaw": 852017781348661,
+          "circulatingRaw": 649743652343748,
+          "miningReserveRaw": 256347656252,
+          "burnedRaw": 147982218651339
+        },
+        {
+          "year": 85,
+          "totalSupplyRaw": 851916892281228,
+          "circulatingRaw": 649765014648435,
+          "miningReserveRaw": 234985351565,
+          "burnedRaw": 148083107718772
+        },
+        {
+          "year": 86,
+          "totalSupplyRaw": 851821047667167,
+          "circulatingRaw": 649786376953122,
+          "miningReserveRaw": 213623046878,
+          "burnedRaw": 148178952332833
+        },
+        {
+          "year": 87,
+          "totalSupplyRaw": 851729995283809,
+          "circulatingRaw": 649807739257809,
+          "miningReserveRaw": 192260742191,
+          "burnedRaw": 148270004716191
+        },
+        {
+          "year": 88,
+          "totalSupplyRaw": 851643495519619,
+          "circulatingRaw": 649829101562496,
+          "miningReserveRaw": 170898437504,
+          "burnedRaw": 148356504480381
+        },
+        {
+          "year": 89,
+          "totalSupplyRaw": 851561320743639,
+          "circulatingRaw": 649839782714839,
+          "miningReserveRaw": 160217285161,
+          "burnedRaw": 148438679256361
+        },
+        {
+          "year": 90,
+          "totalSupplyRaw": 851483254706458,
+          "circulatingRaw": 649850463867182,
+          "miningReserveRaw": 149536132818,
+          "burnedRaw": 148516745293542
+        },
+        {
+          "year": 91,
+          "totalSupplyRaw": 851409091971136,
+          "circulatingRaw": 649861145019525,
+          "miningReserveRaw": 138854980475,
+          "burnedRaw": 148590908028864
+        },
+        {
+          "year": 92,
+          "totalSupplyRaw": 851338637372580,
+          "circulatingRaw": 649871826171868,
+          "miningReserveRaw": 128173828132,
+          "burnedRaw": 148661362627420
+        },
+        {
+          "year": 93,
+          "totalSupplyRaw": 851271705503951,
+          "circulatingRaw": 649882507324211,
+          "miningReserveRaw": 117492675789,
+          "burnedRaw": 148728294496049
+        },
+        {
+          "year": 94,
+          "totalSupplyRaw": 851208120228754,
+          "circulatingRaw": 649893188476554,
+          "miningReserveRaw": 106811523446,
+          "burnedRaw": 148791879771246
+        },
+        {
+          "year": 95,
+          "totalSupplyRaw": 851147714217317,
+          "circulatingRaw": 649903869628897,
+          "miningReserveRaw": 96130371103,
+          "burnedRaw": 148852285782683
+        },
+        {
+          "year": 96,
+          "totalSupplyRaw": 851090328506452,
+          "circulatingRaw": 649914550781240,
+          "miningReserveRaw": 85449218760,
+          "burnedRaw": 148909671493548
+        },
+        {
+          "year": 97,
+          "totalSupplyRaw": 851035812081130,
+          "circulatingRaw": 649919891357411,
+          "miningReserveRaw": 80108642589,
+          "burnedRaw": 148964187918870
+        },
+        {
+          "year": 98,
+          "totalSupplyRaw": 850984021477074,
+          "circulatingRaw": 649925231933582,
+          "miningReserveRaw": 74768066418,
+          "burnedRaw": 149015978522926
+        },
+        {
+          "year": 99,
+          "totalSupplyRaw": 850934820403221,
+          "circulatingRaw": 649930572509753,
+          "miningReserveRaw": 69427490247,
+          "burnedRaw": 149065179596779
+        },
+        {
+          "year": 100,
+          "totalSupplyRaw": 850888079383060,
+          "circulatingRaw": 649935913085924,
+          "miningReserveRaw": 64086914076,
+          "burnedRaw": 149111920616940
+        }
+      ]
+    },
+    {
+      "scenario": "Low adoption",
+      "subscriptionPercent": 25,
+      "assumedCirculatingBurnPercent": 0,
+      "grossFundingZAR": 500000,
+      "years": [
+        {
+          "year": 1,
+          "totalSupplyRaw": 992500000000000,
+          "circulatingRaw": 196875000000000,
+          "miningReserveRaw": 328125000000000,
+          "burnedRaw": 7500000000000
+        },
+        {
+          "year": 2,
+          "totalSupplyRaw": 985375000000000,
+          "circulatingRaw": 243750000000000,
+          "miningReserveRaw": 306250000000000,
+          "burnedRaw": 14625000000000
+        },
+        {
+          "year": 3,
+          "totalSupplyRaw": 978606250000000,
+          "circulatingRaw": 290625000000000,
+          "miningReserveRaw": 284375000000000,
+          "burnedRaw": 21393750000000
+        },
+        {
+          "year": 4,
+          "totalSupplyRaw": 972175937500000,
+          "circulatingRaw": 337500000000000,
+          "miningReserveRaw": 262500000000000,
+          "burnedRaw": 27824062500000
+        },
+        {
+          "year": 5,
+          "totalSupplyRaw": 966067140625000,
+          "circulatingRaw": 384375000000000,
+          "miningReserveRaw": 240625000000000,
+          "burnedRaw": 33932859375000
+        },
+        {
+          "year": 6,
+          "totalSupplyRaw": 960263783593750,
+          "circulatingRaw": 421250000000000,
+          "miningReserveRaw": 218750000000000,
+          "burnedRaw": 39736216406250
+        },
+        {
+          "year": 7,
+          "totalSupplyRaw": 954750594414063,
+          "circulatingRaw": 458125000000000,
+          "miningReserveRaw": 196875000000000,
+          "burnedRaw": 45249405585937
+        },
+        {
+          "year": 8,
+          "totalSupplyRaw": 949513064693360,
+          "circulatingRaw": 495000000000000,
+          "miningReserveRaw": 175000000000000,
+          "burnedRaw": 50486935306640
+        },
+        {
+          "year": 9,
+          "totalSupplyRaw": 944537411458692,
+          "circulatingRaw": 520937500000000,
+          "miningReserveRaw": 164062500000000,
+          "burnedRaw": 55462588541308
+        },
+        {
+          "year": 10,
+          "totalSupplyRaw": 939810540885758,
+          "circulatingRaw": 546875000000000,
+          "miningReserveRaw": 153125000000000,
+          "burnedRaw": 60189459114242
+        },
+        {
+          "year": 11,
+          "totalSupplyRaw": 935320013841471,
+          "circulatingRaw": 557812500000000,
+          "miningReserveRaw": 142187500000000,
+          "burnedRaw": 64679986158529
+        },
+        {
+          "year": 12,
+          "totalSupplyRaw": 931054013149398,
+          "circulatingRaw": 568750000000000,
+          "miningReserveRaw": 131250000000000,
+          "burnedRaw": 68945986850602
+        },
+        {
+          "year": 13,
+          "totalSupplyRaw": 927001312491929,
+          "circulatingRaw": 579687500000000,
+          "miningReserveRaw": 120312500000000,
+          "burnedRaw": 72998687508071
+        },
+        {
+          "year": 14,
+          "totalSupplyRaw": 923151246867333,
+          "circulatingRaw": 590625000000000,
+          "miningReserveRaw": 109375000000000,
+          "burnedRaw": 76848753132667
+        },
+        {
+          "year": 15,
+          "totalSupplyRaw": 919493684523967,
+          "circulatingRaw": 601562500000000,
+          "miningReserveRaw": 98437500000000,
+          "burnedRaw": 80506315476033
+        },
+        {
+          "year": 16,
+          "totalSupplyRaw": 916019000297769,
+          "circulatingRaw": 612500000000000,
+          "miningReserveRaw": 87500000000000,
+          "burnedRaw": 83980999702231
+        },
+        {
+          "year": 17,
+          "totalSupplyRaw": 912718050282881,
+          "circulatingRaw": 617968750000000,
+          "miningReserveRaw": 82031250000000,
+          "burnedRaw": 87281949717119
+        },
+        {
+          "year": 18,
+          "totalSupplyRaw": 909582147768737,
+          "circulatingRaw": 623437500000000,
+          "miningReserveRaw": 76562500000000,
+          "burnedRaw": 90417852231263
+        },
+        {
+          "year": 19,
+          "totalSupplyRaw": 906603040380301,
+          "circulatingRaw": 628906250000000,
+          "miningReserveRaw": 71093750000000,
+          "burnedRaw": 93396959619699
+        },
+        {
+          "year": 20,
+          "totalSupplyRaw": 903772888361286,
+          "circulatingRaw": 634375000000000,
+          "miningReserveRaw": 65625000000000,
+          "burnedRaw": 96227111638714
+        },
+        {
+          "year": 21,
+          "totalSupplyRaw": 901084243943222,
+          "circulatingRaw": 639843750000000,
+          "miningReserveRaw": 60156250000000,
+          "burnedRaw": 98915756056778
+        },
+        {
+          "year": 22,
+          "totalSupplyRaw": 898530031746061,
+          "circulatingRaw": 645312500000000,
+          "miningReserveRaw": 54687500000000,
+          "burnedRaw": 101469968253939
+        },
+        {
+          "year": 23,
+          "totalSupplyRaw": 896103530158758,
+          "circulatingRaw": 650781250000000,
+          "miningReserveRaw": 49218750000000,
+          "burnedRaw": 103896469841242
+        },
+        {
+          "year": 24,
+          "totalSupplyRaw": 893798353650821,
+          "circulatingRaw": 656250000000000,
+          "miningReserveRaw": 43750000000000,
+          "burnedRaw": 106201646349179
+        },
+        {
+          "year": 25,
+          "totalSupplyRaw": 891608435968280,
+          "circulatingRaw": 658984375000000,
+          "miningReserveRaw": 41015625000000,
+          "burnedRaw": 108391564031720
+        },
+        {
+          "year": 26,
+          "totalSupplyRaw": 889528014169866,
+          "circulatingRaw": 661718750000000,
+          "miningReserveRaw": 38281250000000,
+          "burnedRaw": 110471985830134
+        },
+        {
+          "year": 27,
+          "totalSupplyRaw": 887551613461373,
+          "circulatingRaw": 664453125000000,
+          "miningReserveRaw": 35546875000000,
+          "burnedRaw": 112448386538627
+        },
+        {
+          "year": 28,
+          "totalSupplyRaw": 885674032788305,
+          "circulatingRaw": 667187500000000,
+          "miningReserveRaw": 32812500000000,
+          "burnedRaw": 114325967211695
+        },
+        {
+          "year": 29,
+          "totalSupplyRaw": 883890331148890,
+          "circulatingRaw": 669921875000000,
+          "miningReserveRaw": 30078125000000,
+          "burnedRaw": 116109668851110
+        },
+        {
+          "year": 30,
+          "totalSupplyRaw": 882195814591446,
+          "circulatingRaw": 672656250000000,
+          "miningReserveRaw": 27343750000000,
+          "burnedRaw": 117804185408554
+        },
+        {
+          "year": 31,
+          "totalSupplyRaw": 880586023861874,
+          "circulatingRaw": 675390625000000,
+          "miningReserveRaw": 24609375000000,
+          "burnedRaw": 119413976138126
+        },
+        {
+          "year": 32,
+          "totalSupplyRaw": 879056722668781,
+          "circulatingRaw": 678125000000000,
+          "miningReserveRaw": 21875000000000,
+          "burnedRaw": 120943277331219
+        },
+        {
+          "year": 33,
+          "totalSupplyRaw": 877603886535342,
+          "circulatingRaw": 679492187500000,
+          "miningReserveRaw": 20507812500000,
+          "burnedRaw": 122396113464658
+        },
+        {
+          "year": 34,
+          "totalSupplyRaw": 876223692208575,
+          "circulatingRaw": 680859375000000,
+          "miningReserveRaw": 19140625000000,
+          "burnedRaw": 123776307791425
+        },
+        {
+          "year": 35,
+          "totalSupplyRaw": 874912507598147,
+          "circulatingRaw": 682226562500000,
+          "miningReserveRaw": 17773437500000,
+          "burnedRaw": 125087492401853
+        },
+        {
+          "year": 36,
+          "totalSupplyRaw": 873666882218240,
+          "circulatingRaw": 683593750000000,
+          "miningReserveRaw": 16406250000000,
+          "burnedRaw": 126333117781760
+        },
+        {
+          "year": 37,
+          "totalSupplyRaw": 872483538107328,
+          "circulatingRaw": 684960937500000,
+          "miningReserveRaw": 15039062500000,
+          "burnedRaw": 127516461892672
+        },
+        {
+          "year": 38,
+          "totalSupplyRaw": 871359361201962,
+          "circulatingRaw": 686328125000000,
+          "miningReserveRaw": 13671875000000,
+          "burnedRaw": 128640638798038
+        },
+        {
+          "year": 39,
+          "totalSupplyRaw": 870291393141864,
+          "circulatingRaw": 687695312500000,
+          "miningReserveRaw": 12304687500000,
+          "burnedRaw": 129708606858136
+        },
+        {
+          "year": 40,
+          "totalSupplyRaw": 869276823484771,
+          "circulatingRaw": 689062500000000,
+          "miningReserveRaw": 10937500000000,
+          "burnedRaw": 130723176515229
+        },
+        {
+          "year": 41,
+          "totalSupplyRaw": 868312982310533,
+          "circulatingRaw": 689746093750000,
+          "miningReserveRaw": 10253906250000,
+          "burnedRaw": 131687017689467
+        },
+        {
+          "year": 42,
+          "totalSupplyRaw": 867397333195007,
+          "circulatingRaw": 690429687500000,
+          "miningReserveRaw": 9570312500000,
+          "burnedRaw": 132602666804993
+        },
+        {
+          "year": 43,
+          "totalSupplyRaw": 866527466535257,
+          "circulatingRaw": 691113281250000,
+          "miningReserveRaw": 8886718750000,
+          "burnedRaw": 133472533464743
+        },
+        {
+          "year": 44,
+          "totalSupplyRaw": 865701093208495,
+          "circulatingRaw": 691796875000000,
+          "miningReserveRaw": 8203125000000,
+          "burnedRaw": 134298906791505
+        },
+        {
+          "year": 45,
+          "totalSupplyRaw": 864916038548071,
+          "circulatingRaw": 692480468750000,
+          "miningReserveRaw": 7519531250000,
+          "burnedRaw": 135083961451929
+        },
+        {
+          "year": 46,
+          "totalSupplyRaw": 864170236620668,
+          "circulatingRaw": 693164062500000,
+          "miningReserveRaw": 6835937500000,
+          "burnedRaw": 135829763379332
+        },
+        {
+          "year": 47,
+          "totalSupplyRaw": 863461724789635,
+          "circulatingRaw": 693847656250000,
+          "miningReserveRaw": 6152343750000,
+          "burnedRaw": 136538275210365
+        },
+        {
+          "year": 48,
+          "totalSupplyRaw": 862788638550154,
+          "circulatingRaw": 694531250000000,
+          "miningReserveRaw": 5468750000000,
+          "burnedRaw": 137211361449846
+        },
+        {
+          "year": 49,
+          "totalSupplyRaw": 862149206622647,
+          "circulatingRaw": 694873046875000,
+          "miningReserveRaw": 5126953125000,
+          "burnedRaw": 137850793377353
+        },
+        {
+          "year": 50,
+          "totalSupplyRaw": 861541746291515,
+          "circulatingRaw": 695214843750000,
+          "miningReserveRaw": 4785156250000,
+          "burnedRaw": 138458253708485
+        },
+        {
+          "year": 51,
+          "totalSupplyRaw": 860964658976940,
+          "circulatingRaw": 695556640625000,
+          "miningReserveRaw": 4443359375000,
+          "burnedRaw": 139035341023060
+        },
+        {
+          "year": 52,
+          "totalSupplyRaw": 860416426028093,
+          "circulatingRaw": 695898437500000,
+          "miningReserveRaw": 4101562500000,
+          "burnedRaw": 139583573971907
+        },
+        {
+          "year": 53,
+          "totalSupplyRaw": 859895604726689,
+          "circulatingRaw": 696240234375000,
+          "miningReserveRaw": 3759765625000,
+          "burnedRaw": 140104395273311
+        },
+        {
+          "year": 54,
+          "totalSupplyRaw": 859400824490355,
+          "circulatingRaw": 696582031250000,
+          "miningReserveRaw": 3417968750000,
+          "burnedRaw": 140599175509645
+        },
+        {
+          "year": 55,
+          "totalSupplyRaw": 858930783265838,
+          "circulatingRaw": 696923828125000,
+          "miningReserveRaw": 3076171875000,
+          "burnedRaw": 141069216734162
+        },
+        {
+          "year": 56,
+          "totalSupplyRaw": 858484244102547,
+          "circulatingRaw": 697265625000000,
+          "miningReserveRaw": 2734375000000,
+          "burnedRaw": 141515755897453
+        },
+        {
+          "year": 57,
+          "totalSupplyRaw": 858060031897420,
+          "circulatingRaw": 697436523437500,
+          "miningReserveRaw": 2563476562500,
+          "burnedRaw": 141939968102580
+        },
+        {
+          "year": 58,
+          "totalSupplyRaw": 857657030302549,
+          "circulatingRaw": 697607421875000,
+          "miningReserveRaw": 2392578125000,
+          "burnedRaw": 142342969697451
+        },
+        {
+          "year": 59,
+          "totalSupplyRaw": 857274178787422,
+          "circulatingRaw": 697778320312500,
+          "miningReserveRaw": 2221679687500,
+          "burnedRaw": 142725821212578
+        },
+        {
+          "year": 60,
+          "totalSupplyRaw": 856910469848051,
+          "circulatingRaw": 697949218750000,
+          "miningReserveRaw": 2050781250000,
+          "burnedRaw": 143089530151949
+        },
+        {
+          "year": 61,
+          "totalSupplyRaw": 856564946355649,
+          "circulatingRaw": 698120117187500,
+          "miningReserveRaw": 1879882812500,
+          "burnedRaw": 143435053644351
+        },
+        {
+          "year": 62,
+          "totalSupplyRaw": 856236699037867,
+          "circulatingRaw": 698291015625000,
+          "miningReserveRaw": 1708984375000,
+          "burnedRaw": 143763300962133
+        },
+        {
+          "year": 63,
+          "totalSupplyRaw": 855924864085974,
+          "circulatingRaw": 698461914062500,
+          "miningReserveRaw": 1538085937500,
+          "burnedRaw": 144075135914026
+        },
+        {
+          "year": 64,
+          "totalSupplyRaw": 855628620881676,
+          "circulatingRaw": 698632812500000,
+          "miningReserveRaw": 1367187500000,
+          "burnedRaw": 144371379118324
+        },
+        {
+          "year": 65,
+          "totalSupplyRaw": 855347189837593,
+          "circulatingRaw": 698718261718750,
+          "miningReserveRaw": 1281738281250,
+          "burnedRaw": 144652810162407
+        },
+        {
+          "year": 66,
+          "totalSupplyRaw": 855079830345714,
+          "circulatingRaw": 698803710937500,
+          "miningReserveRaw": 1196289062500,
+          "burnedRaw": 144920169654286
+        },
+        {
+          "year": 67,
+          "totalSupplyRaw": 854825838828429,
+          "circulatingRaw": 698889160156250,
+          "miningReserveRaw": 1110839843750,
+          "burnedRaw": 145174161171571
+        },
+        {
+          "year": 68,
+          "totalSupplyRaw": 854584546887008,
+          "circulatingRaw": 698974609375000,
+          "miningReserveRaw": 1025390625000,
+          "burnedRaw": 145415453112992
+        },
+        {
+          "year": 69,
+          "totalSupplyRaw": 854355319542658,
+          "circulatingRaw": 699060058593750,
+          "miningReserveRaw": 939941406250,
+          "burnedRaw": 145644680457342
+        },
+        {
+          "year": 70,
+          "totalSupplyRaw": 854137553565526,
+          "circulatingRaw": 699145507812500,
+          "miningReserveRaw": 854492187500,
+          "burnedRaw": 145862446434474
+        },
+        {
+          "year": 71,
+          "totalSupplyRaw": 853930675887250,
+          "circulatingRaw": 699230957031250,
+          "miningReserveRaw": 769042968750,
+          "burnedRaw": 146069324112750
+        },
+        {
+          "year": 72,
+          "totalSupplyRaw": 853734142092888,
+          "circulatingRaw": 699316406250000,
+          "miningReserveRaw": 683593750000,
+          "burnedRaw": 146265857907112
+        },
+        {
+          "year": 73,
+          "totalSupplyRaw": 853547434988244,
+          "circulatingRaw": 699359130859375,
+          "miningReserveRaw": 640869140625,
+          "burnedRaw": 146452565011756
+        },
+        {
+          "year": 74,
+          "totalSupplyRaw": 853370063238832,
+          "circulatingRaw": 699401855468750,
+          "miningReserveRaw": 598144531250,
+          "burnedRaw": 146629936761168
+        },
+        {
+          "year": 75,
+          "totalSupplyRaw": 853201560076891,
+          "circulatingRaw": 699444580078125,
+          "miningReserveRaw": 555419921875,
+          "burnedRaw": 146798439923109
+        },
+        {
+          "year": 76,
+          "totalSupplyRaw": 853041482073047,
+          "circulatingRaw": 699487304687500,
+          "miningReserveRaw": 512695312500,
+          "burnedRaw": 146958517926953
+        },
+        {
+          "year": 77,
+          "totalSupplyRaw": 852889407969395,
+          "circulatingRaw": 699530029296875,
+          "miningReserveRaw": 469970703125,
+          "burnedRaw": 147110592030605
+        },
+        {
+          "year": 78,
+          "totalSupplyRaw": 852744937570926,
+          "circulatingRaw": 699572753906250,
+          "miningReserveRaw": 427246093750,
+          "burnedRaw": 147255062429074
+        },
+        {
+          "year": 79,
+          "totalSupplyRaw": 852607690692380,
+          "circulatingRaw": 699615478515625,
+          "miningReserveRaw": 384521484375,
+          "burnedRaw": 147392309307620
+        },
+        {
+          "year": 80,
+          "totalSupplyRaw": 852477306157761,
+          "circulatingRaw": 699658203125000,
+          "miningReserveRaw": 341796875000,
+          "burnedRaw": 147522693842239
+        },
+        {
+          "year": 81,
+          "totalSupplyRaw": 852353440849873,
+          "circulatingRaw": 699679565429687,
+          "miningReserveRaw": 320434570313,
+          "burnedRaw": 147646559150127
+        },
+        {
+          "year": 82,
+          "totalSupplyRaw": 852235768807380,
+          "circulatingRaw": 699700927734374,
+          "miningReserveRaw": 299072265626,
+          "burnedRaw": 147764231192620
+        },
+        {
+          "year": 83,
+          "totalSupplyRaw": 852123980367011,
+          "circulatingRaw": 699722290039061,
+          "miningReserveRaw": 277709960939,
+          "burnedRaw": 147876019632989
+        },
+        {
+          "year": 84,
+          "totalSupplyRaw": 852017781348661,
+          "circulatingRaw": 699743652343748,
+          "miningReserveRaw": 256347656252,
+          "burnedRaw": 147982218651339
+        },
+        {
+          "year": 85,
+          "totalSupplyRaw": 851916892281228,
+          "circulatingRaw": 699765014648435,
+          "miningReserveRaw": 234985351565,
+          "burnedRaw": 148083107718772
+        },
+        {
+          "year": 86,
+          "totalSupplyRaw": 851821047667167,
+          "circulatingRaw": 699786376953122,
+          "miningReserveRaw": 213623046878,
+          "burnedRaw": 148178952332833
+        },
+        {
+          "year": 87,
+          "totalSupplyRaw": 851729995283809,
+          "circulatingRaw": 699807739257809,
+          "miningReserveRaw": 192260742191,
+          "burnedRaw": 148270004716191
+        },
+        {
+          "year": 88,
+          "totalSupplyRaw": 851643495519619,
+          "circulatingRaw": 699829101562496,
+          "miningReserveRaw": 170898437504,
+          "burnedRaw": 148356504480381
+        },
+        {
+          "year": 89,
+          "totalSupplyRaw": 851561320743639,
+          "circulatingRaw": 699839782714839,
+          "miningReserveRaw": 160217285161,
+          "burnedRaw": 148438679256361
+        },
+        {
+          "year": 90,
+          "totalSupplyRaw": 851483254706458,
+          "circulatingRaw": 699850463867182,
+          "miningReserveRaw": 149536132818,
+          "burnedRaw": 148516745293542
+        },
+        {
+          "year": 91,
+          "totalSupplyRaw": 851409091971136,
+          "circulatingRaw": 699861145019525,
+          "miningReserveRaw": 138854980475,
+          "burnedRaw": 148590908028864
+        },
+        {
+          "year": 92,
+          "totalSupplyRaw": 851338637372580,
+          "circulatingRaw": 699871826171868,
+          "miningReserveRaw": 128173828132,
+          "burnedRaw": 148661362627420
+        },
+        {
+          "year": 93,
+          "totalSupplyRaw": 851271705503951,
+          "circulatingRaw": 699882507324211,
+          "miningReserveRaw": 117492675789,
+          "burnedRaw": 148728294496049
+        },
+        {
+          "year": 94,
+          "totalSupplyRaw": 851208120228754,
+          "circulatingRaw": 699893188476554,
+          "miningReserveRaw": 106811523446,
+          "burnedRaw": 148791879771246
+        },
+        {
+          "year": 95,
+          "totalSupplyRaw": 851147714217317,
+          "circulatingRaw": 699903869628897,
+          "miningReserveRaw": 96130371103,
+          "burnedRaw": 148852285782683
+        },
+        {
+          "year": 96,
+          "totalSupplyRaw": 851090328506452,
+          "circulatingRaw": 699914550781240,
+          "miningReserveRaw": 85449218760,
+          "burnedRaw": 148909671493548
+        },
+        {
+          "year": 97,
+          "totalSupplyRaw": 851035812081130,
+          "circulatingRaw": 699919891357411,
+          "miningReserveRaw": 80108642589,
+          "burnedRaw": 148964187918870
+        },
+        {
+          "year": 98,
+          "totalSupplyRaw": 850984021477074,
+          "circulatingRaw": 699925231933582,
+          "miningReserveRaw": 74768066418,
+          "burnedRaw": 149015978522926
+        },
+        {
+          "year": 99,
+          "totalSupplyRaw": 850934820403221,
+          "circulatingRaw": 699930572509753,
+          "miningReserveRaw": 69427490247,
+          "burnedRaw": 149065179596779
+        },
+        {
+          "year": 100,
+          "totalSupplyRaw": 850888079383060,
+          "circulatingRaw": 699935913085924,
+          "miningReserveRaw": 64086914076,
+          "burnedRaw": 149111920616940
+        }
+      ]
+    },
+    {
+      "scenario": "Conservative",
+      "subscriptionPercent": 50,
+      "assumedCirculatingBurnPercent": 1,
+      "grossFundingZAR": 1000000,
+      "years": [
+        {
+          "year": 1,
+          "totalSupplyRaw": 990031250000000,
+          "circulatingRaw": 244406250000000,
+          "miningReserveRaw": 328125000000000,
+          "burnedRaw": 9968750000000
+        },
+        {
+          "year": 2,
+          "totalSupplyRaw": 979993437500000,
+          "circulatingRaw": 288368437500000,
+          "miningReserveRaw": 306250000000000,
+          "burnedRaw": 20006562500000
+        },
+        {
+          "year": 3,
+          "totalSupplyRaw": 969872253125000,
+          "circulatingRaw": 331891003125000,
+          "miningReserveRaw": 284375000000000,
+          "burnedRaw": 30127746875000
+        },
+        {
+          "year": 4,
+          "totalSupplyRaw": 959654280593750,
+          "circulatingRaw": 374978343093750,
+          "miningReserveRaw": 262500000000000,
+          "burnedRaw": 40345719406250
+        },
+        {
+          "year": 5,
+          "totalSupplyRaw": 949326950287813,
+          "circulatingRaw": 417634809662813,
+          "miningReserveRaw": 240625000000000,
+          "burnedRaw": 50673049712187
+        },
+        {
+          "year": 6,
+          "totalSupplyRaw": 938978495159935,
+          "circulatingRaw": 449964711566185,
+          "miningReserveRaw": 218750000000000,
+          "burnedRaw": 61021504840065
+        },
+        {
+          "year": 7,
+          "totalSupplyRaw": 928596908864587,
+          "circulatingRaw": 481971314450524,
+          "miningReserveRaw": 196875000000000,
+          "burnedRaw": 71403091135413
+        },
+        {
+          "year": 8,
+          "totalSupplyRaw": 918170915999379,
+          "circulatingRaw": 513657851306019,
+          "miningReserveRaw": 175000000000000,
+          "burnedRaw": 81829084000621
+        },
+        {
+          "year": 9,
+          "totalSupplyRaw": 907799309251651,
+          "circulatingRaw": 534199397792959,
+          "miningReserveRaw": 164062500000000,
+          "burnedRaw": 92200690748349
+        },
+        {
+          "year": 10,
+          "totalSupplyRaw": 897471069700788,
+          "circulatingRaw": 554535528815030,
+          "miningReserveRaw": 153125000000000,
+          "burnedRaw": 102528930299212
+        },
+        {
+          "year": 11,
+          "totalSupplyRaw": 887325812368351,
+          "circulatingRaw": 559818298526880,
+          "miningReserveRaw": 142187500000000,
+          "burnedRaw": 112674187631649
+        },
+        {
+          "year": 12,
+          "totalSupplyRaw": 877352253691010,
+          "circulatingRaw": 565048240541612,
+          "miningReserveRaw": 131250000000000,
+          "burnedRaw": 122647746308990
+        },
+        {
+          "year": 13,
+          "totalSupplyRaw": 867539695628125,
+          "circulatingRaw": 570225883136196,
+          "miningReserveRaw": 120312500000000,
+          "burnedRaw": 132460304371875
+        },
+        {
+          "year": 14,
+          "totalSupplyRaw": 857877996172168,
+          "circulatingRaw": 575351749304835,
+          "miningReserveRaw": 109375000000000,
+          "burnedRaw": 142122003827832
+        },
+        {
+          "year": 15,
+          "totalSupplyRaw": 848357541335754,
+          "circulatingRaw": 580426356811787,
+          "miningReserveRaw": 98437500000000,
+          "burnedRaw": 151642458664246
+        },
+        {
+          "year": 16,
+          "totalSupplyRaw": 838969218541439,
+          "circulatingRaw": 585450218243670,
+          "miningReserveRaw": 87500000000000,
+          "burnedRaw": 161030781458561
+        },
+        {
+          "year": 17,
+          "totalSupplyRaw": 829759078844115,
+          "circulatingRaw": 585009778561234,
+          "miningReserveRaw": 82031250000000,
+          "burnedRaw": 170240921155885
+        },
+        {
+          "year": 18,
+          "totalSupplyRaw": 820718391044359,
+          "circulatingRaw": 584573743275622,
+          "miningReserveRaw": 76562500000000,
+          "burnedRaw": 179281608955641
+        },
+        {
+          "year": 19,
+          "totalSupplyRaw": 811838858723167,
+          "circulatingRaw": 584142068342866,
+          "miningReserveRaw": 71093750000000,
+          "burnedRaw": 188161141276833
+        },
+        {
+          "year": 20,
+          "totalSupplyRaw": 803112598520724,
+          "circulatingRaw": 583714710159438,
+          "miningReserveRaw": 65625000000000,
+          "burnedRaw": 196887401479276
+        },
+        {
+          "year": 21,
+          "totalSupplyRaw": 794532119501066,
+          "circulatingRaw": 583291625557844,
+          "miningReserveRaw": 60156250000000,
+          "burnedRaw": 205467880498934
+        },
+        {
+          "year": 22,
+          "totalSupplyRaw": 786090303548327,
+          "circulatingRaw": 582872771802266,
+          "miningReserveRaw": 54687500000000,
+          "burnedRaw": 213909696451673
+        },
+        {
+          "year": 23,
+          "totalSupplyRaw": 777780386743002,
+          "circulatingRaw": 582458106584244,
+          "miningReserveRaw": 49218750000000,
+          "burnedRaw": 222219613256998
+        },
+        {
+          "year": 24,
+          "totalSupplyRaw": 769595941669223,
+          "circulatingRaw": 582047588018402,
+          "miningReserveRaw": 43750000000000,
+          "burnedRaw": 230404058330777
+        },
+        {
+          "year": 25,
+          "totalSupplyRaw": 761558204356498,
+          "circulatingRaw": 578934143388218,
+          "miningReserveRaw": 41015625000000,
+          "burnedRaw": 238441795643502
+        },
+        {
+          "year": 26,
+          "totalSupplyRaw": 753661097374202,
+          "circulatingRaw": 575851833204336,
+          "miningReserveRaw": 38281250000000,
+          "burnedRaw": 246338902625798
+        },
+        {
+          "year": 27,
+          "totalSupplyRaw": 745898834583666,
+          "circulatingRaw": 572800346122293,
+          "miningReserveRaw": 35546875000000,
+          "burnedRaw": 254101165416334
+        },
+        {
+          "year": 28,
+          "totalSupplyRaw": 738265906699376,
+          "circulatingRaw": 569779373911071,
+          "miningReserveRaw": 32812500000000,
+          "burnedRaw": 261734093300624
+        },
+        {
+          "year": 29,
+          "totalSupplyRaw": 730757067570851,
+          "circulatingRaw": 566788611421961,
+          "miningReserveRaw": 30078125000000,
+          "burnedRaw": 269242932429149
+        },
+        {
+          "year": 30,
+          "totalSupplyRaw": 723367321149188,
+          "circulatingRaw": 563827756557742,
+          "miningReserveRaw": 27343750000000,
+          "burnedRaw": 276632678850812
+        },
+        {
+          "year": 31,
+          "totalSupplyRaw": 716091909104039,
+          "circulatingRaw": 560896510242165,
+          "miningReserveRaw": 24609375000000,
+          "burnedRaw": 283908090895961
+        },
+        {
+          "year": 32,
+          "totalSupplyRaw": 708926299058525,
+          "circulatingRaw": 557994576389744,
+          "miningReserveRaw": 21875000000000,
+          "burnedRaw": 291073700941475
+        },
+        {
+          "year": 33,
+          "totalSupplyRaw": 701879845286189,
+          "circulatingRaw": 553768146250847,
+          "miningReserveRaw": 20507812500000,
+          "burnedRaw": 298120154713811
+        },
+        {
+          "year": 34,
+          "totalSupplyRaw": 694948297621914,
+          "circulatingRaw": 549583980413339,
+          "miningReserveRaw": 19140625000000,
+          "burnedRaw": 305051702378086
+        },
+        {
+          "year": 35,
+          "totalSupplyRaw": 688127601332353,
+          "circulatingRaw": 545441656234206,
+          "miningReserveRaw": 17773437500000,
+          "burnedRaw": 311872398667647
+        },
+        {
+          "year": 36,
+          "totalSupplyRaw": 681413887515104,
+          "circulatingRaw": 541340755296864,
+          "miningReserveRaw": 16406250000000,
+          "burnedRaw": 318586112484896
+        },
+        {
+          "year": 37,
+          "totalSupplyRaw": 674803463976224,
+          "circulatingRaw": 537280863368896,
+          "miningReserveRaw": 15039062500000,
+          "burnedRaw": 325196536023776
+        },
+        {
+          "year": 38,
+          "totalSupplyRaw": 668292806562170,
+          "circulatingRaw": 533261570360208,
+          "miningReserveRaw": 13671875000000,
+          "burnedRaw": 331707193437830
+        },
+        {
+          "year": 39,
+          "totalSupplyRaw": 661878550923470,
+          "circulatingRaw": 529282470281606,
+          "miningReserveRaw": 12304687500000,
+          "burnedRaw": 338121449076530
+        },
+        {
+          "year": 40,
+          "totalSupplyRaw": 655557484688561,
+          "circulatingRaw": 525343161203790,
+          "miningReserveRaw": 10937500000000,
+          "burnedRaw": 344442515311439
+        },
+        {
+          "year": 41,
+          "totalSupplyRaw": 649333375964786,
+          "circulatingRaw": 520766487404253,
+          "miningReserveRaw": 10253906250000,
+          "burnedRaw": 350666624035214
+        },
+        {
+          "year": 42,
+          "totalSupplyRaw": 643203226037718,
+          "circulatingRaw": 516235580342711,
+          "miningReserveRaw": 9570312500000,
+          "burnedRaw": 356796773962282
+        },
+        {
+          "year": 43,
+          "totalSupplyRaw": 637164167637041,
+          "circulatingRaw": 511749982351784,
+          "miningReserveRaw": 8886718750000,
+          "burnedRaw": 362835832362959
+        },
+        {
+          "year": 44,
+          "totalSupplyRaw": 631213458549262,
+          "circulatingRaw": 507309240340767,
+          "miningReserveRaw": 8203125000000,
+          "burnedRaw": 368786541450738
+        },
+        {
+          "year": 45,
+          "totalSupplyRaw": 625348475547931,
+          "circulatingRaw": 502912905749860,
+          "miningReserveRaw": 7519531250000,
+          "burnedRaw": 374651524452069
+        },
+        {
+          "year": 46,
+          "totalSupplyRaw": 619566708625530,
+          "circulatingRaw": 498560534504862,
+          "miningReserveRaw": 6835937500000,
+          "burnedRaw": 380433291374470
+        },
+        {
+          "year": 47,
+          "totalSupplyRaw": 613865755511949,
+          "circulatingRaw": 494251686972314,
+          "miningReserveRaw": 6152343750000,
+          "burnedRaw": 386134244488051
+        },
+        {
+          "year": 48,
+          "totalSupplyRaw": 608243316465245,
+          "circulatingRaw": 489985927915091,
+          "miningReserveRaw": 5468750000000,
+          "burnedRaw": 391756683534755
+        },
+        {
+          "year": 49,
+          "totalSupplyRaw": 602700607289838,
+          "circulatingRaw": 485424447542191,
+          "miningReserveRaw": 5126953125000,
+          "burnedRaw": 397299392710162
+        },
+        {
+          "year": 50,
+          "totalSupplyRaw": 597235484514535,
+          "circulatingRaw": 480908581973020,
+          "miningReserveRaw": 4785156250000,
+          "burnedRaw": 402764515485465
+        },
+        {
+          "year": 51,
+          "totalSupplyRaw": 591845893411480,
+          "circulatingRaw": 476437875059540,
+          "miningReserveRaw": 4443359375000,
+          "burnedRaw": 408154106588520
+        },
+        {
+          "year": 52,
+          "totalSupplyRaw": 586529863743288,
+          "circulatingRaw": 472011875215195,
+          "miningReserveRaw": 4101562500000,
+          "burnedRaw": 413470136256712
+        },
+        {
+          "year": 53,
+          "totalSupplyRaw": 581285505720983,
+          "circulatingRaw": 467630135369294,
+          "miningReserveRaw": 3759765625000,
+          "burnedRaw": 418714494279017
+        },
+        {
+          "year": 54,
+          "totalSupplyRaw": 576111006162207,
+          "circulatingRaw": 463292212921852,
+          "miningReserveRaw": 3417968750000,
+          "burnedRaw": 423888993837793
+        },
+        {
+          "year": 55,
+          "totalSupplyRaw": 571004624839722,
+          "circulatingRaw": 458997669698884,
+          "miningReserveRaw": 3076171875000,
+          "burnedRaw": 428995375160278
+        },
+        {
+          "year": 56,
+          "totalSupplyRaw": 565964691010693,
+          "circulatingRaw": 454746071908146,
+          "miningReserveRaw": 2734375000000,
+          "burnedRaw": 434035308989307
+        },
+        {
+          "year": 57,
+          "totalSupplyRaw": 560991309102110,
+          "circulatingRaw": 450367800642190,
+          "miningReserveRaw": 2563476562500,
+          "burnedRaw": 439008690897890
+        },
+        {
+          "year": 58,
+          "totalSupplyRaw": 556082920516443,
+          "circulatingRaw": 446033312088894,
+          "miningReserveRaw": 2392578125000,
+          "burnedRaw": 443917079483557
+        },
+        {
+          "year": 59,
+          "totalSupplyRaw": 551238026896053,
+          "circulatingRaw": 441742168421131,
+          "miningReserveRaw": 2221679687500,
+          "burnedRaw": 448761973103947
+        },
+        {
+          "year": 60,
+          "totalSupplyRaw": 546455187288096,
+          "circulatingRaw": 437493936190045,
+          "miningReserveRaw": 2050781250000,
+          "burnedRaw": 453544812711904
+        },
+        {
+          "year": 61,
+          "totalSupplyRaw": 541733015449419,
+          "circulatingRaw": 433288186281270,
+          "miningReserveRaw": 1879882812500,
+          "burnedRaw": 458266984550581
+        },
+        {
+          "year": 62,
+          "totalSupplyRaw": 537070177284450,
+          "circulatingRaw": 429124493871583,
+          "miningReserveRaw": 1708984375000,
+          "burnedRaw": 462929822715550
+        },
+        {
+          "year": 63,
+          "totalSupplyRaw": 532465388409467,
+          "circulatingRaw": 425002438385993,
+          "miningReserveRaw": 1538085937500,
+          "burnedRaw": 467534611590533
+        },
+        {
+          "year": 64,
+          "totalSupplyRaw": 527917411836935,
+          "circulatingRaw": 420921603455259,
+          "miningReserveRaw": 1367187500000,
+          "burnedRaw": 472082588163065
+        },
+        {
+          "year": 65,
+          "totalSupplyRaw": 523425910266112,
+          "circulatingRaw": 416796982147269,
+          "miningReserveRaw": 1281738281250,
+          "burnedRaw": 476574089733888
+        },
+        {
+          "year": 66,
+          "totalSupplyRaw": 518989726460573,
+          "circulatingRaw": 412713607052359,
+          "miningReserveRaw": 1196289062500,
+          "burnedRaw": 481010273539427
+        },
+        {
+          "year": 67,
+          "totalSupplyRaw": 514607744380577,
+          "circulatingRaw": 408671065708398,
+          "miningReserveRaw": 1110839843750,
+          "burnedRaw": 485392255619423
+        },
+        {
+          "year": 68,
+          "totalSupplyRaw": 510278887289885,
+          "circulatingRaw": 404668949777877,
+          "miningReserveRaw": 1025390625000,
+          "burnedRaw": 489721112710115
+        },
+        {
+          "year": 69,
+          "totalSupplyRaw": 506002115955569,
+          "circulatingRaw": 400706855006661,
+          "miningReserveRaw": 939941406250,
+          "burnedRaw": 493997884044431
+        },
+        {
+          "year": 70,
+          "totalSupplyRaw": 501776426936183,
+          "circulatingRaw": 396784381183157,
+          "miningReserveRaw": 854492187500,
+          "burnedRaw": 498223573063817
+        },
+        {
+          "year": 71,
+          "totalSupplyRaw": 497600850953888,
+          "circulatingRaw": 392901132097888,
+          "miningReserveRaw": 769042968750,
+          "burnedRaw": 502399149046112
+        },
+        {
+          "year": 72,
+          "totalSupplyRaw": 493474451346360,
+          "circulatingRaw": 389056715503472,
+          "miningReserveRaw": 683593750000,
+          "burnedRaw": 506525548653640
+        },
+        {
+          "year": 73,
+          "totalSupplyRaw": 489396749840588,
+          "circulatingRaw": 385208445711719,
+          "miningReserveRaw": 640869140625,
+          "burnedRaw": 510603250159412
+        },
+        {
+          "year": 74,
+          "totalSupplyRaw": 485366866387966,
+          "circulatingRaw": 381398658617884,
+          "miningReserveRaw": 598144531250,
+          "burnedRaw": 514633133612034
+        },
+        {
+          "year": 75,
+          "totalSupplyRaw": 481383949393753,
+          "circulatingRaw": 377626969394987,
+          "miningReserveRaw": 555419921875,
+          "burnedRaw": 518616050606247
+        },
+        {
+          "year": 76,
+          "totalSupplyRaw": 477447174449866,
+          "circulatingRaw": 373892997064319,
+          "miningReserveRaw": 512695312500,
+          "burnedRaw": 522552825550134
+        },
+        {
+          "year": 77,
+          "totalSupplyRaw": 473555743129478,
+          "circulatingRaw": 370196364456958,
+          "miningReserveRaw": 469970703125,
+          "burnedRaw": 526444256870522
+        },
+        {
+          "year": 78,
+          "totalSupplyRaw": 469708881840346,
+          "circulatingRaw": 366536698175670,
+          "miningReserveRaw": 427246093750,
+          "burnedRaw": 530291118159654
+        },
+        {
+          "year": 79,
+          "totalSupplyRaw": 465905840733950,
+          "circulatingRaw": 362913628557195,
+          "miningReserveRaw": 384521484375,
+          "burnedRaw": 534094159266050
+        },
+        {
+          "year": 80,
+          "totalSupplyRaw": 462145892667666,
+          "circulatingRaw": 359326789634905,
+          "miningReserveRaw": 341796875000,
+          "burnedRaw": 537854107332334
+        },
+        {
+          "year": 81,
+          "totalSupplyRaw": 458428545840383,
+          "circulatingRaw": 355754670420197,
+          "miningReserveRaw": 320434570313,
+          "burnedRaw": 541571454159617
+        },
+        {
+          "year": 82,
+          "totalSupplyRaw": 454753113470642,
+          "circulatingRaw": 352218272397636,
+          "miningReserveRaw": 299072265626,
+          "burnedRaw": 545246886529358
+        },
+        {
+          "year": 83,
+          "totalSupplyRaw": 451118928683250,
+          "circulatingRaw": 348717238355300,
+          "miningReserveRaw": 277709960939,
+          "burnedRaw": 548881071316750
+        },
+        {
+          "year": 84,
+          "totalSupplyRaw": 447525343658301,
+          "circulatingRaw": 345251214653388,
+          "miningReserveRaw": 256347656252,
+          "burnedRaw": 552474656341699
+        },
+        {
+          "year": 85,
+          "totalSupplyRaw": 443971728821288,
+          "circulatingRaw": 341819851188495,
+          "miningReserveRaw": 234985351565,
+          "burnedRaw": 556028271178712
+        },
+        {
+          "year": 86,
+          "totalSupplyRaw": 440457472072296,
+          "circulatingRaw": 338422801358251,
+          "miningReserveRaw": 213623046878,
+          "burnedRaw": 559542527927704
+        },
+        {
+          "year": 87,
+          "totalSupplyRaw": 436981978052309,
+          "circulatingRaw": 335059722026309,
+          "miningReserveRaw": 192260742191,
+          "burnedRaw": 563018021947691
+        },
+        {
+          "year": 88,
+          "totalSupplyRaw": 433544667444810,
+          "circulatingRaw": 331730273487687,
+          "miningReserveRaw": 170898437504,
+          "burnedRaw": 566455332555190
+        },
+        {
+          "year": 89,
+          "totalSupplyRaw": 430145083122430,
+          "circulatingRaw": 328423545093630,
+          "miningReserveRaw": 160217285161,
+          "burnedRaw": 569854916877570
+        },
+        {
+          "year": 90,
+          "totalSupplyRaw": 426782674822790,
+          "circulatingRaw": 325149883983514,
+          "miningReserveRaw": 149536132818,
+          "burnedRaw": 573217325177210
+        },
+        {
+          "year": 91,
+          "totalSupplyRaw": 423456906436110,
+          "circulatingRaw": 321908959484499,
+          "miningReserveRaw": 138854980475,
+          "burnedRaw": 576543093563890
+        },
+        {
+          "year": 92,
+          "totalSupplyRaw": 420167255431186,
+          "circulatingRaw": 318700444230474,
+          "miningReserveRaw": 128173828132,
+          "burnedRaw": 579832744568814
+        },
+        {
+          "year": 93,
+          "totalSupplyRaw": 416913212308729,
+          "circulatingRaw": 315524014128989,
+          "miningReserveRaw": 117492675789,
+          "burnedRaw": 583086787691271
+        },
+        {
+          "year": 94,
+          "totalSupplyRaw": 413694280080719,
+          "circulatingRaw": 312379348328519,
+          "miningReserveRaw": 106811523446,
+          "burnedRaw": 586305719919281
+        },
+        {
+          "year": 95,
+          "totalSupplyRaw": 410509973774474,
+          "circulatingRaw": 309266129186054,
+          "miningReserveRaw": 96130371103,
+          "burnedRaw": 589490026225526
+        },
+        {
+          "year": 96,
+          "totalSupplyRaw": 407359819960226,
+          "circulatingRaw": 306184042235014,
+          "miningReserveRaw": 85449218760,
+          "burnedRaw": 592640180039774
+        },
+        {
+          "year": 97,
+          "totalSupplyRaw": 404243409706793,
+          "circulatingRaw": 303127488983074,
+          "miningReserveRaw": 80108642589,
+          "burnedRaw": 595756590293207
+        },
+        {
+          "year": 98,
+          "totalSupplyRaw": 401160290807145,
+          "circulatingRaw": 300101501263653,
+          "miningReserveRaw": 74768066418,
+          "burnedRaw": 598839709192855
+        },
+        {
+          "year": 99,
+          "totalSupplyRaw": 398110021314894,
+          "circulatingRaw": 297105773421426,
+          "miningReserveRaw": 69427490247,
+          "burnedRaw": 601889978685106
+        },
+        {
+          "year": 100,
+          "totalSupplyRaw": 395092169154758,
+          "circulatingRaw": 294140002857622,
+          "miningReserveRaw": 64086914076,
+          "burnedRaw": 604907830845242
+        }
+      ]
+    },
+    {
+      "scenario": "Moderate",
+      "subscriptionPercent": 75,
+      "assumedCirculatingBurnPercent": 2,
+      "grossFundingZAR": 1500000,
+      "years": [
+        {
+          "year": 1,
+          "totalSupplyRaw": 986562500000000,
+          "circulatingRaw": 290937500000000,
+          "miningReserveRaw": 328125000000000,
+          "burnedRaw": 13437500000000
+        },
+        {
+          "year": 2,
+          "totalSupplyRaw": 972681250000000,
+          "circulatingRaw": 331056250000000,
+          "miningReserveRaw": 306250000000000,
+          "burnedRaw": 27318750000000
+        },
+        {
+          "year": 3,
+          "totalSupplyRaw": 958353875000000,
+          "circulatingRaw": 370372625000000,
+          "miningReserveRaw": 284375000000000,
+          "burnedRaw": 41646125000000
+        },
+        {
+          "year": 4,
+          "totalSupplyRaw": 943578610000000,
+          "circulatingRaw": 408902672500000,
+          "miningReserveRaw": 262500000000000,
+          "burnedRaw": 56421390000000
+        },
+        {
+          "year": 5,
+          "totalSupplyRaw": 928354259675000,
+          "circulatingRaw": 446662119050000,
+          "miningReserveRaw": 240625000000000,
+          "burnedRaw": 71645740325000
+        },
+        {
+          "year": 6,
+          "totalSupplyRaw": 912880160262750,
+          "circulatingRaw": 473866376669000,
+          "miningReserveRaw": 218750000000000,
+          "burnedRaw": 87119839737250
+        },
+        {
+          "year": 7,
+          "totalSupplyRaw": 897152143549683,
+          "circulatingRaw": 500526549135620,
+          "miningReserveRaw": 196875000000000,
+          "burnedRaw": 102847856450317
+        },
+        {
+          "year": 8,
+          "totalSupplyRaw": 881166582846268,
+          "circulatingRaw": 526653518152908,
+          "miningReserveRaw": 175000000000000,
+          "burnedRaw": 118833417153732
+        },
+        {
+          "year": 9,
+          "totalSupplyRaw": 865139109248542,
+          "circulatingRaw": 541539197789850,
+          "miningReserveRaw": 164062500000000,
+          "burnedRaw": 134860890751458
+        },
+        {
+          "year": 10,
+          "totalSupplyRaw": 849062704719811,
+          "circulatingRaw": 556127163834053,
+          "miningReserveRaw": 153125000000000,
+          "burnedRaw": 150937295280189
+        },
+        {
+          "year": 11,
+          "totalSupplyRaw": 833230884398843,
+          "circulatingRaw": 555723370557372,
+          "miningReserveRaw": 142187500000000,
+          "burnedRaw": 166769115601157
+        },
+        {
+          "year": 12,
+          "totalSupplyRaw": 817631666295623,
+          "circulatingRaw": 555327653146225,
+          "miningReserveRaw": 131250000000000,
+          "burnedRaw": 182368333704377
+        },
+        {
+          "year": 13,
+          "totalSupplyRaw": 802253662575230,
+          "circulatingRaw": 554939850083301,
+          "miningReserveRaw": 120312500000000,
+          "burnedRaw": 197746337424770
+        },
+        {
+          "year": 14,
+          "totalSupplyRaw": 787086049948968,
+          "circulatingRaw": 554559803081635,
+          "miningReserveRaw": 109375000000000,
+          "burnedRaw": 212913950051032
+        },
+        {
+          "year": 15,
+          "totalSupplyRaw": 772118541543970,
+          "circulatingRaw": 554187357020003,
+          "miningReserveRaw": 98437500000000,
+          "burnedRaw": 227881458456030
+        },
+        {
+          "year": 16,
+          "totalSupplyRaw": 757341360177372,
+          "circulatingRaw": 553822359879603,
+          "miningReserveRaw": 87500000000000,
+          "burnedRaw": 242658639822628
+        },
+        {
+          "year": 17,
+          "totalSupplyRaw": 742854587964892,
+          "circulatingRaw": 548105287682011,
+          "miningReserveRaw": 82031250000000,
+          "burnedRaw": 257145412035108
+        },
+        {
+          "year": 18,
+          "totalSupplyRaw": 728647204697108,
+          "circulatingRaw": 542502556928371,
+          "miningReserveRaw": 76562500000000,
+          "burnedRaw": 271352795302892
+        },
+        {
+          "year": 19,
+          "totalSupplyRaw": 714708671170105,
+          "circulatingRaw": 537011880789804,
+          "miningReserveRaw": 71093750000000,
+          "burnedRaw": 285291328829895
+        },
+        {
+          "year": 20,
+          "totalSupplyRaw": 701028906535294,
+          "circulatingRaw": 531631018174008,
+          "miningReserveRaw": 65625000000000,
+          "burnedRaw": 298971093464706
+        },
+        {
+          "year": 21,
+          "totalSupplyRaw": 687598266753750,
+          "circulatingRaw": 526357772810528,
+          "miningReserveRaw": 60156250000000,
+          "burnedRaw": 312401733246250
+        },
+        {
+          "year": 22,
+          "totalSupplyRaw": 674407524100379,
+          "circulatingRaw": 521189992354318,
+          "miningReserveRaw": 54687500000000,
+          "burnedRaw": 325592475899621
+        },
+        {
+          "year": 23,
+          "totalSupplyRaw": 661447847665990,
+          "circulatingRaw": 516125567507232,
+          "miningReserveRaw": 49218750000000,
+          "burnedRaw": 338552152334010
+        },
+        {
+          "year": 24,
+          "totalSupplyRaw": 648710784807909,
+          "circulatingRaw": 511162431157088,
+          "miningReserveRaw": 43750000000000,
+          "burnedRaw": 351289215192091
+        },
+        {
+          "year": 25,
+          "totalSupplyRaw": 636242931002227,
+          "circulatingRaw": 503618870033947,
+          "miningReserveRaw": 41015625000000,
+          "burnedRaw": 363757068997773
+        },
+        {
+          "year": 26,
+          "totalSupplyRaw": 624035444303135,
+          "circulatingRaw": 496226180133269,
+          "miningReserveRaw": 38281250000000,
+          "burnedRaw": 375964555696865
+        },
+        {
+          "year": 27,
+          "totalSupplyRaw": 612079832491977,
+          "circulatingRaw": 488981344030604,
+          "miningReserveRaw": 35546875000000,
+          "burnedRaw": 387920167508023
+        },
+        {
+          "year": 28,
+          "totalSupplyRaw": 600367937438297,
+          "circulatingRaw": 481881404649992,
+          "miningReserveRaw": 32812500000000,
+          "burnedRaw": 399632062561703
+        },
+        {
+          "year": 29,
+          "totalSupplyRaw": 588891920205883,
+          "circulatingRaw": 474923464056993,
+          "miningReserveRaw": 30078125000000,
+          "burnedRaw": 411108079794117
+        },
+        {
+          "year": 30,
+          "totalSupplyRaw": 577644246867300,
+          "circulatingRaw": 468104682275854,
+          "miningReserveRaw": 27343750000000,
+          "burnedRaw": 422355753132700
+        },
+        {
+          "year": 31,
+          "totalSupplyRaw": 566617674992211,
+          "circulatingRaw": 461422276130337,
+          "miningReserveRaw": 24609375000000,
+          "burnedRaw": 433382325007789
+        },
+        {
+          "year": 32,
+          "totalSupplyRaw": 555805240776512,
+          "circulatingRaw": 454873518107731,
+          "miningReserveRaw": 21875000000000,
+          "burnedRaw": 444194759223488
+        },
+        {
+          "year": 33,
+          "totalSupplyRaw": 545227590530919,
+          "circulatingRaw": 447115891495577,
+          "miningReserveRaw": 20507812500000,
+          "burnedRaw": 454772409469081
+        },
+        {
+          "year": 34,
+          "totalSupplyRaw": 534877734624241,
+          "circulatingRaw": 439513417415666,
+          "miningReserveRaw": 19140625000000,
+          "burnedRaw": 465122265375759
+        },
+        {
+          "year": 35,
+          "totalSupplyRaw": 524748937915500,
+          "circulatingRaw": 432062992817353,
+          "miningReserveRaw": 17773437500000,
+          "burnedRaw": 475251062084500
+        },
+        {
+          "year": 36,
+          "totalSupplyRaw": 514834708929246,
+          "circulatingRaw": 424761576711006,
+          "miningReserveRaw": 16406250000000,
+          "burnedRaw": 485165291070754
+        },
+        {
+          "year": 37,
+          "totalSupplyRaw": 505128789534114,
+          "circulatingRaw": 417606188926786,
+          "miningReserveRaw": 15039062500000,
+          "burnedRaw": 494871210465886
+        },
+        {
+          "year": 38,
+          "totalSupplyRaw": 495625145100213,
+          "circulatingRaw": 410593908898251,
+          "miningReserveRaw": 13671875000000,
+          "burnedRaw": 504374854899787
+        },
+        {
+          "year": 39,
+          "totalSupplyRaw": 486317955112150,
+          "circulatingRaw": 403721874470286,
+          "miningReserveRaw": 12304687500000,
+          "burnedRaw": 513682044887850
+        },
+        {
+          "year": 40,
+          "totalSupplyRaw": 477201604215652,
+          "circulatingRaw": 396987280730881,
+          "miningReserveRaw": 10937500000000,
+          "burnedRaw": 522798395784348
+        },
+        {
+          "year": 41,
+          "totalSupplyRaw": 468284345551797,
+          "circulatingRaw": 389717456991264,
+          "miningReserveRaw": 10253906250000,
+          "burnedRaw": 531715654448203
+        },
+        {
+          "year": 42,
+          "totalSupplyRaw": 459560675421446,
+          "circulatingRaw": 382593029726439,
+          "miningReserveRaw": 9570312500000,
+          "burnedRaw": 540439324578554
+        },
+        {
+          "year": 43,
+          "totalSupplyRaw": 451025276292168,
+          "circulatingRaw": 375611091006911,
+          "miningReserveRaw": 8886718750000,
+          "burnedRaw": 548974723707832
+        },
+        {
+          "year": 44,
+          "totalSupplyRaw": 442673009270268,
+          "circulatingRaw": 368768791061773,
+          "miningReserveRaw": 8203125000000,
+          "burnedRaw": 557326990729732
+        },
+        {
+          "year": 45,
+          "totalSupplyRaw": 434498906913609,
+          "circulatingRaw": 362063337115538,
+          "miningReserveRaw": 7519531250000,
+          "burnedRaw": 565501093086391
+        },
+        {
+          "year": 46,
+          "totalSupplyRaw": 426498166368896,
+          "circulatingRaw": 355491992248228,
+          "miningReserveRaw": 6835937500000,
+          "burnedRaw": 573501833631104
+        },
+        {
+          "year": 47,
+          "totalSupplyRaw": 418666142817899,
+          "circulatingRaw": 349052074278264,
+          "miningReserveRaw": 6152343750000,
+          "burnedRaw": 581333857182101
+        },
+        {
+          "year": 48,
+          "totalSupplyRaw": 410998343217853,
+          "circulatingRaw": 342740954667699,
+          "miningReserveRaw": 5468750000000,
+          "burnedRaw": 589001656782147
+        },
+        {
+          "year": 49,
+          "totalSupplyRaw": 403497256259493,
+          "circulatingRaw": 336221096511846,
+          "miningReserveRaw": 5126953125000,
+          "burnedRaw": 596502743740507
+        },
+        {
+          "year": 50,
+          "totalSupplyRaw": 396158538060625,
+          "circulatingRaw": 329831635519110,
+          "miningReserveRaw": 4785156250000,
+          "burnedRaw": 603841461939375
+        },
+        {
+          "year": 51,
+          "totalSupplyRaw": 388977982098168,
+          "circulatingRaw": 323569963746228,
+          "miningReserveRaw": 4443359375000,
+          "burnedRaw": 611022017901832
+        },
+        {
+          "year": 52,
+          "totalSupplyRaw": 381951513936897,
+          "circulatingRaw": 317433525408804,
+          "miningReserveRaw": 4101562500000,
+          "burnedRaw": 618048486063103
+        },
+        {
+          "year": 53,
+          "totalSupplyRaw": 375075186189817,
+          "circulatingRaw": 311419815838128,
+          "miningReserveRaw": 3759765625000,
+          "burnedRaw": 624924813810183
+        },
+        {
+          "year": 54,
+          "totalSupplyRaw": 368345173699221,
+          "circulatingRaw": 305526380458866,
+          "miningReserveRaw": 3417968750000,
+          "burnedRaw": 631654826300779
+        },
+        {
+          "year": 55,
+          "totalSupplyRaw": 361757768928027,
+          "circulatingRaw": 299750813787189,
+          "miningReserveRaw": 3076171875000,
+          "burnedRaw": 638242231071973
+        },
+        {
+          "year": 56,
+          "totalSupplyRaw": 355309377551493,
+          "circulatingRaw": 294090758448946,
+          "miningReserveRaw": 2734375000000,
+          "burnedRaw": 644690622448507
+        },
+        {
+          "year": 57,
+          "totalSupplyRaw": 348999932208638,
+          "circulatingRaw": 288376423748718,
+          "miningReserveRaw": 2563476562500,
+          "burnedRaw": 651000067791362
+        },
+        {
+          "year": 58,
+          "totalSupplyRaw": 342825984170043,
+          "circulatingRaw": 282776375742494,
+          "miningReserveRaw": 2392578125000,
+          "burnedRaw": 657174015829957
+        },
+        {
+          "year": 59,
+          "totalSupplyRaw": 336784187171317,
+          "circulatingRaw": 277288328696395,
+          "miningReserveRaw": 2221679687500,
+          "burnedRaw": 663215812828683
+        },
+        {
+          "year": 60,
+          "totalSupplyRaw": 330871293689269,
+          "circulatingRaw": 271910042591218,
+          "miningReserveRaw": 2050781250000,
+          "burnedRaw": 669128706310731
+        },
+        {
+          "year": 61,
+          "totalSupplyRaw": 325084151376293,
+          "circulatingRaw": 266639322208144,
+          "miningReserveRaw": 1879882812500,
+          "burnedRaw": 674915848623707
+        },
+        {
+          "year": 62,
+          "totalSupplyRaw": 319419699645599,
+          "circulatingRaw": 261474016232732,
+          "miningReserveRaw": 1708984375000,
+          "burnedRaw": 680580300354401
+        },
+        {
+          "year": 63,
+          "totalSupplyRaw": 313874966400302,
+          "circulatingRaw": 256412016376828,
+          "miningReserveRaw": 1538085937500,
+          "burnedRaw": 686125033599698
+        },
+        {
+          "year": 64,
+          "totalSupplyRaw": 308447064899718,
+          "circulatingRaw": 251451256518042,
+          "miningReserveRaw": 1367187500000,
+          "burnedRaw": 691552935100282
+        },
+        {
+          "year": 65,
+          "totalSupplyRaw": 303134899740900,
+          "circulatingRaw": 246505971622057,
+          "miningReserveRaw": 1281738281250,
+          "burnedRaw": 696865100259100
+        },
+        {
+          "year": 66,
+          "totalSupplyRaw": 297935711832205,
+          "circulatingRaw": 241659592423991,
+          "miningReserveRaw": 1196289062500,
+          "burnedRaw": 702064288167795
+        },
+        {
+          "year": 67,
+          "totalSupplyRaw": 292846819482066,
+          "circulatingRaw": 236910140809887,
+          "miningReserveRaw": 1110839843750,
+          "burnedRaw": 707153180517934
+        },
+        {
+          "year": 68,
+          "totalSupplyRaw": 287865615740073,
+          "circulatingRaw": 232255678228065,
+          "miningReserveRaw": 1025390625000,
+          "burnedRaw": 712134384259927
+        },
+        {
+          "year": 69,
+          "totalSupplyRaw": 282989565846787,
+          "circulatingRaw": 227694304897879,
+          "miningReserveRaw": 939941406250,
+          "burnedRaw": 717010434153213
+        },
+        {
+          "year": 70,
+          "totalSupplyRaw": 278216204787323,
+          "circulatingRaw": 223224159034297,
+          "miningReserveRaw": 854492187500,
+          "burnedRaw": 721783795212677
+        },
+        {
+          "year": 71,
+          "totalSupplyRaw": 273543134943987,
+          "circulatingRaw": 218843416087987,
+          "miningReserveRaw": 769042968750,
+          "burnedRaw": 726456865056013
+        },
+        {
+          "year": 72,
+          "totalSupplyRaw": 268968023843491,
+          "circulatingRaw": 214550288000603,
+          "miningReserveRaw": 683593750000,
+          "burnedRaw": 731031976156509
+        },
+        {
+          "year": 73,
+          "totalSupplyRaw": 264489456486648,
+          "circulatingRaw": 210301152357779,
+          "miningReserveRaw": 640869140625,
+          "burnedRaw": 735510543513352
+        },
+        {
+          "year": 74,
+          "totalSupplyRaw": 260105207197893,
+          "circulatingRaw": 206136999427811,
+          "miningReserveRaw": 598144531250,
+          "burnedRaw": 739894792802107
+        },
+        {
+          "year": 75,
+          "totalSupplyRaw": 255813109555209,
+          "circulatingRaw": 202056129556443,
+          "miningReserveRaw": 555419921875,
+          "burnedRaw": 744186890444791
+        },
+        {
+          "year": 76,
+          "totalSupplyRaw": 251611054468049,
+          "circulatingRaw": 198056877082502,
+          "miningReserveRaw": 512695312500,
+          "burnedRaw": 748388945531951
+        },
+        {
+          "year": 77,
+          "totalSupplyRaw": 247496988330560,
+          "circulatingRaw": 194137609658040,
+          "miningReserveRaw": 469970703125,
+          "burnedRaw": 752503011669440
+        },
+        {
+          "year": 78,
+          "totalSupplyRaw": 243468911246743,
+          "circulatingRaw": 190296727582067,
+          "miningReserveRaw": 427246093750,
+          "burnedRaw": 756531088753257
+        },
+        {
+          "year": 79,
+          "totalSupplyRaw": 239524875324369,
+          "circulatingRaw": 186532663147614,
+          "miningReserveRaw": 384521484375,
+          "burnedRaw": 760475124675631
+        },
+        {
+          "year": 80,
+          "totalSupplyRaw": 235662983034611,
+          "circulatingRaw": 182843880001850,
+          "miningReserveRaw": 341796875000,
+          "burnedRaw": 764337016965389
+        },
+        {
+          "year": 81,
+          "totalSupplyRaw": 231881812880593,
+          "circulatingRaw": 179207937460407,
+          "miningReserveRaw": 320434570313,
+          "burnedRaw": 768118187119407
+        },
+        {
+          "year": 82,
+          "totalSupplyRaw": 228179554842799,
+          "circulatingRaw": 175644713769793,
+          "miningReserveRaw": 299072265626,
+          "burnedRaw": 771820445157201
+        },
+        {
+          "year": 83,
+          "totalSupplyRaw": 224554444880941,
+          "circulatingRaw": 172152754552991,
+          "miningReserveRaw": 277709960939,
+          "burnedRaw": 775445555119059
+        },
+        {
+          "year": 84,
+          "totalSupplyRaw": 221004763525438,
+          "circulatingRaw": 168730634520525,
+          "miningReserveRaw": 256347656252,
+          "burnedRaw": 778995236474562
+        },
+        {
+          "year": 85,
+          "totalSupplyRaw": 217528834521501,
+          "circulatingRaw": 165376956888708,
+          "miningReserveRaw": 234985351565,
+          "burnedRaw": 782471165478499
+        },
+        {
+          "year": 86,
+          "totalSupplyRaw": 214125023523573,
+          "circulatingRaw": 162090352809528,
+          "miningReserveRaw": 213623046878,
+          "burnedRaw": 785874976476427
+        },
+        {
+          "year": 87,
+          "totalSupplyRaw": 210791736837931,
+          "circulatingRaw": 158869480811931,
+          "miningReserveRaw": 192260742191,
+          "burnedRaw": 789208263162069
+        },
+        {
+          "year": 88,
+          "totalSupplyRaw": 207527420211409,
+          "circulatingRaw": 155713026254286,
+          "miningReserveRaw": 170898437504,
+          "burnedRaw": 792472579788591
+        },
+        {
+          "year": 89,
+          "totalSupplyRaw": 204330771287297,
+          "circulatingRaw": 152609233258497,
+          "miningReserveRaw": 160217285161,
+          "burnedRaw": 795669228712703
+        },
+        {
+          "year": 90,
+          "totalSupplyRaw": 201200306961900,
+          "circulatingRaw": 149567516122624,
+          "miningReserveRaw": 149536132818,
+          "burnedRaw": 798799693038100
+        },
+        {
+          "year": 91,
+          "totalSupplyRaw": 198134580281079,
+          "circulatingRaw": 146586633329468,
+          "miningReserveRaw": 138854980475,
+          "burnedRaw": 801865419718921
+        },
+        {
+          "year": 92,
+          "totalSupplyRaw": 195132179392887,
+          "circulatingRaw": 143665368192175,
+          "miningReserveRaw": 128173828132,
+          "burnedRaw": 804867820607113
+        },
+        {
+          "year": 93,
+          "totalSupplyRaw": 192191726537368,
+          "circulatingRaw": 140802528357628,
+          "miningReserveRaw": 117492675789,
+          "burnedRaw": 807808273462632
+        },
+        {
+          "year": 94,
+          "totalSupplyRaw": 189311877071972,
+          "circulatingRaw": 137996945319772,
+          "miningReserveRaw": 106811523446,
+          "burnedRaw": 810688122928028
+        },
+        {
+          "year": 95,
+          "totalSupplyRaw": 186491318531093,
+          "circulatingRaw": 135247473942673,
+          "miningReserveRaw": 96130371103,
+          "burnedRaw": 813508681468907
+        },
+        {
+          "year": 96,
+          "totalSupplyRaw": 183728769718328,
+          "circulatingRaw": 132552991993116,
+          "miningReserveRaw": 85449218760,
+          "burnedRaw": 816271230281672
+        },
+        {
+          "year": 97,
+          "totalSupplyRaw": 181023086641621,
+          "circulatingRaw": 129907165917902,
+          "miningReserveRaw": 80108642589,
+          "burnedRaw": 818976913358379
+        },
+        {
+          "year": 98,
+          "totalSupplyRaw": 178373045907684,
+          "circulatingRaw": 127314256364192,
+          "miningReserveRaw": 74768066418,
+          "burnedRaw": 821626954092316
+        },
+        {
+          "year": 99,
+          "totalSupplyRaw": 175777452895024,
+          "circulatingRaw": 124773205001556,
+          "miningReserveRaw": 69427490247,
+          "burnedRaw": 824222547104976
+        },
+        {
+          "year": 100,
+          "totalSupplyRaw": 173235140963309,
+          "circulatingRaw": 122282974666173,
+          "miningReserveRaw": 64086914076,
+          "burnedRaw": 826764859036691
+        }
+      ]
+    },
+    {
+      "scenario": "Strong adoption",
+      "subscriptionPercent": 100,
+      "assumedCirculatingBurnPercent": 3,
+      "grossFundingZAR": 2000000,
+      "years": [
+        {
+          "year": 1,
+          "totalSupplyRaw": 982093750000000,
+          "circulatingRaw": 336468750000000,
+          "miningReserveRaw": 328125000000000,
+          "burnedRaw": 17906250000000
+        },
+        {
+          "year": 2,
+          "totalSupplyRaw": 963468437500000,
+          "circulatingRaw": 371843437500000,
+          "miningReserveRaw": 306250000000000,
+          "burnedRaw": 36531562500000
+        },
+        {
+          "year": 3,
+          "totalSupplyRaw": 944138134375000,
+          "circulatingRaw": 406156884375000,
+          "miningReserveRaw": 284375000000000,
+          "burnedRaw": 55861865625000
+        },
+        {
+          "year": 4,
+          "totalSupplyRaw": 924116865343750,
+          "circulatingRaw": 439440927843750,
+          "miningReserveRaw": 262500000000000,
+          "burnedRaw": 75883134656250
+        },
+        {
+          "year": 5,
+          "totalSupplyRaw": 903418590633438,
+          "circulatingRaw": 471726450008438,
+          "miningReserveRaw": 240625000000000,
+          "burnedRaw": 96581409366562
+        },
+        {
+          "year": 6,
+          "totalSupplyRaw": 882357190101935,
+          "circulatingRaw": 493343406508185,
+          "miningReserveRaw": 218750000000000,
+          "burnedRaw": 117642809898065
+        },
+        {
+          "year": 7,
+          "totalSupplyRaw": 860937448727003,
+          "circulatingRaw": 514311854312940,
+          "miningReserveRaw": 196875000000000,
+          "burnedRaw": 139062551272997
+        },
+        {
+          "year": 8,
+          "totalSupplyRaw": 839164313376912,
+          "circulatingRaw": 534651248683552,
+          "miningReserveRaw": 175000000000000,
+          "burnedRaw": 160835686623088
+        },
+        {
+          "year": 9,
+          "totalSupplyRaw": 817370997681738,
+          "circulatingRaw": 543771086223046,
+          "miningReserveRaw": 164062500000000,
+          "burnedRaw": 182629002318262
+        },
+        {
+          "year": 10,
+          "totalSupplyRaw": 795552869522113,
+          "circulatingRaw": 552617328636355,
+          "miningReserveRaw": 153125000000000,
+          "burnedRaw": 204447130477887
+        },
+        {
+          "year": 11,
+          "totalSupplyRaw": 774155697618736,
+          "circulatingRaw": 546648183777265,
+          "miningReserveRaw": 142187500000000,
+          "burnedRaw": 225844302381264
+        },
+        {
+          "year": 12,
+          "totalSupplyRaw": 753162126413346,
+          "circulatingRaw": 540858113263948,
+          "miningReserveRaw": 131250000000000,
+          "burnedRaw": 246837873586654
+        },
+        {
+          "year": 13,
+          "totalSupplyRaw": 732555557357959,
+          "circulatingRaw": 535241744866030,
+          "miningReserveRaw": 120312500000000,
+          "burnedRaw": 267444442642041
+        },
+        {
+          "year": 14,
+          "totalSupplyRaw": 712320114387383,
+          "circulatingRaw": 529793867520050,
+          "miningReserveRaw": 109375000000000,
+          "burnedRaw": 287679885612617
+        },
+        {
+          "year": 15,
+          "totalSupplyRaw": 692440611018416,
+          "circulatingRaw": 524509426494449,
+          "miningReserveRaw": 98437500000000,
+          "burnedRaw": 307559388981584
+        },
+        {
+          "year": 16,
+          "totalSupplyRaw": 672902518997385,
+          "circulatingRaw": 519383518699616,
+          "miningReserveRaw": 87500000000000,
+          "burnedRaw": 327097481002615
+        },
+        {
+          "year": 17,
+          "totalSupplyRaw": 653856000921509,
+          "circulatingRaw": 509106700638628,
+          "miningReserveRaw": 82031250000000,
+          "burnedRaw": 346143999078491
+        },
+        {
+          "year": 18,
+          "totalSupplyRaw": 635282834888207,
+          "circulatingRaw": 499138187119470,
+          "miningReserveRaw": 76562500000000,
+          "burnedRaw": 364717165111793
+        },
+        {
+          "year": 19,
+          "totalSupplyRaw": 617165519386187,
+          "circulatingRaw": 489468729005886,
+          "miningReserveRaw": 71093750000000,
+          "burnedRaw": 382834480613813
+        },
+        {
+          "year": 20,
+          "totalSupplyRaw": 599487242996996,
+          "circulatingRaw": 480089354635710,
+          "miningReserveRaw": 65625000000000,
+          "burnedRaw": 400512757003004
+        },
+        {
+          "year": 21,
+          "totalSupplyRaw": 582231855439861,
+          "circulatingRaw": 470991361496639,
+          "miningReserveRaw": 60156250000000,
+          "burnedRaw": 417768144560139
+        },
+        {
+          "year": 22,
+          "totalSupplyRaw": 565383839897801,
+          "circulatingRaw": 462166308151740,
+          "miningReserveRaw": 54687500000000,
+          "burnedRaw": 434616160102199
+        },
+        {
+          "year": 23,
+          "totalSupplyRaw": 548928286565946,
+          "circulatingRaw": 453606006407188,
+          "miningReserveRaw": 49218750000000,
+          "burnedRaw": 451071713434054
+        },
+        {
+          "year": 24,
+          "totalSupplyRaw": 532850867365794,
+          "circulatingRaw": 445302513714973,
+          "miningReserveRaw": 43750000000000,
+          "burnedRaw": 467149132634206
+        },
+        {
+          "year": 25,
+          "totalSupplyRaw": 517219843021804,
+          "circulatingRaw": 434595782053524,
+          "miningReserveRaw": 41015625000000,
+          "burnedRaw": 482780156978196
+        },
+        {
+          "year": 26,
+          "totalSupplyRaw": 502019516511785,
+          "circulatingRaw": 424210252341919,
+          "miningReserveRaw": 38281250000000,
+          "burnedRaw": 497980483488215
+        },
+        {
+          "year": 27,
+          "totalSupplyRaw": 487234776983035,
+          "circulatingRaw": 414136288521662,
+          "miningReserveRaw": 35546875000000,
+          "burnedRaw": 512765223016965
+        },
+        {
+          "year": 28,
+          "totalSupplyRaw": 472851076404318,
+          "circulatingRaw": 404364543616013,
+          "miningReserveRaw": 32812500000000,
+          "burnedRaw": 527148923595682
+        },
+        {
+          "year": 29,
+          "totalSupplyRaw": 458854407206423,
+          "circulatingRaw": 394885951057533,
+          "miningReserveRaw": 30078125000000,
+          "burnedRaw": 541145592793577
+        },
+        {
+          "year": 30,
+          "totalSupplyRaw": 445231280867254,
+          "circulatingRaw": 385691716275808,
+          "miningReserveRaw": 27343750000000,
+          "burnedRaw": 554768719132746
+        },
+        {
+          "year": 31,
+          "totalSupplyRaw": 431968707399408,
+          "circulatingRaw": 376773308537534,
+          "miningReserveRaw": 24609375000000,
+          "burnedRaw": 568031292600592
+        },
+        {
+          "year": 32,
+          "totalSupplyRaw": 419054175700189,
+          "circulatingRaw": 368122453031408,
+          "miningReserveRaw": 21875000000000,
+          "burnedRaw": 580945824299811
+        },
+        {
+          "year": 33,
+          "totalSupplyRaw": 406516650350808,
+          "circulatingRaw": 358404951315466,
+          "miningReserveRaw": 20507812500000,
+          "burnedRaw": 593483349649192
+        },
+        {
+          "year": 34,
+          "totalSupplyRaw": 394343291859578,
+          "circulatingRaw": 348978974651003,
+          "miningReserveRaw": 19140625000000,
+          "burnedRaw": 605656708140422
+        },
+        {
+          "year": 35,
+          "totalSupplyRaw": 382521722384620,
+          "circulatingRaw": 339835777286473,
+          "miningReserveRaw": 17773437500000,
+          "burnedRaw": 617478277615380
+        },
+        {
+          "year": 36,
+          "totalSupplyRaw": 371040008061119,
+          "circulatingRaw": 330966875842879,
+          "miningReserveRaw": 16406250000000,
+          "burnedRaw": 628959991938881
+        },
+        {
+          "year": 37,
+          "totalSupplyRaw": 359886642049921,
+          "circulatingRaw": 322364041442593,
+          "miningReserveRaw": 15039062500000,
+          "burnedRaw": 640113357950079
+        },
+        {
+          "year": 38,
+          "totalSupplyRaw": 349050528276278,
+          "circulatingRaw": 314019292074316,
+          "miningReserveRaw": 13671875000000,
+          "burnedRaw": 650949471723722
+        },
+        {
+          "year": 39,
+          "totalSupplyRaw": 338520965828951,
+          "circulatingRaw": 305924885187087,
+          "miningReserveRaw": 12304687500000,
+          "burnedRaw": 661479034171049
+        },
+        {
+          "year": 40,
+          "totalSupplyRaw": 328287633991246,
+          "circulatingRaw": 298073310506475,
+          "miningReserveRaw": 10937500000000,
+          "burnedRaw": 671712366008754
+        },
+        {
+          "year": 41,
+          "totalSupplyRaw": 318361085689314,
+          "circulatingRaw": 289794197128781,
+          "miningReserveRaw": 10253906250000,
+          "burnedRaw": 681638914310686
+        },
+        {
+          "year": 42,
+          "totalSupplyRaw": 308731102847425,
+          "circulatingRaw": 281763457152418,
+          "miningReserveRaw": 9570312500000,
+          "burnedRaw": 691268897152575
+        },
+        {
+          "year": 43,
+          "totalSupplyRaw": 299387824660603,
+          "circulatingRaw": 273973639375346,
+          "miningReserveRaw": 8886718750000,
+          "burnedRaw": 700612175339397
+        },
+        {
+          "year": 44,
+          "totalSupplyRaw": 290321734340081,
+          "circulatingRaw": 266417516131586,
+          "miningReserveRaw": 8203125000000,
+          "burnedRaw": 709678265659919
+        },
+        {
+          "year": 45,
+          "totalSupplyRaw": 281523646383210,
+          "circulatingRaw": 259088076585139,
+          "miningReserveRaw": 7519531250000,
+          "burnedRaw": 718476353616790
+        },
+        {
+          "year": 46,
+          "totalSupplyRaw": 272984694345753,
+          "circulatingRaw": 251978520225085,
+          "miningReserveRaw": 6835937500000,
+          "burnedRaw": 727015305654247
+        },
+        {
+          "year": 47,
+          "totalSupplyRaw": 264696319095468,
+          "circulatingRaw": 245082250555833,
+          "miningReserveRaw": 6152343750000,
+          "burnedRaw": 735303680904532
+        },
+        {
+          "year": 48,
+          "totalSupplyRaw": 256650257526813,
+          "circulatingRaw": 238392868976659,
+          "miningReserveRaw": 5468750000000,
+          "burnedRaw": 743349742473187
+        },
+        {
+          "year": 49,
+          "totalSupplyRaw": 248848785623757,
+          "circulatingRaw": 231572625876110,
+          "miningReserveRaw": 5126953125000,
+          "burnedRaw": 751151214376243
+        },
+        {
+          "year": 50,
+          "totalSupplyRaw": 241283892610092,
+          "circulatingRaw": 224956990068577,
+          "miningReserveRaw": 4785156250000,
+          "burnedRaw": 758716107389908
+        },
+        {
+          "year": 51,
+          "totalSupplyRaw": 233947841687210,
+          "circulatingRaw": 218539823335270,
+          "miningReserveRaw": 4443359375000,
+          "burnedRaw": 766052158312790
+        },
+        {
+          "year": 52,
+          "totalSupplyRaw": 226833160132055,
+          "circulatingRaw": 212315171603962,
+          "miningReserveRaw": 4101562500000,
+          "burnedRaw": 773166839867945
+        },
+        {
+          "year": 53,
+          "totalSupplyRaw": 219932629776283,
+          "circulatingRaw": 206277259424594,
+          "miningReserveRaw": 3759765625000,
+          "burnedRaw": 780067370223717
+        },
+        {
+          "year": 54,
+          "totalSupplyRaw": 213239277850962,
+          "circulatingRaw": 200420484610607,
+          "miningReserveRaw": 3417968750000,
+          "burnedRaw": 786760722149038
+        },
+        {
+          "year": 55,
+          "totalSupplyRaw": 206746368181877,
+          "circulatingRaw": 194739413041039,
+          "miningReserveRaw": 3076171875000,
+          "burnedRaw": 793253631818123
+        },
+        {
+          "year": 56,
+          "totalSupplyRaw": 200447392721105,
+          "circulatingRaw": 189228773618558,
+          "miningReserveRaw": 2734375000000,
+          "burnedRaw": 799552607278895
+        },
+        {
+          "year": 57,
+          "totalSupplyRaw": 194341190354297,
+          "circulatingRaw": 183717681894377,
+          "miningReserveRaw": 2563476562500,
+          "burnedRaw": 805658809645703
+        },
+        {
+          "year": 58,
+          "totalSupplyRaw": 188421531349470,
+          "circulatingRaw": 178371922921921,
+          "miningReserveRaw": 2392578125000,
+          "burnedRaw": 811578468650530
+        },
+        {
+          "year": 59,
+          "totalSupplyRaw": 182682395193561,
+          "circulatingRaw": 173186536718639,
+          "miningReserveRaw": 2221679687500,
+          "burnedRaw": 817317604806439
+        },
+        {
+          "year": 60,
+          "totalSupplyRaw": 177117963199506,
+          "circulatingRaw": 168156712101455,
+          "miningReserveRaw": 2050781250000,
+          "burnedRaw": 822882036800494
+        },
+        {
+          "year": 61,
+          "totalSupplyRaw": 171722611390936,
+          "circulatingRaw": 163277782222787,
+          "miningReserveRaw": 1879882812500,
+          "burnedRaw": 828277388609064
+        },
+        {
+          "year": 62,
+          "totalSupplyRaw": 166490903653346,
+          "circulatingRaw": 158545220240479,
+          "miningReserveRaw": 1708984375000,
+          "burnedRaw": 833509096346654
+        },
+        {
+          "year": 63,
+          "totalSupplyRaw": 161417585141114,
+          "circulatingRaw": 153954635117640,
+          "miningReserveRaw": 1538085937500,
+          "burnedRaw": 838582414858886
+        },
+        {
+          "year": 64,
+          "totalSupplyRaw": 156497575930162,
+          "circulatingRaw": 149501767548486,
+          "miningReserveRaw": 1367187500000,
+          "burnedRaw": 843502424069838
+        },
+        {
+          "year": 65,
+          "totalSupplyRaw": 151728528383062,
+          "circulatingRaw": 145099600264219,
+          "miningReserveRaw": 1281738281250,
+          "burnedRaw": 848271471616938
+        },
+        {
+          "year": 66,
+          "totalSupplyRaw": 147105617406694,
+          "circulatingRaw": 140829497998480,
+          "miningReserveRaw": 1196289062500,
+          "burnedRaw": 852894382593306
+        },
+        {
+          "year": 67,
+          "totalSupplyRaw": 142624177472893,
+          "circulatingRaw": 136687498800714,
+          "miningReserveRaw": 1110839843750,
+          "burnedRaw": 857375822527107
+        },
+        {
+          "year": 68,
+          "totalSupplyRaw": 138279697090889,
+          "circulatingRaw": 132669759578881,
+          "miningReserveRaw": 1025390625000,
+          "burnedRaw": 861720302909111
+        },
+        {
+          "year": 69,
+          "totalSupplyRaw": 134067813482611,
+          "circulatingRaw": 128772552533703,
+          "miningReserveRaw": 939941406250,
+          "burnedRaw": 865932186517389
+        },
+        {
+          "year": 70,
+          "totalSupplyRaw": 129984307452906,
+          "circulatingRaw": 124992261699880,
+          "miningReserveRaw": 854492187500,
+          "burnedRaw": 870015692547094
+        },
+        {
+          "year": 71,
+          "totalSupplyRaw": 126025098447072,
+          "circulatingRaw": 121325379591072,
+          "miningReserveRaw": 769042968750,
+          "burnedRaw": 873974901552928
+        },
+        {
+          "year": 72,
+          "totalSupplyRaw": 122186239788416,
+          "circulatingRaw": 117768503945528,
+          "miningReserveRaw": 683593750000,
+          "burnedRaw": 877813760211584
+        },
+        {
+          "year": 73,
+          "totalSupplyRaw": 118465195827125,
+          "circulatingRaw": 114276891698256,
+          "miningReserveRaw": 640869140625,
+          "burnedRaw": 881534804172875
+        },
+        {
+          "year": 74,
+          "totalSupplyRaw": 114858235588485,
+          "circulatingRaw": 110890027818403,
+          "miningReserveRaw": 598144531250,
+          "burnedRaw": 885141764411515
+        },
+        {
+          "year": 75,
+          "totalSupplyRaw": 111361749853711,
+          "circulatingRaw": 107604769854945,
+          "miningReserveRaw": 555419921875,
+          "burnedRaw": 888638250146289
+        },
+        {
+          "year": 76,
+          "totalSupplyRaw": 107972247015938,
+          "circulatingRaw": 104418069630391,
+          "miningReserveRaw": 512695312500,
+          "burnedRaw": 892027752984062
+        },
+        {
+          "year": 77,
+          "totalSupplyRaw": 104686349085094,
+          "circulatingRaw": 101326970412574,
+          "miningReserveRaw": 469970703125,
+          "burnedRaw": 895313650914906
+        },
+        {
+          "year": 78,
+          "totalSupplyRaw": 101500787835967,
+          "circulatingRaw": 98328604171291,
+          "miningReserveRaw": 427246093750,
+          "burnedRaw": 898499212164033
+        },
+        {
+          "year": 79,
+          "totalSupplyRaw": 98412401094002,
+          "circulatingRaw": 95420188917247,
+          "miningReserveRaw": 384521484375,
+          "burnedRaw": 901587598905998
+        },
+        {
+          "year": 80,
+          "totalSupplyRaw": 95418129153585,
+          "circulatingRaw": 92599026120824,
+          "miningReserveRaw": 341796875000,
+          "burnedRaw": 904581870846415
+        },
+        {
+          "year": 81,
+          "totalSupplyRaw": 92515652192932,
+          "circulatingRaw": 89841776772746,
+          "miningReserveRaw": 320434570313,
+          "burnedRaw": 907484347807068
+        },
+        {
+          "year": 82,
+          "totalSupplyRaw": 89702085978117,
+          "circulatingRaw": 87167244905111,
+          "miningReserveRaw": 299072265626,
+          "burnedRaw": 910297914021883
+        },
+        {
+          "year": 83,
+          "totalSupplyRaw": 86974639321455,
+          "circulatingRaw": 84572948993505,
+          "miningReserveRaw": 277709960939,
+          "burnedRaw": 913025360678545
+        },
+        {
+          "year": 84,
+          "totalSupplyRaw": 84330610964160,
+          "circulatingRaw": 82056481959247,
+          "miningReserveRaw": 256347656252,
+          "burnedRaw": 915669389035840
+        },
+        {
+          "year": 85,
+          "totalSupplyRaw": 81767386568809,
+          "circulatingRaw": 79615508936016,
+          "miningReserveRaw": 234985351565,
+          "burnedRaw": 918232613431191
+        },
+        {
+          "year": 86,
+          "totalSupplyRaw": 79282435817527,
+          "circulatingRaw": 77247765103482,
+          "miningReserveRaw": 213623046878,
+          "burnedRaw": 920717564182473
+        },
+        {
+          "year": 87,
+          "totalSupplyRaw": 76873309611924,
+          "circulatingRaw": 74951053585924,
+          "miningReserveRaw": 192260742191,
+          "burnedRaw": 923126690388076
+        },
+        {
+          "year": 88,
+          "totalSupplyRaw": 74537637371016,
+          "circulatingRaw": 72723243413893,
+          "miningReserveRaw": 170898437504,
+          "burnedRaw": 925462362628984
+        },
+        {
+          "year": 89,
+          "totalSupplyRaw": 72273444858049,
+          "circulatingRaw": 70551906829249,
+          "miningReserveRaw": 160217285161,
+          "burnedRaw": 927726555141951
+        },
+        {
+          "year": 90,
+          "totalSupplyRaw": 70078501181421,
+          "circulatingRaw": 68445710342145,
+          "miningReserveRaw": 149536132818,
+          "burnedRaw": 929921498818579
+        },
+        {
+          "year": 91,
+          "totalSupplyRaw": 67950646701265,
+          "circulatingRaw": 66402699749654,
+          "miningReserveRaw": 138854980475,
+          "burnedRaw": 932049353298735
+        },
+        {
+          "year": 92,
+          "totalSupplyRaw": 65887790675650,
+          "circulatingRaw": 64420979474938,
+          "miningReserveRaw": 128173828132,
+          "burnedRaw": 934112209324350
+        },
+        {
+          "year": 93,
+          "totalSupplyRaw": 63887908988203,
+          "circulatingRaw": 62498710808463,
+          "miningReserveRaw": 117492675789,
+          "burnedRaw": 936112091011797
+        },
+        {
+          "year": 94,
+          "totalSupplyRaw": 61949041954182,
+          "circulatingRaw": 60634110201982,
+          "miningReserveRaw": 106811523446,
+          "burnedRaw": 938050958045818
+        },
+        {
+          "year": 95,
+          "totalSupplyRaw": 60069292202116,
+          "circulatingRaw": 58825447613696,
+          "miningReserveRaw": 96130371103,
+          "burnedRaw": 939930707797884
+        },
+        {
+          "year": 96,
+          "totalSupplyRaw": 58246822628270,
+          "circulatingRaw": 57071044903058,
+          "miningReserveRaw": 85449218760,
+          "burnedRaw": 941753177371730
+        },
+        {
+          "year": 97,
+          "totalSupplyRaw": 56480014638572,
+          "circulatingRaw": 55364093914853,
+          "miningReserveRaw": 80108642589,
+          "burnedRaw": 943519985361428
+        },
+        {
+          "year": 98,
+          "totalSupplyRaw": 54767140999786,
+          "circulatingRaw": 53708351456294,
+          "miningReserveRaw": 74768066418,
+          "burnedRaw": 945232859000214
+        },
+        {
+          "year": 99,
+          "totalSupplyRaw": 53106529164960,
+          "circulatingRaw": 52102281271492,
+          "miningReserveRaw": 69427490247,
+          "burnedRaw": 946893470835040
+        },
+        {
+          "year": 100,
+          "totalSupplyRaw": 51496559489370,
+          "circulatingRaw": 50544393192234,
+          "miningReserveRaw": 64086914076,
+          "burnedRaw": 948503440510630
+        }
+      ]
+    },
+    {
+      "scenario": "Zero revenue",
+      "subscriptionPercent": 100,
+      "assumedCirculatingBurnPercent": 0,
+      "grossFundingZAR": 2000000,
+      "years": [
+        {
+          "year": 1,
+          "totalSupplyRaw": 992500000000000,
+          "circulatingRaw": 346875000000000,
+          "miningReserveRaw": 328125000000000,
+          "burnedRaw": 7500000000000
+        },
+        {
+          "year": 2,
+          "totalSupplyRaw": 985375000000000,
+          "circulatingRaw": 393750000000000,
+          "miningReserveRaw": 306250000000000,
+          "burnedRaw": 14625000000000
+        },
+        {
+          "year": 3,
+          "totalSupplyRaw": 978606250000000,
+          "circulatingRaw": 440625000000000,
+          "miningReserveRaw": 284375000000000,
+          "burnedRaw": 21393750000000
+        },
+        {
+          "year": 4,
+          "totalSupplyRaw": 972175937500000,
+          "circulatingRaw": 487500000000000,
+          "miningReserveRaw": 262500000000000,
+          "burnedRaw": 27824062500000
+        },
+        {
+          "year": 5,
+          "totalSupplyRaw": 966067140625000,
+          "circulatingRaw": 534375000000000,
+          "miningReserveRaw": 240625000000000,
+          "burnedRaw": 33932859375000
+        },
+        {
+          "year": 6,
+          "totalSupplyRaw": 960263783593750,
+          "circulatingRaw": 571250000000000,
+          "miningReserveRaw": 218750000000000,
+          "burnedRaw": 39736216406250
+        },
+        {
+          "year": 7,
+          "totalSupplyRaw": 954750594414063,
+          "circulatingRaw": 608125000000000,
+          "miningReserveRaw": 196875000000000,
+          "burnedRaw": 45249405585937
+        },
+        {
+          "year": 8,
+          "totalSupplyRaw": 949513064693360,
+          "circulatingRaw": 645000000000000,
+          "miningReserveRaw": 175000000000000,
+          "burnedRaw": 50486935306640
+        },
+        {
+          "year": 9,
+          "totalSupplyRaw": 944537411458692,
+          "circulatingRaw": 670937500000000,
+          "miningReserveRaw": 164062500000000,
+          "burnedRaw": 55462588541308
+        },
+        {
+          "year": 10,
+          "totalSupplyRaw": 939810540885758,
+          "circulatingRaw": 696875000000000,
+          "miningReserveRaw": 153125000000000,
+          "burnedRaw": 60189459114242
+        },
+        {
+          "year": 11,
+          "totalSupplyRaw": 935320013841471,
+          "circulatingRaw": 707812500000000,
+          "miningReserveRaw": 142187500000000,
+          "burnedRaw": 64679986158529
+        },
+        {
+          "year": 12,
+          "totalSupplyRaw": 931054013149398,
+          "circulatingRaw": 718750000000000,
+          "miningReserveRaw": 131250000000000,
+          "burnedRaw": 68945986850602
+        },
+        {
+          "year": 13,
+          "totalSupplyRaw": 927001312491929,
+          "circulatingRaw": 729687500000000,
+          "miningReserveRaw": 120312500000000,
+          "burnedRaw": 72998687508071
+        },
+        {
+          "year": 14,
+          "totalSupplyRaw": 923151246867333,
+          "circulatingRaw": 740625000000000,
+          "miningReserveRaw": 109375000000000,
+          "burnedRaw": 76848753132667
+        },
+        {
+          "year": 15,
+          "totalSupplyRaw": 919493684523967,
+          "circulatingRaw": 751562500000000,
+          "miningReserveRaw": 98437500000000,
+          "burnedRaw": 80506315476033
+        },
+        {
+          "year": 16,
+          "totalSupplyRaw": 916019000297769,
+          "circulatingRaw": 762500000000000,
+          "miningReserveRaw": 87500000000000,
+          "burnedRaw": 83980999702231
+        },
+        {
+          "year": 17,
+          "totalSupplyRaw": 912718050282881,
+          "circulatingRaw": 767968750000000,
+          "miningReserveRaw": 82031250000000,
+          "burnedRaw": 87281949717119
+        },
+        {
+          "year": 18,
+          "totalSupplyRaw": 909582147768737,
+          "circulatingRaw": 773437500000000,
+          "miningReserveRaw": 76562500000000,
+          "burnedRaw": 90417852231263
+        },
+        {
+          "year": 19,
+          "totalSupplyRaw": 906603040380301,
+          "circulatingRaw": 778906250000000,
+          "miningReserveRaw": 71093750000000,
+          "burnedRaw": 93396959619699
+        },
+        {
+          "year": 20,
+          "totalSupplyRaw": 903772888361286,
+          "circulatingRaw": 784375000000000,
+          "miningReserveRaw": 65625000000000,
+          "burnedRaw": 96227111638714
+        },
+        {
+          "year": 21,
+          "totalSupplyRaw": 901084243943222,
+          "circulatingRaw": 789843750000000,
+          "miningReserveRaw": 60156250000000,
+          "burnedRaw": 98915756056778
+        },
+        {
+          "year": 22,
+          "totalSupplyRaw": 898530031746061,
+          "circulatingRaw": 795312500000000,
+          "miningReserveRaw": 54687500000000,
+          "burnedRaw": 101469968253939
+        },
+        {
+          "year": 23,
+          "totalSupplyRaw": 896103530158758,
+          "circulatingRaw": 800781250000000,
+          "miningReserveRaw": 49218750000000,
+          "burnedRaw": 103896469841242
+        },
+        {
+          "year": 24,
+          "totalSupplyRaw": 893798353650821,
+          "circulatingRaw": 806250000000000,
+          "miningReserveRaw": 43750000000000,
+          "burnedRaw": 106201646349179
+        },
+        {
+          "year": 25,
+          "totalSupplyRaw": 891608435968280,
+          "circulatingRaw": 808984375000000,
+          "miningReserveRaw": 41015625000000,
+          "burnedRaw": 108391564031720
+        },
+        {
+          "year": 26,
+          "totalSupplyRaw": 889528014169866,
+          "circulatingRaw": 811718750000000,
+          "miningReserveRaw": 38281250000000,
+          "burnedRaw": 110471985830134
+        },
+        {
+          "year": 27,
+          "totalSupplyRaw": 887551613461373,
+          "circulatingRaw": 814453125000000,
+          "miningReserveRaw": 35546875000000,
+          "burnedRaw": 112448386538627
+        },
+        {
+          "year": 28,
+          "totalSupplyRaw": 885674032788305,
+          "circulatingRaw": 817187500000000,
+          "miningReserveRaw": 32812500000000,
+          "burnedRaw": 114325967211695
+        },
+        {
+          "year": 29,
+          "totalSupplyRaw": 883890331148890,
+          "circulatingRaw": 819921875000000,
+          "miningReserveRaw": 30078125000000,
+          "burnedRaw": 116109668851110
+        },
+        {
+          "year": 30,
+          "totalSupplyRaw": 882195814591446,
+          "circulatingRaw": 822656250000000,
+          "miningReserveRaw": 27343750000000,
+          "burnedRaw": 117804185408554
+        },
+        {
+          "year": 31,
+          "totalSupplyRaw": 880586023861874,
+          "circulatingRaw": 825390625000000,
+          "miningReserveRaw": 24609375000000,
+          "burnedRaw": 119413976138126
+        },
+        {
+          "year": 32,
+          "totalSupplyRaw": 879056722668781,
+          "circulatingRaw": 828125000000000,
+          "miningReserveRaw": 21875000000000,
+          "burnedRaw": 120943277331219
+        },
+        {
+          "year": 33,
+          "totalSupplyRaw": 877603886535342,
+          "circulatingRaw": 829492187500000,
+          "miningReserveRaw": 20507812500000,
+          "burnedRaw": 122396113464658
+        },
+        {
+          "year": 34,
+          "totalSupplyRaw": 876223692208575,
+          "circulatingRaw": 830859375000000,
+          "miningReserveRaw": 19140625000000,
+          "burnedRaw": 123776307791425
+        },
+        {
+          "year": 35,
+          "totalSupplyRaw": 874912507598147,
+          "circulatingRaw": 832226562500000,
+          "miningReserveRaw": 17773437500000,
+          "burnedRaw": 125087492401853
+        },
+        {
+          "year": 36,
+          "totalSupplyRaw": 873666882218240,
+          "circulatingRaw": 833593750000000,
+          "miningReserveRaw": 16406250000000,
+          "burnedRaw": 126333117781760
+        },
+        {
+          "year": 37,
+          "totalSupplyRaw": 872483538107328,
+          "circulatingRaw": 834960937500000,
+          "miningReserveRaw": 15039062500000,
+          "burnedRaw": 127516461892672
+        },
+        {
+          "year": 38,
+          "totalSupplyRaw": 871359361201962,
+          "circulatingRaw": 836328125000000,
+          "miningReserveRaw": 13671875000000,
+          "burnedRaw": 128640638798038
+        },
+        {
+          "year": 39,
+          "totalSupplyRaw": 870291393141864,
+          "circulatingRaw": 837695312500000,
+          "miningReserveRaw": 12304687500000,
+          "burnedRaw": 129708606858136
+        },
+        {
+          "year": 40,
+          "totalSupplyRaw": 869276823484771,
+          "circulatingRaw": 839062500000000,
+          "miningReserveRaw": 10937500000000,
+          "burnedRaw": 130723176515229
+        },
+        {
+          "year": 41,
+          "totalSupplyRaw": 868312982310533,
+          "circulatingRaw": 839746093750000,
+          "miningReserveRaw": 10253906250000,
+          "burnedRaw": 131687017689467
+        },
+        {
+          "year": 42,
+          "totalSupplyRaw": 867397333195007,
+          "circulatingRaw": 840429687500000,
+          "miningReserveRaw": 9570312500000,
+          "burnedRaw": 132602666804993
+        },
+        {
+          "year": 43,
+          "totalSupplyRaw": 866527466535257,
+          "circulatingRaw": 841113281250000,
+          "miningReserveRaw": 8886718750000,
+          "burnedRaw": 133472533464743
+        },
+        {
+          "year": 44,
+          "totalSupplyRaw": 865701093208495,
+          "circulatingRaw": 841796875000000,
+          "miningReserveRaw": 8203125000000,
+          "burnedRaw": 134298906791505
+        },
+        {
+          "year": 45,
+          "totalSupplyRaw": 864916038548071,
+          "circulatingRaw": 842480468750000,
+          "miningReserveRaw": 7519531250000,
+          "burnedRaw": 135083961451929
+        },
+        {
+          "year": 46,
+          "totalSupplyRaw": 864170236620668,
+          "circulatingRaw": 843164062500000,
+          "miningReserveRaw": 6835937500000,
+          "burnedRaw": 135829763379332
+        },
+        {
+          "year": 47,
+          "totalSupplyRaw": 863461724789635,
+          "circulatingRaw": 843847656250000,
+          "miningReserveRaw": 6152343750000,
+          "burnedRaw": 136538275210365
+        },
+        {
+          "year": 48,
+          "totalSupplyRaw": 862788638550154,
+          "circulatingRaw": 844531250000000,
+          "miningReserveRaw": 5468750000000,
+          "burnedRaw": 137211361449846
+        },
+        {
+          "year": 49,
+          "totalSupplyRaw": 862149206622647,
+          "circulatingRaw": 844873046875000,
+          "miningReserveRaw": 5126953125000,
+          "burnedRaw": 137850793377353
+        },
+        {
+          "year": 50,
+          "totalSupplyRaw": 861541746291515,
+          "circulatingRaw": 845214843750000,
+          "miningReserveRaw": 4785156250000,
+          "burnedRaw": 138458253708485
+        },
+        {
+          "year": 51,
+          "totalSupplyRaw": 860964658976940,
+          "circulatingRaw": 845556640625000,
+          "miningReserveRaw": 4443359375000,
+          "burnedRaw": 139035341023060
+        },
+        {
+          "year": 52,
+          "totalSupplyRaw": 860416426028093,
+          "circulatingRaw": 845898437500000,
+          "miningReserveRaw": 4101562500000,
+          "burnedRaw": 139583573971907
+        },
+        {
+          "year": 53,
+          "totalSupplyRaw": 859895604726689,
+          "circulatingRaw": 846240234375000,
+          "miningReserveRaw": 3759765625000,
+          "burnedRaw": 140104395273311
+        },
+        {
+          "year": 54,
+          "totalSupplyRaw": 859400824490355,
+          "circulatingRaw": 846582031250000,
+          "miningReserveRaw": 3417968750000,
+          "burnedRaw": 140599175509645
+        },
+        {
+          "year": 55,
+          "totalSupplyRaw": 858930783265838,
+          "circulatingRaw": 846923828125000,
+          "miningReserveRaw": 3076171875000,
+          "burnedRaw": 141069216734162
+        },
+        {
+          "year": 56,
+          "totalSupplyRaw": 858484244102547,
+          "circulatingRaw": 847265625000000,
+          "miningReserveRaw": 2734375000000,
+          "burnedRaw": 141515755897453
+        },
+        {
+          "year": 57,
+          "totalSupplyRaw": 858060031897420,
+          "circulatingRaw": 847436523437500,
+          "miningReserveRaw": 2563476562500,
+          "burnedRaw": 141939968102580
+        },
+        {
+          "year": 58,
+          "totalSupplyRaw": 857657030302549,
+          "circulatingRaw": 847607421875000,
+          "miningReserveRaw": 2392578125000,
+          "burnedRaw": 142342969697451
+        },
+        {
+          "year": 59,
+          "totalSupplyRaw": 857274178787422,
+          "circulatingRaw": 847778320312500,
+          "miningReserveRaw": 2221679687500,
+          "burnedRaw": 142725821212578
+        },
+        {
+          "year": 60,
+          "totalSupplyRaw": 856910469848051,
+          "circulatingRaw": 847949218750000,
+          "miningReserveRaw": 2050781250000,
+          "burnedRaw": 143089530151949
+        },
+        {
+          "year": 61,
+          "totalSupplyRaw": 856564946355649,
+          "circulatingRaw": 848120117187500,
+          "miningReserveRaw": 1879882812500,
+          "burnedRaw": 143435053644351
+        },
+        {
+          "year": 62,
+          "totalSupplyRaw": 856236699037867,
+          "circulatingRaw": 848291015625000,
+          "miningReserveRaw": 1708984375000,
+          "burnedRaw": 143763300962133
+        },
+        {
+          "year": 63,
+          "totalSupplyRaw": 855924864085974,
+          "circulatingRaw": 848461914062500,
+          "miningReserveRaw": 1538085937500,
+          "burnedRaw": 144075135914026
+        },
+        {
+          "year": 64,
+          "totalSupplyRaw": 855628620881676,
+          "circulatingRaw": 848632812500000,
+          "miningReserveRaw": 1367187500000,
+          "burnedRaw": 144371379118324
+        },
+        {
+          "year": 65,
+          "totalSupplyRaw": 855347189837593,
+          "circulatingRaw": 848718261718750,
+          "miningReserveRaw": 1281738281250,
+          "burnedRaw": 144652810162407
+        },
+        {
+          "year": 66,
+          "totalSupplyRaw": 855079830345714,
+          "circulatingRaw": 848803710937500,
+          "miningReserveRaw": 1196289062500,
+          "burnedRaw": 144920169654286
+        },
+        {
+          "year": 67,
+          "totalSupplyRaw": 854825838828429,
+          "circulatingRaw": 848889160156250,
+          "miningReserveRaw": 1110839843750,
+          "burnedRaw": 145174161171571
+        },
+        {
+          "year": 68,
+          "totalSupplyRaw": 854584546887008,
+          "circulatingRaw": 848974609375000,
+          "miningReserveRaw": 1025390625000,
+          "burnedRaw": 145415453112992
+        },
+        {
+          "year": 69,
+          "totalSupplyRaw": 854355319542658,
+          "circulatingRaw": 849060058593750,
+          "miningReserveRaw": 939941406250,
+          "burnedRaw": 145644680457342
+        },
+        {
+          "year": 70,
+          "totalSupplyRaw": 854137553565526,
+          "circulatingRaw": 849145507812500,
+          "miningReserveRaw": 854492187500,
+          "burnedRaw": 145862446434474
+        },
+        {
+          "year": 71,
+          "totalSupplyRaw": 853930675887250,
+          "circulatingRaw": 849230957031250,
+          "miningReserveRaw": 769042968750,
+          "burnedRaw": 146069324112750
+        },
+        {
+          "year": 72,
+          "totalSupplyRaw": 853734142092888,
+          "circulatingRaw": 849316406250000,
+          "miningReserveRaw": 683593750000,
+          "burnedRaw": 146265857907112
+        },
+        {
+          "year": 73,
+          "totalSupplyRaw": 853547434988244,
+          "circulatingRaw": 849359130859375,
+          "miningReserveRaw": 640869140625,
+          "burnedRaw": 146452565011756
+        },
+        {
+          "year": 74,
+          "totalSupplyRaw": 853370063238832,
+          "circulatingRaw": 849401855468750,
+          "miningReserveRaw": 598144531250,
+          "burnedRaw": 146629936761168
+        },
+        {
+          "year": 75,
+          "totalSupplyRaw": 853201560076891,
+          "circulatingRaw": 849444580078125,
+          "miningReserveRaw": 555419921875,
+          "burnedRaw": 146798439923109
+        },
+        {
+          "year": 76,
+          "totalSupplyRaw": 853041482073047,
+          "circulatingRaw": 849487304687500,
+          "miningReserveRaw": 512695312500,
+          "burnedRaw": 146958517926953
+        },
+        {
+          "year": 77,
+          "totalSupplyRaw": 852889407969395,
+          "circulatingRaw": 849530029296875,
+          "miningReserveRaw": 469970703125,
+          "burnedRaw": 147110592030605
+        },
+        {
+          "year": 78,
+          "totalSupplyRaw": 852744937570926,
+          "circulatingRaw": 849572753906250,
+          "miningReserveRaw": 427246093750,
+          "burnedRaw": 147255062429074
+        },
+        {
+          "year": 79,
+          "totalSupplyRaw": 852607690692380,
+          "circulatingRaw": 849615478515625,
+          "miningReserveRaw": 384521484375,
+          "burnedRaw": 147392309307620
+        },
+        {
+          "year": 80,
+          "totalSupplyRaw": 852477306157761,
+          "circulatingRaw": 849658203125000,
+          "miningReserveRaw": 341796875000,
+          "burnedRaw": 147522693842239
+        },
+        {
+          "year": 81,
+          "totalSupplyRaw": 852353440849873,
+          "circulatingRaw": 849679565429687,
+          "miningReserveRaw": 320434570313,
+          "burnedRaw": 147646559150127
+        },
+        {
+          "year": 82,
+          "totalSupplyRaw": 852235768807380,
+          "circulatingRaw": 849700927734374,
+          "miningReserveRaw": 299072265626,
+          "burnedRaw": 147764231192620
+        },
+        {
+          "year": 83,
+          "totalSupplyRaw": 852123980367011,
+          "circulatingRaw": 849722290039061,
+          "miningReserveRaw": 277709960939,
+          "burnedRaw": 147876019632989
+        },
+        {
+          "year": 84,
+          "totalSupplyRaw": 852017781348661,
+          "circulatingRaw": 849743652343748,
+          "miningReserveRaw": 256347656252,
+          "burnedRaw": 147982218651339
+        },
+        {
+          "year": 85,
+          "totalSupplyRaw": 851916892281228,
+          "circulatingRaw": 849765014648435,
+          "miningReserveRaw": 234985351565,
+          "burnedRaw": 148083107718772
+        },
+        {
+          "year": 86,
+          "totalSupplyRaw": 851821047667167,
+          "circulatingRaw": 849786376953122,
+          "miningReserveRaw": 213623046878,
+          "burnedRaw": 148178952332833
+        },
+        {
+          "year": 87,
+          "totalSupplyRaw": 851729995283809,
+          "circulatingRaw": 849807739257809,
+          "miningReserveRaw": 192260742191,
+          "burnedRaw": 148270004716191
+        },
+        {
+          "year": 88,
+          "totalSupplyRaw": 851643495519619,
+          "circulatingRaw": 849829101562496,
+          "miningReserveRaw": 170898437504,
+          "burnedRaw": 148356504480381
+        },
+        {
+          "year": 89,
+          "totalSupplyRaw": 851561320743639,
+          "circulatingRaw": 849839782714839,
+          "miningReserveRaw": 160217285161,
+          "burnedRaw": 148438679256361
+        },
+        {
+          "year": 90,
+          "totalSupplyRaw": 851483254706458,
+          "circulatingRaw": 849850463867182,
+          "miningReserveRaw": 149536132818,
+          "burnedRaw": 148516745293542
+        },
+        {
+          "year": 91,
+          "totalSupplyRaw": 851409091971136,
+          "circulatingRaw": 849861145019525,
+          "miningReserveRaw": 138854980475,
+          "burnedRaw": 148590908028864
+        },
+        {
+          "year": 92,
+          "totalSupplyRaw": 851338637372580,
+          "circulatingRaw": 849871826171868,
+          "miningReserveRaw": 128173828132,
+          "burnedRaw": 148661362627420
+        },
+        {
+          "year": 93,
+          "totalSupplyRaw": 851271705503951,
+          "circulatingRaw": 849882507324211,
+          "miningReserveRaw": 117492675789,
+          "burnedRaw": 148728294496049
+        },
+        {
+          "year": 94,
+          "totalSupplyRaw": 851208120228754,
+          "circulatingRaw": 849893188476554,
+          "miningReserveRaw": 106811523446,
+          "burnedRaw": 148791879771246
+        },
+        {
+          "year": 95,
+          "totalSupplyRaw": 851147714217317,
+          "circulatingRaw": 849903869628897,
+          "miningReserveRaw": 96130371103,
+          "burnedRaw": 148852285782683
+        },
+        {
+          "year": 96,
+          "totalSupplyRaw": 851090328506452,
+          "circulatingRaw": 849914550781240,
+          "miningReserveRaw": 85449218760,
+          "burnedRaw": 148909671493548
+        },
+        {
+          "year": 97,
+          "totalSupplyRaw": 851035812081130,
+          "circulatingRaw": 849919891357411,
+          "miningReserveRaw": 80108642589,
+          "burnedRaw": 148964187918870
+        },
+        {
+          "year": 98,
+          "totalSupplyRaw": 850984021477074,
+          "circulatingRaw": 849925231933582,
+          "miningReserveRaw": 74768066418,
+          "burnedRaw": 149015978522926
+        },
+        {
+          "year": 99,
+          "totalSupplyRaw": 850934820403221,
+          "circulatingRaw": 849930572509753,
+          "miningReserveRaw": 69427490247,
+          "burnedRaw": 149065179596779
+        },
+        {
+          "year": 100,
+          "totalSupplyRaw": 850888079383060,
+          "circulatingRaw": 849935913085924,
+          "miningReserveRaw": 64086914076,
+          "burnedRaw": 149111920616940
+        }
+      ]
+    },
+    {
+      "scenario": "Market stress",
+      "subscriptionPercent": 100,
+      "assumedCirculatingBurnPercent": 0,
+      "grossFundingZAR": 2000000,
+      "years": [
+        {
+          "year": 1,
+          "totalSupplyRaw": 992500000000000,
+          "circulatingRaw": 346875000000000,
+          "miningReserveRaw": 328125000000000,
+          "burnedRaw": 7500000000000
+        },
+        {
+          "year": 2,
+          "totalSupplyRaw": 985375000000000,
+          "circulatingRaw": 393750000000000,
+          "miningReserveRaw": 306250000000000,
+          "burnedRaw": 14625000000000
+        },
+        {
+          "year": 3,
+          "totalSupplyRaw": 978606250000000,
+          "circulatingRaw": 440625000000000,
+          "miningReserveRaw": 284375000000000,
+          "burnedRaw": 21393750000000
+        },
+        {
+          "year": 4,
+          "totalSupplyRaw": 972175937500000,
+          "circulatingRaw": 487500000000000,
+          "miningReserveRaw": 262500000000000,
+          "burnedRaw": 27824062500000
+        },
+        {
+          "year": 5,
+          "totalSupplyRaw": 966067140625000,
+          "circulatingRaw": 534375000000000,
+          "miningReserveRaw": 240625000000000,
+          "burnedRaw": 33932859375000
+        },
+        {
+          "year": 6,
+          "totalSupplyRaw": 960263783593750,
+          "circulatingRaw": 571250000000000,
+          "miningReserveRaw": 218750000000000,
+          "burnedRaw": 39736216406250
+        },
+        {
+          "year": 7,
+          "totalSupplyRaw": 954750594414063,
+          "circulatingRaw": 608125000000000,
+          "miningReserveRaw": 196875000000000,
+          "burnedRaw": 45249405585937
+        },
+        {
+          "year": 8,
+          "totalSupplyRaw": 949513064693360,
+          "circulatingRaw": 645000000000000,
+          "miningReserveRaw": 175000000000000,
+          "burnedRaw": 50486935306640
+        },
+        {
+          "year": 9,
+          "totalSupplyRaw": 944537411458692,
+          "circulatingRaw": 670937500000000,
+          "miningReserveRaw": 164062500000000,
+          "burnedRaw": 55462588541308
+        },
+        {
+          "year": 10,
+          "totalSupplyRaw": 939810540885758,
+          "circulatingRaw": 696875000000000,
+          "miningReserveRaw": 153125000000000,
+          "burnedRaw": 60189459114242
+        },
+        {
+          "year": 11,
+          "totalSupplyRaw": 935320013841471,
+          "circulatingRaw": 707812500000000,
+          "miningReserveRaw": 142187500000000,
+          "burnedRaw": 64679986158529
+        },
+        {
+          "year": 12,
+          "totalSupplyRaw": 931054013149398,
+          "circulatingRaw": 718750000000000,
+          "miningReserveRaw": 131250000000000,
+          "burnedRaw": 68945986850602
+        },
+        {
+          "year": 13,
+          "totalSupplyRaw": 927001312491929,
+          "circulatingRaw": 729687500000000,
+          "miningReserveRaw": 120312500000000,
+          "burnedRaw": 72998687508071
+        },
+        {
+          "year": 14,
+          "totalSupplyRaw": 923151246867333,
+          "circulatingRaw": 740625000000000,
+          "miningReserveRaw": 109375000000000,
+          "burnedRaw": 76848753132667
+        },
+        {
+          "year": 15,
+          "totalSupplyRaw": 919493684523967,
+          "circulatingRaw": 751562500000000,
+          "miningReserveRaw": 98437500000000,
+          "burnedRaw": 80506315476033
+        },
+        {
+          "year": 16,
+          "totalSupplyRaw": 916019000297769,
+          "circulatingRaw": 762500000000000,
+          "miningReserveRaw": 87500000000000,
+          "burnedRaw": 83980999702231
+        },
+        {
+          "year": 17,
+          "totalSupplyRaw": 912718050282881,
+          "circulatingRaw": 767968750000000,
+          "miningReserveRaw": 82031250000000,
+          "burnedRaw": 87281949717119
+        },
+        {
+          "year": 18,
+          "totalSupplyRaw": 909582147768737,
+          "circulatingRaw": 773437500000000,
+          "miningReserveRaw": 76562500000000,
+          "burnedRaw": 90417852231263
+        },
+        {
+          "year": 19,
+          "totalSupplyRaw": 906603040380301,
+          "circulatingRaw": 778906250000000,
+          "miningReserveRaw": 71093750000000,
+          "burnedRaw": 93396959619699
+        },
+        {
+          "year": 20,
+          "totalSupplyRaw": 903772888361286,
+          "circulatingRaw": 784375000000000,
+          "miningReserveRaw": 65625000000000,
+          "burnedRaw": 96227111638714
+        },
+        {
+          "year": 21,
+          "totalSupplyRaw": 901084243943222,
+          "circulatingRaw": 789843750000000,
+          "miningReserveRaw": 60156250000000,
+          "burnedRaw": 98915756056778
+        },
+        {
+          "year": 22,
+          "totalSupplyRaw": 898530031746061,
+          "circulatingRaw": 795312500000000,
+          "miningReserveRaw": 54687500000000,
+          "burnedRaw": 101469968253939
+        },
+        {
+          "year": 23,
+          "totalSupplyRaw": 896103530158758,
+          "circulatingRaw": 800781250000000,
+          "miningReserveRaw": 49218750000000,
+          "burnedRaw": 103896469841242
+        },
+        {
+          "year": 24,
+          "totalSupplyRaw": 893798353650821,
+          "circulatingRaw": 806250000000000,
+          "miningReserveRaw": 43750000000000,
+          "burnedRaw": 106201646349179
+        },
+        {
+          "year": 25,
+          "totalSupplyRaw": 891608435968280,
+          "circulatingRaw": 808984375000000,
+          "miningReserveRaw": 41015625000000,
+          "burnedRaw": 108391564031720
+        },
+        {
+          "year": 26,
+          "totalSupplyRaw": 889528014169866,
+          "circulatingRaw": 811718750000000,
+          "miningReserveRaw": 38281250000000,
+          "burnedRaw": 110471985830134
+        },
+        {
+          "year": 27,
+          "totalSupplyRaw": 887551613461373,
+          "circulatingRaw": 814453125000000,
+          "miningReserveRaw": 35546875000000,
+          "burnedRaw": 112448386538627
+        },
+        {
+          "year": 28,
+          "totalSupplyRaw": 885674032788305,
+          "circulatingRaw": 817187500000000,
+          "miningReserveRaw": 32812500000000,
+          "burnedRaw": 114325967211695
+        },
+        {
+          "year": 29,
+          "totalSupplyRaw": 883890331148890,
+          "circulatingRaw": 819921875000000,
+          "miningReserveRaw": 30078125000000,
+          "burnedRaw": 116109668851110
+        },
+        {
+          "year": 30,
+          "totalSupplyRaw": 882195814591446,
+          "circulatingRaw": 822656250000000,
+          "miningReserveRaw": 27343750000000,
+          "burnedRaw": 117804185408554
+        },
+        {
+          "year": 31,
+          "totalSupplyRaw": 880586023861874,
+          "circulatingRaw": 825390625000000,
+          "miningReserveRaw": 24609375000000,
+          "burnedRaw": 119413976138126
+        },
+        {
+          "year": 32,
+          "totalSupplyRaw": 879056722668781,
+          "circulatingRaw": 828125000000000,
+          "miningReserveRaw": 21875000000000,
+          "burnedRaw": 120943277331219
+        },
+        {
+          "year": 33,
+          "totalSupplyRaw": 877603886535342,
+          "circulatingRaw": 829492187500000,
+          "miningReserveRaw": 20507812500000,
+          "burnedRaw": 122396113464658
+        },
+        {
+          "year": 34,
+          "totalSupplyRaw": 876223692208575,
+          "circulatingRaw": 830859375000000,
+          "miningReserveRaw": 19140625000000,
+          "burnedRaw": 123776307791425
+        },
+        {
+          "year": 35,
+          "totalSupplyRaw": 874912507598147,
+          "circulatingRaw": 832226562500000,
+          "miningReserveRaw": 17773437500000,
+          "burnedRaw": 125087492401853
+        },
+        {
+          "year": 36,
+          "totalSupplyRaw": 873666882218240,
+          "circulatingRaw": 833593750000000,
+          "miningReserveRaw": 16406250000000,
+          "burnedRaw": 126333117781760
+        },
+        {
+          "year": 37,
+          "totalSupplyRaw": 872483538107328,
+          "circulatingRaw": 834960937500000,
+          "miningReserveRaw": 15039062500000,
+          "burnedRaw": 127516461892672
+        },
+        {
+          "year": 38,
+          "totalSupplyRaw": 871359361201962,
+          "circulatingRaw": 836328125000000,
+          "miningReserveRaw": 13671875000000,
+          "burnedRaw": 128640638798038
+        },
+        {
+          "year": 39,
+          "totalSupplyRaw": 870291393141864,
+          "circulatingRaw": 837695312500000,
+          "miningReserveRaw": 12304687500000,
+          "burnedRaw": 129708606858136
+        },
+        {
+          "year": 40,
+          "totalSupplyRaw": 869276823484771,
+          "circulatingRaw": 839062500000000,
+          "miningReserveRaw": 10937500000000,
+          "burnedRaw": 130723176515229
+        },
+        {
+          "year": 41,
+          "totalSupplyRaw": 868312982310533,
+          "circulatingRaw": 839746093750000,
+          "miningReserveRaw": 10253906250000,
+          "burnedRaw": 131687017689467
+        },
+        {
+          "year": 42,
+          "totalSupplyRaw": 867397333195007,
+          "circulatingRaw": 840429687500000,
+          "miningReserveRaw": 9570312500000,
+          "burnedRaw": 132602666804993
+        },
+        {
+          "year": 43,
+          "totalSupplyRaw": 866527466535257,
+          "circulatingRaw": 841113281250000,
+          "miningReserveRaw": 8886718750000,
+          "burnedRaw": 133472533464743
+        },
+        {
+          "year": 44,
+          "totalSupplyRaw": 865701093208495,
+          "circulatingRaw": 841796875000000,
+          "miningReserveRaw": 8203125000000,
+          "burnedRaw": 134298906791505
+        },
+        {
+          "year": 45,
+          "totalSupplyRaw": 864916038548071,
+          "circulatingRaw": 842480468750000,
+          "miningReserveRaw": 7519531250000,
+          "burnedRaw": 135083961451929
+        },
+        {
+          "year": 46,
+          "totalSupplyRaw": 864170236620668,
+          "circulatingRaw": 843164062500000,
+          "miningReserveRaw": 6835937500000,
+          "burnedRaw": 135829763379332
+        },
+        {
+          "year": 47,
+          "totalSupplyRaw": 863461724789635,
+          "circulatingRaw": 843847656250000,
+          "miningReserveRaw": 6152343750000,
+          "burnedRaw": 136538275210365
+        },
+        {
+          "year": 48,
+          "totalSupplyRaw": 862788638550154,
+          "circulatingRaw": 844531250000000,
+          "miningReserveRaw": 5468750000000,
+          "burnedRaw": 137211361449846
+        },
+        {
+          "year": 49,
+          "totalSupplyRaw": 862149206622647,
+          "circulatingRaw": 844873046875000,
+          "miningReserveRaw": 5126953125000,
+          "burnedRaw": 137850793377353
+        },
+        {
+          "year": 50,
+          "totalSupplyRaw": 861541746291515,
+          "circulatingRaw": 845214843750000,
+          "miningReserveRaw": 4785156250000,
+          "burnedRaw": 138458253708485
+        },
+        {
+          "year": 51,
+          "totalSupplyRaw": 860964658976940,
+          "circulatingRaw": 845556640625000,
+          "miningReserveRaw": 4443359375000,
+          "burnedRaw": 139035341023060
+        },
+        {
+          "year": 52,
+          "totalSupplyRaw": 860416426028093,
+          "circulatingRaw": 845898437500000,
+          "miningReserveRaw": 4101562500000,
+          "burnedRaw": 139583573971907
+        },
+        {
+          "year": 53,
+          "totalSupplyRaw": 859895604726689,
+          "circulatingRaw": 846240234375000,
+          "miningReserveRaw": 3759765625000,
+          "burnedRaw": 140104395273311
+        },
+        {
+          "year": 54,
+          "totalSupplyRaw": 859400824490355,
+          "circulatingRaw": 846582031250000,
+          "miningReserveRaw": 3417968750000,
+          "burnedRaw": 140599175509645
+        },
+        {
+          "year": 55,
+          "totalSupplyRaw": 858930783265838,
+          "circulatingRaw": 846923828125000,
+          "miningReserveRaw": 3076171875000,
+          "burnedRaw": 141069216734162
+        },
+        {
+          "year": 56,
+          "totalSupplyRaw": 858484244102547,
+          "circulatingRaw": 847265625000000,
+          "miningReserveRaw": 2734375000000,
+          "burnedRaw": 141515755897453
+        },
+        {
+          "year": 57,
+          "totalSupplyRaw": 858060031897420,
+          "circulatingRaw": 847436523437500,
+          "miningReserveRaw": 2563476562500,
+          "burnedRaw": 141939968102580
+        },
+        {
+          "year": 58,
+          "totalSupplyRaw": 857657030302549,
+          "circulatingRaw": 847607421875000,
+          "miningReserveRaw": 2392578125000,
+          "burnedRaw": 142342969697451
+        },
+        {
+          "year": 59,
+          "totalSupplyRaw": 857274178787422,
+          "circulatingRaw": 847778320312500,
+          "miningReserveRaw": 2221679687500,
+          "burnedRaw": 142725821212578
+        },
+        {
+          "year": 60,
+          "totalSupplyRaw": 856910469848051,
+          "circulatingRaw": 847949218750000,
+          "miningReserveRaw": 2050781250000,
+          "burnedRaw": 143089530151949
+        },
+        {
+          "year": 61,
+          "totalSupplyRaw": 856564946355649,
+          "circulatingRaw": 848120117187500,
+          "miningReserveRaw": 1879882812500,
+          "burnedRaw": 143435053644351
+        },
+        {
+          "year": 62,
+          "totalSupplyRaw": 856236699037867,
+          "circulatingRaw": 848291015625000,
+          "miningReserveRaw": 1708984375000,
+          "burnedRaw": 143763300962133
+        },
+        {
+          "year": 63,
+          "totalSupplyRaw": 855924864085974,
+          "circulatingRaw": 848461914062500,
+          "miningReserveRaw": 1538085937500,
+          "burnedRaw": 144075135914026
+        },
+        {
+          "year": 64,
+          "totalSupplyRaw": 855628620881676,
+          "circulatingRaw": 848632812500000,
+          "miningReserveRaw": 1367187500000,
+          "burnedRaw": 144371379118324
+        },
+        {
+          "year": 65,
+          "totalSupplyRaw": 855347189837593,
+          "circulatingRaw": 848718261718750,
+          "miningReserveRaw": 1281738281250,
+          "burnedRaw": 144652810162407
+        },
+        {
+          "year": 66,
+          "totalSupplyRaw": 855079830345714,
+          "circulatingRaw": 848803710937500,
+          "miningReserveRaw": 1196289062500,
+          "burnedRaw": 144920169654286
+        },
+        {
+          "year": 67,
+          "totalSupplyRaw": 854825838828429,
+          "circulatingRaw": 848889160156250,
+          "miningReserveRaw": 1110839843750,
+          "burnedRaw": 145174161171571
+        },
+        {
+          "year": 68,
+          "totalSupplyRaw": 854584546887008,
+          "circulatingRaw": 848974609375000,
+          "miningReserveRaw": 1025390625000,
+          "burnedRaw": 145415453112992
+        },
+        {
+          "year": 69,
+          "totalSupplyRaw": 854355319542658,
+          "circulatingRaw": 849060058593750,
+          "miningReserveRaw": 939941406250,
+          "burnedRaw": 145644680457342
+        },
+        {
+          "year": 70,
+          "totalSupplyRaw": 854137553565526,
+          "circulatingRaw": 849145507812500,
+          "miningReserveRaw": 854492187500,
+          "burnedRaw": 145862446434474
+        },
+        {
+          "year": 71,
+          "totalSupplyRaw": 853930675887250,
+          "circulatingRaw": 849230957031250,
+          "miningReserveRaw": 769042968750,
+          "burnedRaw": 146069324112750
+        },
+        {
+          "year": 72,
+          "totalSupplyRaw": 853734142092888,
+          "circulatingRaw": 849316406250000,
+          "miningReserveRaw": 683593750000,
+          "burnedRaw": 146265857907112
+        },
+        {
+          "year": 73,
+          "totalSupplyRaw": 853547434988244,
+          "circulatingRaw": 849359130859375,
+          "miningReserveRaw": 640869140625,
+          "burnedRaw": 146452565011756
+        },
+        {
+          "year": 74,
+          "totalSupplyRaw": 853370063238832,
+          "circulatingRaw": 849401855468750,
+          "miningReserveRaw": 598144531250,
+          "burnedRaw": 146629936761168
+        },
+        {
+          "year": 75,
+          "totalSupplyRaw": 853201560076891,
+          "circulatingRaw": 849444580078125,
+          "miningReserveRaw": 555419921875,
+          "burnedRaw": 146798439923109
+        },
+        {
+          "year": 76,
+          "totalSupplyRaw": 853041482073047,
+          "circulatingRaw": 849487304687500,
+          "miningReserveRaw": 512695312500,
+          "burnedRaw": 146958517926953
+        },
+        {
+          "year": 77,
+          "totalSupplyRaw": 852889407969395,
+          "circulatingRaw": 849530029296875,
+          "miningReserveRaw": 469970703125,
+          "burnedRaw": 147110592030605
+        },
+        {
+          "year": 78,
+          "totalSupplyRaw": 852744937570926,
+          "circulatingRaw": 849572753906250,
+          "miningReserveRaw": 427246093750,
+          "burnedRaw": 147255062429074
+        },
+        {
+          "year": 79,
+          "totalSupplyRaw": 852607690692380,
+          "circulatingRaw": 849615478515625,
+          "miningReserveRaw": 384521484375,
+          "burnedRaw": 147392309307620
+        },
+        {
+          "year": 80,
+          "totalSupplyRaw": 852477306157761,
+          "circulatingRaw": 849658203125000,
+          "miningReserveRaw": 341796875000,
+          "burnedRaw": 147522693842239
+        },
+        {
+          "year": 81,
+          "totalSupplyRaw": 852353440849873,
+          "circulatingRaw": 849679565429687,
+          "miningReserveRaw": 320434570313,
+          "burnedRaw": 147646559150127
+        },
+        {
+          "year": 82,
+          "totalSupplyRaw": 852235768807380,
+          "circulatingRaw": 849700927734374,
+          "miningReserveRaw": 299072265626,
+          "burnedRaw": 147764231192620
+        },
+        {
+          "year": 83,
+          "totalSupplyRaw": 852123980367011,
+          "circulatingRaw": 849722290039061,
+          "miningReserveRaw": 277709960939,
+          "burnedRaw": 147876019632989
+        },
+        {
+          "year": 84,
+          "totalSupplyRaw": 852017781348661,
+          "circulatingRaw": 849743652343748,
+          "miningReserveRaw": 256347656252,
+          "burnedRaw": 147982218651339
+        },
+        {
+          "year": 85,
+          "totalSupplyRaw": 851916892281228,
+          "circulatingRaw": 849765014648435,
+          "miningReserveRaw": 234985351565,
+          "burnedRaw": 148083107718772
+        },
+        {
+          "year": 86,
+          "totalSupplyRaw": 851821047667167,
+          "circulatingRaw": 849786376953122,
+          "miningReserveRaw": 213623046878,
+          "burnedRaw": 148178952332833
+        },
+        {
+          "year": 87,
+          "totalSupplyRaw": 851729995283809,
+          "circulatingRaw": 849807739257809,
+          "miningReserveRaw": 192260742191,
+          "burnedRaw": 148270004716191
+        },
+        {
+          "year": 88,
+          "totalSupplyRaw": 851643495519619,
+          "circulatingRaw": 849829101562496,
+          "miningReserveRaw": 170898437504,
+          "burnedRaw": 148356504480381
+        },
+        {
+          "year": 89,
+          "totalSupplyRaw": 851561320743639,
+          "circulatingRaw": 849839782714839,
+          "miningReserveRaw": 160217285161,
+          "burnedRaw": 148438679256361
+        },
+        {
+          "year": 90,
+          "totalSupplyRaw": 851483254706458,
+          "circulatingRaw": 849850463867182,
+          "miningReserveRaw": 149536132818,
+          "burnedRaw": 148516745293542
+        },
+        {
+          "year": 91,
+          "totalSupplyRaw": 851409091971136,
+          "circulatingRaw": 849861145019525,
+          "miningReserveRaw": 138854980475,
+          "burnedRaw": 148590908028864
+        },
+        {
+          "year": 92,
+          "totalSupplyRaw": 851338637372580,
+          "circulatingRaw": 849871826171868,
+          "miningReserveRaw": 128173828132,
+          "burnedRaw": 148661362627420
+        },
+        {
+          "year": 93,
+          "totalSupplyRaw": 851271705503951,
+          "circulatingRaw": 849882507324211,
+          "miningReserveRaw": 117492675789,
+          "burnedRaw": 148728294496049
+        },
+        {
+          "year": 94,
+          "totalSupplyRaw": 851208120228754,
+          "circulatingRaw": 849893188476554,
+          "miningReserveRaw": 106811523446,
+          "burnedRaw": 148791879771246
+        },
+        {
+          "year": 95,
+          "totalSupplyRaw": 851147714217317,
+          "circulatingRaw": 849903869628897,
+          "miningReserveRaw": 96130371103,
+          "burnedRaw": 148852285782683
+        },
+        {
+          "year": 96,
+          "totalSupplyRaw": 851090328506452,
+          "circulatingRaw": 849914550781240,
+          "miningReserveRaw": 85449218760,
+          "burnedRaw": 148909671493548
+        },
+        {
+          "year": 97,
+          "totalSupplyRaw": 851035812081130,
+          "circulatingRaw": 849919891357411,
+          "miningReserveRaw": 80108642589,
+          "burnedRaw": 148964187918870
+        },
+        {
+          "year": 98,
+          "totalSupplyRaw": 850984021477074,
+          "circulatingRaw": 849925231933582,
+          "miningReserveRaw": 74768066418,
+          "burnedRaw": 149015978522926
+        },
+        {
+          "year": 99,
+          "totalSupplyRaw": 850934820403221,
+          "circulatingRaw": 849930572509753,
+          "miningReserveRaw": 69427490247,
+          "burnedRaw": 149065179596779
+        },
+        {
+          "year": 100,
+          "totalSupplyRaw": 850888079383060,
+          "circulatingRaw": 849935913085924,
+          "miningReserveRaw": 64086914076,
+          "burnedRaw": 149111920616940
+        }
+      ]
+    }
+  ]
+}

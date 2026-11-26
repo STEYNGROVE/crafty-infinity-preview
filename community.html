@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-width,initial-scale=1">
+<title>CRAFTY Community</title>
+<style>
+body{background:#080b12;color:white;
+font-family:system-ui;padding:20px;margin:0}
+main{max-width:800px;margin:auto}
+h1,h2,a,strong{color:#e8c16b}
+.card{background:#121824;border:1px solid #30394a;
+padding:20px;border-radius:15px;margin:12px 0}
+strong{display:block;font-size:30px}
+button{padding:15px;border-radius:10px}
+</style>
+</head>
+<body>
+<main>
+<a href="index.html">CRAFTY INFINITY</a>
+<h1>Community Control Centre</h1>
+<p>Adult-only development preview.</p>
+<p>All customer figures are synthetic test data.</p>
+<div id="stats"></div>
+<div class="card">
+<h2>Genesis Community</h2>
+<p>Future access to contribution opportunities,
+digital services and ecosystem development.</p>
+<button disabled>Registration not open</button>
+</div>
+<div class="card">
+<h2>Privacy and safety</h2>
+<p>No personal information collected.</p>
+<p>No deposits accepted.</p>
+<p>No tokens reserved.</p>
+<p>No referral commissions.</p>
+<p>Independent of ColourCraft Kids.</p>
+</div>
+</main>
+<script>
+async function load(){
+ const root=document.getElementById("stats");
+ try{
+  const r=await fetch("customers.json");
+  if(!r.ok)throw Error();
+  const d=await r.json();
+  if(d.mode!=="SIMULATION_ONLY")throw Error();
+
+  const fields=[
+   ["Synthetic customers",d.syntheticCustomers],
+   ["Synthetic referrals",d.syntheticReferrals],
+   ["Synthetic interested customers",d.interestedCustomers],
+   ["Real customers",d.realCustomers],
+   ["Reserved tokens",d.reservedTokens],
+   ["Real funds collected (ZAR)",d.realFundsCollectedZAR]
+  ];
+
+  for(const [label,value] of fields){
+   const box=document.createElement("div");
+   box.className="card";
+   box.textContent=label;
+   const number=document.createElement("strong");
+   number.textContent=Number(value).toLocaleString();
+   box.appendChild(number);
+   root.appendChild(box);
+  }
+ }catch(e){
+  root.textContent="Demonstration report unavailable";
+ }
+}
+load();
+</script>
+</body>
+</html>

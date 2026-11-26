@@ -1,0 +1,12 @@
+{
+  "mode": "SIMULATION_ONLY",
+  "syntheticCustomers": 100,
+  "syntheticReferrals": 30,
+  "interestedCustomers": 100,
+  "nonbindingInterestTokens": 505900,
+  "hypotheticalInterestZAR": 5059000,
+  "reservedTokens": 0,
+  "realCustomers": 0,
+  "realFundsCollectedZAR": 0,
+  "referralRewardsPaid": 0
+}

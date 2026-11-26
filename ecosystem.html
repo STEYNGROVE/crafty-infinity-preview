@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-width,initial-scale=1">
+<title>CRAFTY Commercial Ecosystem</title>
+<style>
+body{background:#080b12;color:white;
+font-family:system-ui;padding:20px;margin:0}
+main{max-width:1000px;margin:auto}
+h1,h2,a,strong{color:#e8c16b}
+.card{background:#121824;border:1px solid #30394a;
+padding:20px;border-radius:15px;margin:12px 0}
+.grid{display:grid;gap:12px;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+strong{display:block;font-size:26px}
+</style>
+</head>
+<body>
+<main>
+<a href="index.html">CRAFTY INFINITY</a>
+<h1>Commercial Ecosystem</h1>
+<p>Proposed integrations. Simulation only.</p>
+<div id="services" class="grid"></div>
+<h2>Monthly economic scenarios</h2>
+<div id="scenarios"></div>
+<p>No actual sales, payments or buybacks.</p>
+<p>All figures are illustrative assumptions.</p>
+</main>
+<script>
+const money=n=>"R"+(n/100).toLocaleString("en-ZA");
+async function load(){
+ try{
+  const response=await fetch("commerce.json");
+  if(!response.ok)throw Error();
+  const d=await response.json();
+  if(d.mode!=="SIMULATION_ONLY")throw Error();
+
+  const target=d.scenarios.find(
+   x=>x.scenario==="Target adoption"
+  );
+
+  for(const s of target.services){
+   const box=document.createElement("div");
+   box.className="card";
+   box.textContent=s.description;
+   const amount=document.createElement("strong");
+   amount.textContent=money(s.revenueCents);
+   box.appendChild(amount);
+   const note=document.createElement("p");
+   note.textContent="Hypothetical monthly revenue";
+   box.appendChild(note);
+   document.getElementById("services").appendChild(box);
+  }
+
+  for(const s of d.scenarios){
+   const box=document.createElement("div");
+   box.className="card";
+   box.textContent=s.scenario;
+   const p=document.createElement("p");
+   p.textContent="Revenue: "+money(s.revenueCents);
+   box.appendChild(p);
+   const profit=document.createElement("strong");
+   profit.textContent="Operating profit: "+
+    money(s.preTaxOperatingProfitCents);
+   box.appendChild(profit);
+   document.getElementById("scenarios").appendChild(box);
+  }
+ }catch(e){
+  document.getElementById("services").textContent=
+   "Report unavailable";
+ }
+}
+load();
+</script>
+</body>
+</html>

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-width,initial-scale=1">
+<title>CRAFTY INFINITY</title>
+<style>
+*{box-sizing:border-box}
+body{background:#080b12;color:white;
+font-family:system-ui;margin:0}
+main{max-width:1000px;margin:auto;padding:20px}
+header{text-align:center;padding:50px 0}
+h1{color:#e8c16b;font-size:clamp(40px,9vw,80px);
+line-height:1;margin:20px 0}
+h2,a{color:#e8c16b}
+p{color:#b5bfce}
+.grid{display:grid;gap:12px;
+grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
+section,.card{background:#121824;padding:20px;
+border:1px solid #30394a;border-radius:16px;
+margin-bottom:15px}
+strong{color:#e8c16b;font-size:26px;display:block}
+input{width:100%;accent-color:#e8c16b}
+button{padding:15px;border:0;border-radius:10px}
+.coin{border:5px double #e8c16b;border-radius:50%;
+width:110px;height:110px;display:grid;
+place-items:center;margin:auto;color:#e8c16b;
+font-size:60px}
+</style>
+<meta name="description" content="CRAFTY INFINITY adult-only commercial ecosystem development and token economics research. Simulation only."><meta name="robots" content="noindex,nofollow"></head>
+<body>
+<div style="padding:16px;background:#302818;
+color:#ffe5a3;text-align:center">
+<strong>DEVELOPMENT PREVIEW</strong><br>
+No token sale is open. No deposits accepted.
+All economic and customer figures are simulations.
+Adults only. Cryptocurrency involves risk.
+</div>
+<main>
+<header>
+<div class="coin">C</div>
+<h1>CRAFTY<br>INFINITY</h1>
+<p>Stay Crafty. Think Infinite.</p>
+<p>GENESIS DEVELOPMENT PREVIEW — ADULTS ONLY</p>
+</header>
+<div class="grid">
+<div class="card"><strong>1,000,000</strong>
+Proposed maximum supply</div>
+<div class="card"><strong>R10</strong>
+Proposed presale price</div>
+<div class="card"><strong>R2 million</strong>
+Gross funding target</div>
+<div class="card"><strong>R0</strong>
+Funds collected by this prototype</div>
+</div>
+<section>
+<h2>Genesis allocation</h2>
+<div id="allocation"></div>
+</section>
+<section>
+<h2>Presale calculator</h2>
+<p>Hypothetical calculation. No reservation.</p>
+<input type="range" id="amount"
+min="100" max="100000" step="100" value="1000">
+<strong id="result"></strong>
+<button disabled>Presale disabled</button>
+</section>
+<section>
+<h2>Infinity scarcity protocol</h2>
+<p>Eight-year reward halvings.</p>
+<p>Five percent annual remaining reserve burn.</p>
+<p>Permanent proposed supply cap.</p>
+<p>Scarcity does not guarantee appreciation.</p>
+</section>
+<section>
+<h2>Research and transparency</h2>
+<p><a href="whitepaper.txt">Draft whitepaper</a></p>
+<p><a href="simulation.json">100-year simulation</a></p>
+</section>
+<section>
+<h2>Financial safety</h2>
+<p>Mainnet: Disabled</p>
+<p>Payments: Disabled</p>
+<p>Escrow: Not configured</p>
+<p>Legal and independent audit: Pending</p>
+<p>Cryptocurrency may lose its entire value.</p>
+<p>Independent of ColourCraft Kids.</p>
+</section>
+<section><h2>Treasury</h2></section><section><h2>Proof of Contribution</h2><p>Seven proposed contribution categories.</p><p>Progressively increasing difficulty.</p><p>Eight-year reward halvings.</p><p>Simulation only. No real mining rewards.</p><a href="mining.json">100-year mining research report</a></section><section><h2>ChronoBurn Protocol</h2><p>Scheduled reserve destruction.</p><p>Proposed commercial token burns.</p><p>Five-year founder vesting.</p><p>Transparent supply conservation.</p><p>All results are simulations.</p><a href="scarcity.json">100-year scarcity research</a></section><section><h2>Genesis Community</h2><p>Adult-only development preview.</p><p>Registration is not open.</p><a href="community.html">Community demonstration dashboard</a></section><section><h2>Commercial Ecosystem</h2><p>Six proposed business integrations.</p><p>All services remain unconnected.</p><a href="ecosystem.html">Commercial research dashboard</a></section><section><h2>Global Marketing Research</h2><p>Campaigns remain unpublished.</p></section></main>
+<script>
+const a=document.getElementById("amount");
+function update(){
+ document.getElementById("result").textContent=
+ "R"+Number(a.value).toLocaleString()+
+ " = "+(Number(a.value)/10).toLocaleString()+
+ " hypothetical CRAFTY";
+}
+a.addEventListener("input",update);
+update();
+const allocations=[
+ ["Mining",35],["Presale",20],["Burn",15],
+ ["Liquidity",10],["Ecosystem",10],
+ ["Founder",5],["Partnerships",5]
+];
+for(const [name,n] of allocations){
+ const p=document.createElement("p");
+ p.textContent=name+" — "+n+"%";
+ document.getElementById("allocation").appendChild(p);
+}
+</script>
+</body>
+</html>
